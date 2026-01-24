@@ -454,6 +454,7 @@ def generateHTML(codes):
 					<option value="default">Actions ...</option>
 					<option value="new">New deck</option>
 					<option value="import">Import deck</option>
+					<option value="load-text">Text Input</option>
 					<option value="clipboard">Copy to clipboard</option>
 					<option value="export-dek">Export .dek</option>
 					<option value="export-txt">Export .txt</option>
@@ -557,6 +558,12 @@ def generateHTML(codes):
 			preSearch();
 		}
 
+		function openTextareaModal() {
+			html = '<span class="close" onclick="closeModal()">&times;</span><textarea placeholder="Paste decklist here..." style="resize: none;height: 40vh;width: 90%;" id="input-area"></textarea><span class="load-btn" onclick="readDeckText(document.getElementById(`input-area`).value);">Load Deck</span>'
+			document.getElementById("modal-container").style.display = "block";
+			document.getElementById("modal-content").innerHTML = html;
+		}
+
 		document.getElementById("sort-by").onchange = displayChangeListener;
 		document.getElementById("sort-order").onchange = displayChangeListener;
 
@@ -577,6 +584,10 @@ def generateHTML(codes):
 			else if (option == "clipboard" || option.startsWith("export"))
 			{
 				exportFile(option);
+			}
+			else if (option == "load-text")
+			{
+				openTextareamodel();
 			}
 		});
 

@@ -1,0 +1,679 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="/sets/RFA-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>RFA visual preview</title>
+	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('/resources/beleren.ttf');
+		}
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('/img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('/img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 80px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('/img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('/img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 5%;
+			width: fit-content;
+			max-width: 90%;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: grid;
+			grid-template-columns: 1fr;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
+		}
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
+		}
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/RFA-files/logo.png" />
+	<img class="preload-hidden" src="/sets/CFV-files/icon.png" />
+		<img class="preload-hidden" src="/sets/PTN-files/icon.png" />
+		<img class="preload-hidden" src="/sets/RFA-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="RFA"><img src="/sets/RFA-files/icon.png">Rites of Foveaana</a>
+	
+		<a class="set-bar inactive" href="CFV"><img src="/sets/CFV-files/icon.png">Cardfight!! Vanguard</a>
+	
+		<a class="set-bar inactive" href="PTN"><img src="/sets/PTN-files/icon.png">Port Noon: Occult Islands of Vespera</a>
+	
+		</div>
+		<div class="banner">
+		<img class="logo" src="/sets/RFA-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+					<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\20_UW01.jpg" id="20_UW01" data-flag="@X" onclick="openSidebar('20_UW01',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\RFA-files\img\52_RU01 Startled Awake_back.jpg" alt="/sets\RFA-files\img\52_RU01 Startled Awake_front.jpg" id="52_RU01 Startled Awake" data-flag="@XD" onclick="openSidebar('52_RU01 Startled Awake',false)"><button class="flip-btn" onclick="imgFlip('52_RU01 Startled Awake')"></button></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\85_UB01 Stats.jpg" id="85_UB01 Stats" data-flag="@X" onclick="openSidebar('85_UB01 Stats',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\117_UR01.jpg" id="117_UR01" data-flag="@X" onclick="openSidebar('117_UR01',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\149_UG01.jpg" id="149_UG01" data-flag="@X" onclick="openSidebar('149_UG01',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\21_UW02 R Prowess.jpg" id="21_UW02 R Prowess" data-flag="@X" onclick="openSidebar('21_UW02 R Prowess',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\53_UU01 Mill.jpg" id="53_UU01 Mill" data-flag="@X" onclick="openSidebar('53_UU01 Mill',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\RFA-files\img\86_UB02 Escape_back.jpg" alt="/sets\RFA-files\img\86_UB02 Escape_front.jpg" id="86_UB02 Escape" data-flag="@XD" onclick="openSidebar('86_UB02 Escape',false)"><button class="flip-btn" onclick="imgFlip('86_UB02 Escape')"></button></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\118_UR02 Discard.jpg" id="118_UR02 Discard" data-flag="@X" onclick="openSidebar('118_UR02 Discard',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\150_UG02.jpg" id="150_UG02" data-flag="@X" onclick="openSidebar('150_UG02',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\RFA-files\img\22_UW03 Flying_back.jpg" alt="/sets\RFA-files\img\22_UW03 Flying_front.jpg" id="22_UW03 Flying" data-flag="@XD" onclick="openSidebar('22_UW03 Flying',false)"><button class="flip-btn" onclick="imgFlip('22_UW03 Flying')"></button></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\54_UU02.jpg" id="54_UU02" data-flag="@X" onclick="openSidebar('54_UU02',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\87_UB03 Clue.jpg" id="87_UB03 Clue" data-flag="@X" onclick="openSidebar('87_UB03 Clue',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\119_UR03 Thief.jpg" id="119_UR03 Thief" data-flag="@X" onclick="openSidebar('119_UR03 Thief',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\151_UG03 Multi Type.jpg" id="151_UG03 Multi Type" data-flag="@X" onclick="openSidebar('151_UG03 Multi Type',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\23_UW04 Young Dream-Binder.jpg" id="23_UW04 Young Dream-Binder" data-flag="@X" onclick="openSidebar('23_UW04 Young Dream-Binder',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\55_UU03 Hate.jpg" id="55_UU03 Hate" data-flag="@X" onclick="openSidebar('55_UU03 Hate',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\88_UB04 Mill.jpg" id="88_UB04 Mill" data-flag="@X" onclick="openSidebar('88_UB04 Mill',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\120_UR04 Exile.jpg" id="120_UR04 Exile" data-flag="@X" onclick="openSidebar('120_UR04 Exile',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\152_UG04 Exile.jpg" id="152_UG04 Exile" data-flag="@X" onclick="openSidebar('152_UG04 Exile',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\24_UW05 Hate.jpg" id="24_UW05 Hate" data-flag="@X" onclick="openSidebar('24_UW05 Hate',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\56_UU04.jpg" id="56_UU04" data-flag="@X" onclick="openSidebar('56_UU04',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\89_UB05 W Wide.jpg" id="89_UB05 W Wide" data-flag="@X" onclick="openSidebar('89_UB05 W Wide',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\121_UR05 W Prowess.jpg" id="121_UR05 W Prowess" data-flag="@X" onclick="openSidebar('121_UR05 W Prowess',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\153_UG05 Exile.jpg" id="153_UG05 Exile" data-flag="@X" onclick="openSidebar('153_UG05 Exile',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\25_UW06 Multi Archetype.jpg" id="25_UW06 Multi Archetype" data-flag="@X" onclick="openSidebar('25_UW06 Multi Archetype',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\57_UU05.jpg" id="57_UU05" data-flag="@X" onclick="openSidebar('57_UU05',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\90_UB06 I Clues.jpg" id="90_UB06 I Clues" data-flag="@X" onclick="openSidebar('90_UB06 I Clues',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\122_UR06.jpg" id="122_UR06" data-flag="@X" onclick="openSidebar('122_UR06',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\154_UG06.jpg" id="154_UG06" data-flag="@X" onclick="openSidebar('154_UG06',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\26_UW07 I Lifegain.jpg" id="26_UW07 I Lifegain" data-flag="@X" onclick="openSidebar('26_UW07 I Lifegain',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\58_UU06 Counters.jpg" id="58_UU06 Counters" data-flag="@X" onclick="openSidebar('58_UU06 Counters',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\RFA-files\img\91_UB07 Multi Type_back.jpg" alt="/sets\RFA-files\img\91_UB07 Multi Type_front.jpg" id="91_UB07 Multi Type" data-flag="@XD" onclick="openSidebar('91_UB07 Multi Type',false)"><button class="flip-btn" onclick="imgFlip('91_UB07 Multi Type')"></button></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\123_UR07.jpg" id="123_UR07" data-flag="@X" onclick="openSidebar('123_UR07',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\155_UG07.jpg" id="155_UG07" data-flag="@X" onclick="openSidebar('155_UG07',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\27_UW08 B Wide.jpg" id="27_UW08 B Wide" data-flag="@X" onclick="openSidebar('27_UW08 B Wide',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\59_UU07.jpg" id="59_UU07" data-flag="@X" onclick="openSidebar('59_UU07',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\92_UB08 Clue.jpg" id="92_UB08 Clue" data-flag="@X" onclick="openSidebar('92_UB08 Clue',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\124_UR08 Discard CA.jpg" id="124_UR08 Discard CA" data-flag="@X" onclick="openSidebar('124_UR08 Discard CA',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\156_UG08.jpg" id="156_UG08" data-flag="@X" onclick="openSidebar('156_UG08',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\28_UW09 Enchantment.jpg" id="28_UW09 Enchantment" data-flag="@X" onclick="openSidebar('28_UW09 Enchantment',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\60_UU08 Counters.jpg" id="60_UU08 Counters" data-flag="@X" onclick="openSidebar('60_UU08 Counters',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\93_UB09 Withering Torment.jpg" id="93_UB09 Withering Torment" data-flag="@X" onclick="openSidebar('93_UB09 Withering Torment',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\125_UR09 Burning Vengeance.jpg" id="125_UR09 Burning Vengeance" data-flag="@X" onclick="openSidebar('125_UR09 Burning Vengeance',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\157_UG09.jpg" id="157_UG09" data-flag="@X" onclick="openSidebar('157_UG09',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\29_UW10.jpg" id="29_UW10" data-flag="@X" onclick="openSidebar('29_UW10',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\61_UU09.jpg" id="61_UU09" data-flag="@X" onclick="openSidebar('61_UU09',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\94_UB10 Multi Type.jpg" id="94_UB10 Multi Type" data-flag="@X" onclick="openSidebar('94_UB10 Multi Type',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\126_UR10.jpg" id="126_UR10" data-flag="@X" onclick="openSidebar('126_UR10',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\158_UG10.jpg" id="158_UG10" data-flag="@X" onclick="openSidebar('158_UG10',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\30_UW11 Foretell.jpg" id="30_UW11 Foretell" data-flag="@X" onclick="openSidebar('30_UW11 Foretell',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\62_UU10.jpg" id="62_UU10" data-flag="@X" onclick="openSidebar('62_UU10',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\95_UB11 Mill.jpg" id="95_UB11 Mill" data-flag="@X" onclick="openSidebar('95_UB11 Mill',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\127_UR11.jpg" id="127_UR11" data-flag="@X" onclick="openSidebar('127_UR11',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\159_UG11.jpg" id="159_UG11" data-flag="@X" onclick="openSidebar('159_UG11',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\31_UW12.jpg" id="31_UW12" data-flag="@X" onclick="openSidebar('31_UW12',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\63_UU11.jpg" id="63_UU11" data-flag="@X" onclick="openSidebar('63_UU11',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\96_UB12 R Gravecast.jpg" id="96_UB12 R Gravecast" data-flag="@X" onclick="openSidebar('96_UB12 R Gravecast',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\128_UR12 Finisher.jpg" id="128_UR12 Finisher" data-flag="@X" onclick="openSidebar('128_UR12 Finisher',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\160_UG12.jpg" id="160_UG12" data-flag="@X" onclick="openSidebar('160_UG12',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\32_UW13.jpg" id="32_UW13" data-flag="@X" onclick="openSidebar('32_UW13',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\64_UU12.jpg" id="64_UU12" data-flag="@X" onclick="openSidebar('64_UU12',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\97_UB13 Incant Zombify.jpg" id="97_UB13 Incant Zombify" data-flag="@X" onclick="openSidebar('97_UB13 Incant Zombify',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\129_UR13.jpg" id="129_UR13" data-flag="@X" onclick="openSidebar('129_UR13',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\161_UG13.jpg" id="161_UG13" data-flag="@X" onclick="openSidebar('161_UG13',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\33_UW14.jpg" id="33_UW14" data-flag="@X" onclick="openSidebar('33_UW14',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\65_UU13.jpg" id="65_UU13" data-flag="@X" onclick="openSidebar('65_UU13',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\98_UB14 Hate.jpg" id="98_UB14 Hate" data-flag="@X" onclick="openSidebar('98_UB14 Hate',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\130_UR14.jpg" id="130_UR14" data-flag="@X" onclick="openSidebar('130_UR14',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\162_UG14.jpg" id="162_UG14" data-flag="@X" onclick="openSidebar('162_UG14',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\34_UW15 G Enchantments.jpg" id="34_UW15 G Enchantments" data-flag="@X" onclick="openSidebar('34_UW15 G Enchantments',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\66_UU14 Evasion.jpg" id="66_UU14 Evasion" data-flag="@X" onclick="openSidebar('66_UU14 Evasion',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\99_UB15 G Multi Type.jpg" id="99_UB15 G Multi Type" data-flag="@X" onclick="openSidebar('99_UB15 G Multi Type',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\131_UR15.jpg" id="131_UR15" data-flag="@X" onclick="openSidebar('131_UR15',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\163_UG15 Enchantment Bait.jpg" id="163_UG15 Enchantment Bait" data-flag="@X" onclick="openSidebar('163_UG15 Enchantment Bait',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\35_UW16.jpg" id="35_UW16" data-flag="@X" onclick="openSidebar('35_UW16',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\67_UU15 Blank.jpg" id="67_UU15 Blank" data-flag="@X" onclick="openSidebar('67_UU15 Blank',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\100_UB16 U Mill.jpg" id="100_UB16 U Mill" data-flag="@X" onclick="openSidebar('100_UB16 U Mill',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\132_UR16.jpg" id="132_UR16" data-flag="@X" onclick="openSidebar('132_UR16',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\164_UG16 Incant Regrowth.jpg" id="164_UG16 Incant Regrowth" data-flag="@X" onclick="openSidebar('164_UG16 Incant Regrowth',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\36_UW17.jpg" id="36_UW17" data-flag="@X" onclick="openSidebar('36_UW17',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\68_UU16 Tech.jpg" id="68_UU16 Tech" data-flag="@X" onclick="openSidebar('68_UU16 Tech',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\101_UB17.jpg" id="101_UB17" data-flag="@X" onclick="openSidebar('101_UB17',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\133_UR17.jpg" id="133_UR17" data-flag="@X" onclick="openSidebar('133_UR17',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\165_UG17.jpg" id="165_UG17" data-flag="@X" onclick="openSidebar('165_UG17',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\RFA-files\img\5_CW01_back.jpg" alt="/sets\RFA-files\img\5_CW01_front.jpg" id="5_CW01" data-flag="@XD" onclick="openSidebar('5_CW01',false)"><button class="flip-btn" onclick="imgFlip('5_CW01')"></button></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\RFA-files\img\69_UU17 Removal_back.jpg" alt="/sets\RFA-files\img\69_UU17 Removal_front.jpg" id="69_UU17 Removal" data-flag="@XD" onclick="openSidebar('69_UU17 Removal',false)"><button class="flip-btn" onclick="imgFlip('69_UU17 Removal')"></button></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\70_CB01.jpg" id="70_CB01" data-flag="@X" onclick="openSidebar('70_CB01',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\RFA-files\img\102_CR01_back.jpg" alt="/sets\RFA-files\img\102_CR01_front.jpg" id="102_CR01" data-flag="@XD" onclick="openSidebar('102_CR01',false)"><button class="flip-btn" onclick="imgFlip('102_CR01')"></button></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\134_CG01.jpg" id="134_CG01" data-flag="@X" onclick="openSidebar('134_CG01',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\6_CW02.jpg" id="6_CW02" data-flag="@X" onclick="openSidebar('6_CW02',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\37_CU01.jpg" id="37_CU01" data-flag="@X" onclick="openSidebar('37_CU01',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\RFA-files\img\71_CB02_back.jpg" alt="/sets\RFA-files\img\71_CB02_front.jpg" id="71_CB02" data-flag="@XD" onclick="openSidebar('71_CB02',false)"><button class="flip-btn" onclick="imgFlip('71_CB02')"></button></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\103_CR02.jpg" id="103_CR02" data-flag="@X" onclick="openSidebar('103_CR02',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\RFA-files\img\135_CG02_back.jpg" alt="/sets\RFA-files\img\135_CG02_front.jpg" id="135_CG02" data-flag="@XD" onclick="openSidebar('135_CG02',false)"><button class="flip-btn" onclick="imgFlip('135_CG02')"></button></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\7_CW03.jpg" id="7_CW03" data-flag="@X" onclick="openSidebar('7_CW03',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\38_CU02.jpg" id="38_CU02" data-flag="@X" onclick="openSidebar('38_CU02',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\72_CB03.jpg" id="72_CB03" data-flag="@X" onclick="openSidebar('72_CB03',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\104_CR03.jpg" id="104_CR03" data-flag="@X" onclick="openSidebar('104_CR03',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\136_CG03.jpg" id="136_CG03" data-flag="@X" onclick="openSidebar('136_CG03',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\8_CW04.jpg" id="8_CW04" data-flag="@X" onclick="openSidebar('8_CW04',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\RFA-files\img\39_CU03_back.jpg" alt="/sets\RFA-files\img\39_CU03_front.jpg" id="39_CU03" data-flag="@XD" onclick="openSidebar('39_CU03',false)"><button class="flip-btn" onclick="imgFlip('39_CU03')"></button></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\73_CB04.jpg" id="73_CB04" data-flag="@X" onclick="openSidebar('73_CB04',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\105_CR04.jpg" id="105_CR04" data-flag="@X" onclick="openSidebar('105_CR04',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\137_CG04.jpg" id="137_CG04" data-flag="@X" onclick="openSidebar('137_CG04',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\9_CW05.jpg" id="9_CW05" data-flag="@X" onclick="openSidebar('9_CW05',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\RFA-files\img\40_CU04_back.jpg" alt="/sets\RFA-files\img\40_CU04_front.jpg" id="40_CU04" data-flag="@XD" onclick="openSidebar('40_CU04',false)"><button class="flip-btn" onclick="imgFlip('40_CU04')"></button></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\74_CB05.jpg" id="74_CB05" data-flag="@X" onclick="openSidebar('74_CB05',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\RFA-files\img\106_CR05_back.jpg" alt="/sets\RFA-files\img\106_CR05_front.jpg" id="106_CR05" data-flag="@XD" onclick="openSidebar('106_CR05',false)"><button class="flip-btn" onclick="imgFlip('106_CR05')"></button></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\138_CG05.jpg" id="138_CG05" data-flag="@X" onclick="openSidebar('138_CG05',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\RFA-files\img\10_CW06_back.jpg" alt="/sets\RFA-files\img\10_CW06_front.jpg" id="10_CW06" data-flag="@XD" onclick="openSidebar('10_CW06',false)"><button class="flip-btn" onclick="imgFlip('10_CW06')"></button></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\41_CU05.jpg" id="41_CU05" data-flag="@X" onclick="openSidebar('41_CU05',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\RFA-files\img\75_CB06_back.jpg" alt="/sets\RFA-files\img\75_CB06_front.jpg" id="75_CB06" data-flag="@XD" onclick="openSidebar('75_CB06',false)"><button class="flip-btn" onclick="imgFlip('75_CB06')"></button></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\107_CR06 Acolyte of the Inferno.jpg" id="107_CR06 Acolyte of the Inferno" data-flag="@X" onclick="openSidebar('107_CR06 Acolyte of the Inferno',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\139_CG06.jpg" id="139_CG06" data-flag="@X" onclick="openSidebar('139_CG06',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\11_CW07.jpg" id="11_CW07" data-flag="@X" onclick="openSidebar('11_CW07',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\42_CU06.jpg" id="42_CU06" data-flag="@X" onclick="openSidebar('42_CU06',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\76_CB07.jpg" id="76_CB07" data-flag="@X" onclick="openSidebar('76_CB07',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\RFA-files\img\108_CR07_back.jpg" alt="/sets\RFA-files\img\108_CR07_front.jpg" id="108_CR07" data-flag="@XD" onclick="openSidebar('108_CR07',false)"><button class="flip-btn" onclick="imgFlip('108_CR07')"></button></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\140_CG07.jpg" id="140_CG07" data-flag="@X" onclick="openSidebar('140_CG07',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\12_CW08.jpg" id="12_CW08" data-flag="@X" onclick="openSidebar('12_CW08',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\43_CU07.jpg" id="43_CU07" data-flag="@X" onclick="openSidebar('43_CU07',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\77_CB08.jpg" id="77_CB08" data-flag="@X" onclick="openSidebar('77_CB08',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\109_CR08.jpg" id="109_CR08" data-flag="@X" onclick="openSidebar('109_CR08',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\141_CG08.jpg" id="141_CG08" data-flag="@X" onclick="openSidebar('141_CG08',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\13_CW09.jpg" id="13_CW09" data-flag="@X" onclick="openSidebar('13_CW09',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\44_CU08.jpg" id="44_CU08" data-flag="@X" onclick="openSidebar('44_CU08',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\RFA-files\img\78_CB09_back.jpg" alt="/sets\RFA-files\img\78_CB09_front.jpg" id="78_CB09" data-flag="@XD" onclick="openSidebar('78_CB09',false)"><button class="flip-btn" onclick="imgFlip('78_CB09')"></button></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\110_CR09.jpg" id="110_CR09" data-flag="@X" onclick="openSidebar('110_CR09',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\RFA-files\img\142_CG09_back.jpg" alt="/sets\RFA-files\img\142_CG09_front.jpg" id="142_CG09" data-flag="@XD" onclick="openSidebar('142_CG09',false)"><button class="flip-btn" onclick="imgFlip('142_CG09')"></button></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\14_CW10.jpg" id="14_CW10" data-flag="@X" onclick="openSidebar('14_CW10',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\45_CU09 Protection.jpg" id="45_CU09 Protection" data-flag="@X" onclick="openSidebar('45_CU09 Protection',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\79_CB10 Weak Removal.jpg" id="79_CB10 Weak Removal" data-flag="@X" onclick="openSidebar('79_CB10 Weak Removal',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\111_CR10 Magma Spray.jpg" id="111_CR10 Magma Spray" data-flag="@X" onclick="openSidebar('111_CR10 Magma Spray',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\RFA-files\img\143_CG10_back.jpg" alt="/sets\RFA-files\img\143_CG10_front.jpg" id="143_CG10" data-flag="@XD" onclick="openSidebar('143_CG10',false)"><button class="flip-btn" onclick="imgFlip('143_CG10')"></button></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\15_CW11.jpg" id="15_CW11" data-flag="@X" onclick="openSidebar('15_CW11',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\46_CU10 Unsubstantiate.jpg" id="46_CU10 Unsubstantiate" data-flag="@X" onclick="openSidebar('46_CU10 Unsubstantiate',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\80_CB11 Trick.jpg" id="80_CB11 Trick" data-flag="@X" onclick="openSidebar('80_CB11 Trick',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\112_CR11 Trick.jpg" id="112_CR11 Trick" data-flag="@X" onclick="openSidebar('112_CR11 Trick',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\144_CG11 Bite.jpg" id="144_CG11 Bite" data-flag="@X" onclick="openSidebar('144_CG11 Bite',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\16_CW12 Combat Removal.jpg" id="16_CW12 Combat Removal" data-flag="@X" onclick="openSidebar('16_CW12 Combat Removal',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\47_CU11 Cantrip.jpg" id="47_CU11 Cantrip" data-flag="@X" onclick="openSidebar('47_CU11 Cantrip',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\81_CB12 Draw.jpg" id="81_CB12 Draw" data-flag="@X" onclick="openSidebar('81_CB12 Draw',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\RFA-files\img\113_CR12 Read the Flame_back.jpg" alt="/sets\RFA-files\img\113_CR12 Read the Flame_front.jpg" id="113_CR12 Read the Flame" data-flag="@XD" onclick="openSidebar('113_CR12 Read the Flame',false)"><button class="flip-btn" onclick="imgFlip('113_CR12 Read the Flame')"></button></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\145_CG12.jpg" id="145_CG12" data-flag="@X" onclick="openSidebar('145_CG12',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\17_CW13.jpg" id="17_CW13" data-flag="@X" onclick="openSidebar('17_CW13',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\48_CU12 Forgotten Tongues.jpg" id="48_CU12 Forgotten Tongues" data-flag="@X" onclick="openSidebar('48_CU12 Forgotten Tongues',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\82_CB13.jpg" id="82_CB13" data-flag="@X" onclick="openSidebar('82_CB13',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\114_CR13 Shatter.jpg" id="114_CR13 Shatter" data-flag="@X" onclick="openSidebar('114_CR13 Shatter',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\146_CG13 Trick.jpg" id="146_CG13 Trick" data-flag="@X" onclick="openSidebar('146_CG13 Trick',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\18_CW14 Trick.jpg" id="18_CW14 Trick" data-flag="@X" onclick="openSidebar('18_CW14 Trick',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\49_CU13 Lockdown Aura.jpg" id="49_CU13 Lockdown Aura" data-flag="@X" onclick="openSidebar('49_CU13 Lockdown Aura',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\83_CB14 Removal.jpg" id="83_CB14 Removal" data-flag="@X" onclick="openSidebar('83_CB14 Removal',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\115_CR14 Coil.jpg" id="115_CR14 Coil" data-flag="@X" onclick="openSidebar('115_CR14 Coil',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\147_CG14 Better Root Out.jpg" id="147_CG14 Better Root Out" data-flag="@X" onclick="openSidebar('147_CG14 Better Root Out',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\19_CW15 Removal.jpg" id="19_CW15 Removal" data-flag="@X" onclick="openSidebar('19_CW15 Removal',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\50_CU14.jpg" id="50_CU14" data-flag="@X" onclick="openSidebar('50_CU14',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\84_CB15 Crushing Doubt.jpg" id="84_CB15 Crushing Doubt" data-flag="@X" onclick="openSidebar('84_CB15 Crushing Doubt',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\116_CR15 Fireball.jpg" id="116_CR15 Fireball" data-flag="@X" onclick="openSidebar('116_CR15 Fireball',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\148_CG15 Selection.jpg" id="148_CG15 Selection" data-flag="@X" onclick="openSidebar('148_CG15 Selection',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\51_CU15 Modal.jpg" id="51_CU15 Modal" data-flag="@X" onclick="openSidebar('51_CU15 Modal',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="gold" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\200_UM01.jpg" id="200_UM01" data-flag="@X" onclick="openSidebar('200_UM01',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\201_UM02.jpg" id="201_UM02" data-flag="@X" onclick="openSidebar('201_UM02',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\202_UM03.jpg" id="202_UM03" data-flag="@X" onclick="openSidebar('202_UM03',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\203_UM04.jpg" id="203_UM04" data-flag="@X" onclick="openSidebar('203_UM04',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\204_UM05.jpg" id="204_UM05" data-flag="@X" onclick="openSidebar('204_UM05',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\205_UM06.jpg" id="205_UM06" data-flag="@X" onclick="openSidebar('205_UM06',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\208_UM09.jpg" id="208_UM09" data-flag="@X" onclick="openSidebar('208_UM09',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\206_UM07.jpg" id="206_UM07" data-flag="@X" onclick="openSidebar('206_UM07',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\209_UM10.jpg" id="209_UM10" data-flag="@X" onclick="openSidebar('209_UM10',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\207_UM08.jpg" id="207_UM08" data-flag="@X" onclick="openSidebar('207_UM08',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\210_UM11.jpg" id="210_UM11" data-flag="@X" onclick="openSidebar('210_UM11',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\211_UM12.jpg" id="211_UM12" data-flag="@X" onclick="openSidebar('211_UM12',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\212_UM13.jpg" id="212_UM13" data-flag="@X" onclick="openSidebar('212_UM13',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\213_UM14.jpg" id="213_UM14" data-flag="@X" onclick="openSidebar('213_UM14',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\214_UM15.jpg" id="214_UM15" data-flag="@X" onclick="openSidebar('214_UM15',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="colorless" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\1_CA01.jpg" id="1_CA01" data-flag="@X" onclick="openSidebar('1_CA01',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\RFA-files\img\2_CA02_back.jpg" alt="/sets\RFA-files\img\2_CA02_front.jpg" id="2_CA02" data-flag="@XD" onclick="openSidebar('2_CA02',false)"><button class="flip-btn" onclick="imgFlip('2_CA02')"></button></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\3_CA03.jpg" id="3_CA03" data-flag="@X" onclick="openSidebar('3_CA03',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\4_CA05.jpg" id="4_CA05" data-flag="@X" onclick="openSidebar('4_CA05',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\215_CA04.jpg" id="215_CA04" data-flag="@X" onclick="openSidebar('215_CA04',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\216_CA06.jpg" id="216_CA06" data-flag="@X" onclick="openSidebar('216_CA06',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="token" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\1t_Incant Verses.jpg" id="1t_Incant Verses" data-flag="@X" onclick="openSidebar('1t_Incant Verses',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\2t_Mechanics.jpg" id="2t_Mechanics" data-flag="@X" onclick="openSidebar('2t_Mechanics',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\3t_Themes.jpg" id="3t_Themes" data-flag="@X" onclick="openSidebar('3t_Themes',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\RFA-files\img\4t_Themes.jpg" id="4t_Themes" data-flag="@X" onclick="openSidebar('4t_Themes',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+	</div>
+	</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
+
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
+		{
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
+		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.opacity = "1";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.opacity = "0";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL('search', window.location.origin);
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url;
+			}
+	</script>
+</body>
+</html>

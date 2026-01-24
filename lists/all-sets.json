@@ -1,0 +1,19 @@
+﻿{
+    "sets": [
+        {
+            "set_code": "CFV",
+            "set_name": "Cardfight!! Vanguard",
+            "formats": ""
+        },
+        {
+            "set_code": "PTN",
+            "set_name": "Port Noon: Occult Islands of Vespera",
+            "formats": "Voyager"
+        },
+        {
+            "set_code": "RFA",
+            "set_name": "Rites of Foveaana",
+            "formats": ""
+        }
+    ]
+}
