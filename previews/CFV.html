@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<link rel="icon" type="image/png" href="/sets/CFV-files/icon.png"/>
-	<link rel="stylesheet" href="/resources/header.css">
+	<link rel="icon" type="image/png" href="../sets/CFV-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
 	<title>CFV visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
 	<style>
 		@font-face {
 			font-family: Beleren;
-			src: url('/resources/beleren.ttf');
+			src: url('../resources/beleren.ttf');
 		}
 		body {
 			font-family: Arial, sans-serif;
@@ -50,13 +53,15 @@
 			left: 10%;
 			top: 10%;
 			width: 85%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.sidebar-img {
 			vertical-align: middle;
 			width: 100%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.close-btn {
-			background: url('/img/close.png') no-repeat;
+			background: url('../img/close.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 10%;
@@ -67,7 +72,7 @@
 			right: 4%;
 		}
 		.close-btn:hover {
-			background: url('/img/close-hover.png') no-repeat;
+			background: url('../img/close-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -87,6 +92,7 @@
 			display: block;
 			visibility: hidden;
 			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
 		}
 		.banner {
 			width: 100%;
@@ -107,9 +113,10 @@
 		.container img {
 			width: 100%;
 			height: auto;
+			border-radius: 3.733% / 2.677%;
 		}
 		.flip-btn {
-			background: url('/img/flip.png') no-repeat;
+			background: url('../img/flip.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 15%;
@@ -123,7 +130,7 @@
 			opacity: 0.5;
 		}
 		.flip-btn:hover {
-			background: url('/img/flip-hover.png') no-repeat;
+			background: url('../img/flip-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -179,136 +186,152 @@
 	</style>
 </head>
 <body>
-	<img class="preload-hidden" src="/img/dot.png" />
-	<img class="preload-hidden" src="/sets/CFV-files/logo.png" />
-	<img class="preload-hidden" src="/sets/CFV-files/icon.png" />
-		<img class="preload-hidden" src="/sets/PTN-files/icon.png" />
-		<img class="preload-hidden" src="/sets/RFA-files/icon.png" />
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/CFV-files/logo.png" />
+	<img class="preload-hidden" src="../sets/CFV-files/icon.png" />
+		<img class="preload-hidden" src="../sets/PTN-files/icon.png" />
+		<img class="preload-hidden" src="../sets/RFA-files/icon.png" />
 		<div class="header">
 		<div class="search-grid">
-			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
-			<img class="sg-icon" src="/img/search.png">
-			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
-			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
-			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
-			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
 		</div>
 	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
 
 	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
-		<a class="set-bar" href="CFV"><img src="/sets/CFV-files/icon.png">Cardfight!! Vanguard</a>
+		<a class="set-bar" href="../previews/CFV"><img src="../sets/CFV-files/icon.png">Cardfight!! Vanguard</a>
 	
-		<a class="set-bar inactive" href="PTN"><img src="/sets/PTN-files/icon.png">Port Noon: Occult Islands of Vespera</a>
+		<a class="set-bar inactive" href="../previews/PTN"><img src="../sets/PTN-files/icon.png">Port Noon: Occult Islands of Vespera</a>
 	
-		<a class="set-bar inactive" href="RFA"><img src="/sets/RFA-files/icon.png">Rites of Foveaana</a>
+		<a class="set-bar inactive" href="../previews/RFA"><img src="../sets/RFA-files/icon.png">Rites of Foveaana</a>
 	
 		</div>
 		<div class="banner">
-		<img class="logo" src="/sets/CFV-files/logo.png">
+		<img class="logo" src="../sets/CFV-files/logo.png">
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\1_CW01 Topaz Jeweled Beast.jpg" id="1_CW01 Topaz Jeweled Beast" data-flag="@X" onclick="openSidebar('1_CW01 Topaz Jeweled Beast',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\15_CU01 Chainwhip Aquaroid.jpg" id="15_CU01 Chainwhip Aquaroid" data-flag="@X" onclick="openSidebar('15_CU01 Chainwhip Aquaroid',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\29_CB01 Million Rat.jpg" id="29_CB01 Million Rat" data-flag="@X" onclick="openSidebar('29_CB01 Million Rat',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\43_CR01 Combative Hatchling.jpg" id="43_CR01 Combative Hatchling" data-flag="@X" onclick="openSidebar('43_CR01 Combative Hatchling',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\57_CG01.jpg" id="57_CG01" data-flag="@X" onclick="openSidebar('57_CG01',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\2_CW02 Saucer Mechabattler.jpg" id="2_CW02 Saucer Mechabattler" data-flag="@X" onclick="openSidebar('2_CW02 Saucer Mechabattler',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\16_CU02 Breeze Elemental.jpg" id="16_CU02 Breeze Elemental" data-flag="@X" onclick="openSidebar('16_CU02 Breeze Elemental',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\30_CB02 Opulent Vampir.jpg" id="30_CB02 Opulent Vampir" data-flag="@X" onclick="openSidebar('30_CB02 Opulent Vampir',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\44_CR02 Demon Cheer Girl.jpg" id="44_CR02 Demon Cheer Girl" data-flag="@X" onclick="openSidebar('44_CR02 Demon Cheer Girl',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\58_CG02.jpg" id="58_CG02" data-flag="@X" onclick="openSidebar('58_CG02',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\3_CW03 Wingal.jpg" id="3_CW03 Wingal" data-flag="@X" onclick="openSidebar('3_CW03 Wingal',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\17_CU03 Sunken Crewmate.jpg" id="17_CU03 Sunken Crewmate" data-flag="@X" onclick="openSidebar('17_CU03 Sunken Crewmate',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\31_CB03 Skytop Fangblade.jpg" id="31_CB03 Skytop Fangblade" data-flag="@X" onclick="openSidebar('31_CB03 Skytop Fangblade',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\45_CR03 DUO Heart Black.jpg" id="45_CR03 DUO Heart Black" data-flag="@X" onclick="openSidebar('45_CR03 DUO Heart Black',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\59_CG03.jpg" id="59_CG03" data-flag="@X" onclick="openSidebar('59_CG03',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\4_CW04 Aquaroid Heavy Gunner.jpg" id="4_CW04 Aquaroid Heavy Gunner" data-flag="@X" onclick="openSidebar('4_CW04 Aquaroid Heavy Gunner',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\18_CU04 Psychic Bird.jpg" id="18_CU04 Psychic Bird" data-flag="@X" onclick="openSidebar('18_CU04 Psychic Bird',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\32_CB04 Ripple Banshee.jpg" id="32_CB04 Ripple Banshee" data-flag="@X" onclick="openSidebar('32_CB04 Ripple Banshee',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\46_CR04 Molten Claw Raptor.jpg" id="46_CR04 Molten Claw Raptor" data-flag="@X" onclick="openSidebar('46_CR04 Molten Claw Raptor',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\60_CG04.jpg" id="60_CG04" data-flag="@X" onclick="openSidebar('60_CG04',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\5_CW05 Beast Channeler.jpg" id="5_CW05 Beast Channeler" data-flag="@X" onclick="openSidebar('5_CW05 Beast Channeler',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\19_CU05 Star-vader Dracokid.jpg" id="19_CU05 Star-vader Dracokid" data-flag="@X" onclick="openSidebar('19_CU05 Star-vader Dracokid',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\33_CB05 Megacolony Medic.jpg" id="33_CB05 Megacolony Medic" data-flag="@X" onclick="openSidebar('33_CB05 Megacolony Medic',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\47_CR05 Lightning General.jpg" id="47_CR05 Lightning General" data-flag="@X" onclick="openSidebar('47_CR05 Lightning General',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\61_CG05.jpg" id="61_CG05" data-flag="@X" onclick="openSidebar('61_CG05',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\6_CW06 Chain Diviner.jpg" id="6_CW06 Chain Diviner" data-flag="@X" onclick="openSidebar('6_CW06 Chain Diviner',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\20_CU06 Parade Dragon.jpg" id="20_CU06 Parade Dragon" data-flag="@X" onclick="openSidebar('20_CU06 Parade Dragon',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\34_CB06 Boarding Specialist.jpg" id="34_CB06 Boarding Specialist" data-flag="@X" onclick="openSidebar('34_CB06 Boarding Specialist',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\48_CR06 Gunburst Linebacker.jpg" id="48_CR06 Gunburst Linebacker" data-flag="@X" onclick="openSidebar('48_CR06 Gunburst Linebacker',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\62_CG06 Morning Glory Maiden.jpg" id="62_CG06 Morning Glory Maiden" data-flag="@X" onclick="openSidebar('62_CG06 Morning Glory Maiden',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\7_CW07 Sanctuary Guard.jpg" id="7_CW07 Sanctuary Guard" data-flag="@X" onclick="openSidebar('7_CW07 Sanctuary Guard',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\21_CU07 Electromagnet Snapper.jpg" id="21_CU07 Electromagnet Snapper" data-flag="@X" onclick="openSidebar('21_CU07 Electromagnet Snapper',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\35_CB07 Canteen Ghostie.jpg" id="35_CB07 Canteen Ghostie" data-flag="@X" onclick="openSidebar('35_CB07 Canteen Ghostie',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\49_CR07 Raptor Spark Alpha.jpg" id="49_CR07 Raptor Spark Alpha" data-flag="@X" onclick="openSidebar('49_CR07 Raptor Spark Alpha',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\63_CG07.jpg" id="63_CG07" data-flag="@X" onclick="openSidebar('63_CG07',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\8_CW08 Doctoroid Doritas.jpg" id="8_CW08 Doctoroid Doritas" data-flag="@X" onclick="openSidebar('8_CW08 Doctoroid Doritas',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\22_CU08 Spiritual Protection.jpg" id="22_CU08 Spiritual Protection" data-flag="@X" onclick="openSidebar('22_CU08 Spiritual Protection',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\36_CB08 Corrupted Komainu.jpg" id="36_CB08 Corrupted Komainu" data-flag="@X" onclick="openSidebar('36_CB08 Corrupted Komainu',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\50_CR08 Warbringer Oni.jpg" id="50_CR08 Warbringer Oni" data-flag="@X" onclick="openSidebar('50_CR08 Warbringer Oni',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\64_CG08.jpg" id="64_CG08" data-flag="@X" onclick="openSidebar('64_CG08',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\9_CW09 Nurse of Holdheart.jpg" id="9_CW09 Nurse of Holdheart" data-flag="@X" onclick="openSidebar('9_CW09 Nurse of Holdheart',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\23_CU09 Natural Bureaucracy.jpg" id="23_CU09 Natural Bureaucracy" data-flag="@X" onclick="openSidebar('23_CU09 Natural Bureaucracy',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\37_CB09 The Spirits Are Coming.jpg" id="37_CB09 The Spirits Are Coming" data-flag="@X" onclick="openSidebar('37_CB09 The Spirits Are Coming',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\51_CR09 Narukami.jpg" id="51_CR09 Narukami" data-flag="@X" onclick="openSidebar('51_CR09 Narukami',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\65_CG09.jpg" id="65_CG09" data-flag="@X" onclick="openSidebar('65_CG09',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\10_CW10 Thing Saver Dragon.jpg" id="10_CW10 Thing Saver Dragon" data-flag="@X" onclick="openSidebar('10_CW10 Thing Saver Dragon',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\24_CU10 Prayer of Stagnation.jpg" id="24_CU10 Prayer of Stagnation" data-flag="@X" onclick="openSidebar('24_CU10 Prayer of Stagnation',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\38_CB10 Unlife Insurance.jpg" id="38_CB10 Unlife Insurance" data-flag="@X" onclick="openSidebar('38_CB10 Unlife Insurance',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\52_CR10 Dragon-Steel Mantle.jpg" id="52_CR10 Dragon-Steel Mantle" data-flag="@X" onclick="openSidebar('52_CR10 Dragon-Steel Mantle',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\66_CG10 Fight.jpg" id="66_CG10 Fight" data-flag="@X" onclick="openSidebar('66_CG10 Fight',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\11_CW11 Unified Volley.jpg" id="11_CW11 Unified Volley" data-flag="@X" onclick="openSidebar('11_CW11 Unified Volley',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\25_CU11 Forbidden Grimoire.jpg" id="25_CU11 Forbidden Grimoire" data-flag="@X" onclick="openSidebar('25_CU11 Forbidden Grimoire',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\39_CB11 Skull Witch's Augury.jpg" id="39_CB11 Skull Witchs Augury" data-flag="@X" onclick="openSidebar('39_CB11 Skull Witchs Augury',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\53_CR11 Magibullet Creation.jpg" id="53_CR11 Magibullet Creation" data-flag="@X" onclick="openSidebar('53_CR11 Magibullet Creation',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\67_CG11 Bite.jpg" id="67_CG11 Bite" data-flag="@X" onclick="openSidebar('67_CG11 Bite',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\12_CW12 Galactic Cuffs.jpg" id="12_CW12 Galactic Cuffs" data-flag="@X" onclick="openSidebar('12_CW12 Galactic Cuffs',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\26_CU12 Laze Around.jpg" id="26_CU12 Laze Around" data-flag="@X" onclick="openSidebar('26_CU12 Laze Around',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\40_CB12 Geist's Caress.jpg" id="40_CB12 Geists Caress" data-flag="@X" onclick="openSidebar('40_CB12 Geists Caress',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\54_CR12 Hammerknuckle.jpg" id="54_CR12 Hammerknuckle" data-flag="@X" onclick="openSidebar('54_CR12 Hammerknuckle',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\68_CG12 Combat.jpg" id="68_CG12 Combat" data-flag="@X" onclick="openSidebar('68_CG12 Combat',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\13_CW13 Health Checkup.jpg" id="13_CW13 Health Checkup" data-flag="@X" onclick="openSidebar('13_CW13 Health Checkup',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\27_CU13 Space-Time Distortion.jpg" id="27_CU13 Space-Time Distortion" data-flag="@X" onclick="openSidebar('27_CU13 Space-Time Distortion',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\41_CB13 Soul Plunder.jpg" id="41_CB13 Soul Plunder" data-flag="@X" onclick="openSidebar('41_CB13 Soul Plunder',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\55_CR13 Dragon's Power.jpg" id="55_CR13 Dragons Power" data-flag="@X" onclick="openSidebar('55_CR13 Dragons Power',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\69_CG13 Ramp.jpg" id="69_CG13 Ramp" data-flag="@X" onclick="openSidebar('69_CG13 Ramp',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\14_CW14 Overwhelming Light.jpg" id="14_CW14 Overwhelming Light" data-flag="@X" onclick="openSidebar('14_CW14 Overwhelming Light',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\28_CU14 Aria of Longing.jpg" id="28_CU14 Aria of Longing" data-flag="@X" onclick="openSidebar('28_CU14 Aria of Longing',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\42_CB14 Ghastly Realm.jpg" id="42_CB14 Ghastly Realm" data-flag="@X" onclick="openSidebar('42_CB14 Ghastly Realm',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\56_CR14 Black Dwarf Burst.jpg" id="56_CR14 Black Dwarf Burst" data-flag="@X" onclick="openSidebar('56_CR14 Black Dwarf Burst',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\70_CG14 Dig.jpg" id="70_CG14 Dig" data-flag="@X" onclick="openSidebar('70_CG14 Dig',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\86_UM09 Neon Sea Songshaper.jpg" id="86_UM09 Neon Sea Songshaper" data-flag="@X" onclick="openSidebar('86_UM09 Neon Sea Songshaper',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="sets\CFV-files\img\1_CW01 Topaz Jeweled Beast.jpg" id="CFV_1_CW01 Topaz Jeweled Beast" data-flag="@X" onclick="openSidebar('CFV_1_CW01 Topaz Jeweled Beast',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\15_CU01 Chainwhip Aquaroid.jpg" id="CFV_15_CU01 Chainwhip Aquaroid" data-flag="@X" onclick="openSidebar('CFV_15_CU01 Chainwhip Aquaroid',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\29_CB01 Million Rat.jpg" id="CFV_29_CB01 Million Rat" data-flag="@X" onclick="openSidebar('CFV_29_CB01 Million Rat',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\43_CR01 Combative Hatchling.jpg" id="CFV_43_CR01 Combative Hatchling" data-flag="@X" onclick="openSidebar('CFV_43_CR01 Combative Hatchling',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\57_CG01.jpg" id="CFV_57_CG01" data-flag="@X" onclick="openSidebar('CFV_57_CG01',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\2_CW02 Saucer Mechabattler.jpg" id="CFV_2_CW02 Saucer Mechabattler" data-flag="@X" onclick="openSidebar('CFV_2_CW02 Saucer Mechabattler',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\16_CU02 Breeze Elemental.jpg" id="CFV_16_CU02 Breeze Elemental" data-flag="@X" onclick="openSidebar('CFV_16_CU02 Breeze Elemental',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\30_CB02 Opulent Vampir.jpg" id="CFV_30_CB02 Opulent Vampir" data-flag="@X" onclick="openSidebar('CFV_30_CB02 Opulent Vampir',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\44_CR02 Demon Cheer Girl.jpg" id="CFV_44_CR02 Demon Cheer Girl" data-flag="@X" onclick="openSidebar('CFV_44_CR02 Demon Cheer Girl',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\58_CG02.jpg" id="CFV_58_CG02" data-flag="@X" onclick="openSidebar('CFV_58_CG02',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\3_CW03 Wingal.jpg" id="CFV_3_CW03 Wingal" data-flag="@X" onclick="openSidebar('CFV_3_CW03 Wingal',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\17_CU03 Sunken Crewmate.jpg" id="CFV_17_CU03 Sunken Crewmate" data-flag="@X" onclick="openSidebar('CFV_17_CU03 Sunken Crewmate',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\31_CB03 Skytop Fangblade.jpg" id="CFV_31_CB03 Skytop Fangblade" data-flag="@X" onclick="openSidebar('CFV_31_CB03 Skytop Fangblade',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\45_CR03 DUO Heart Black.jpg" id="CFV_45_CR03 DUO Heart Black" data-flag="@X" onclick="openSidebar('CFV_45_CR03 DUO Heart Black',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\59_CG03.jpg" id="CFV_59_CG03" data-flag="@X" onclick="openSidebar('CFV_59_CG03',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\4_CW04 Aquaroid Heavy Gunner.jpg" id="CFV_4_CW04 Aquaroid Heavy Gunner" data-flag="@X" onclick="openSidebar('CFV_4_CW04 Aquaroid Heavy Gunner',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\18_CU04 Psychic Bird.jpg" id="CFV_18_CU04 Psychic Bird" data-flag="@X" onclick="openSidebar('CFV_18_CU04 Psychic Bird',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\32_CB04 Ripple Banshee.jpg" id="CFV_32_CB04 Ripple Banshee" data-flag="@X" onclick="openSidebar('CFV_32_CB04 Ripple Banshee',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\46_CR04 Molten Claw Raptor.jpg" id="CFV_46_CR04 Molten Claw Raptor" data-flag="@X" onclick="openSidebar('CFV_46_CR04 Molten Claw Raptor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\60_CG04.jpg" id="CFV_60_CG04" data-flag="@X" onclick="openSidebar('CFV_60_CG04',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\5_CW05 Beast Channeler.jpg" id="CFV_5_CW05 Beast Channeler" data-flag="@X" onclick="openSidebar('CFV_5_CW05 Beast Channeler',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\19_CU05 Star-vader Dracokid.jpg" id="CFV_19_CU05 Star-vader Dracokid" data-flag="@X" onclick="openSidebar('CFV_19_CU05 Star-vader Dracokid',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\33_CB05 Megacolony Medic.jpg" id="CFV_33_CB05 Megacolony Medic" data-flag="@X" onclick="openSidebar('CFV_33_CB05 Megacolony Medic',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\47_CR05 Lightning General.jpg" id="CFV_47_CR05 Lightning General" data-flag="@X" onclick="openSidebar('CFV_47_CR05 Lightning General',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\61_CG05.jpg" id="CFV_61_CG05" data-flag="@X" onclick="openSidebar('CFV_61_CG05',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\6_CW06 Chain Diviner.jpg" id="CFV_6_CW06 Chain Diviner" data-flag="@X" onclick="openSidebar('CFV_6_CW06 Chain Diviner',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\20_CU06 Parade Dragon.jpg" id="CFV_20_CU06 Parade Dragon" data-flag="@X" onclick="openSidebar('CFV_20_CU06 Parade Dragon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\34_CB06 Boarding Specialist.jpg" id="CFV_34_CB06 Boarding Specialist" data-flag="@X" onclick="openSidebar('CFV_34_CB06 Boarding Specialist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\48_CR06 Gunburst Linebacker.jpg" id="CFV_48_CR06 Gunburst Linebacker" data-flag="@X" onclick="openSidebar('CFV_48_CR06 Gunburst Linebacker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\62_CG06 Morning Glory Maiden.jpg" id="CFV_62_CG06 Morning Glory Maiden" data-flag="@X" onclick="openSidebar('CFV_62_CG06 Morning Glory Maiden',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\7_CW07 Sanctuary Guard.jpg" id="CFV_7_CW07 Sanctuary Guard" data-flag="@X" onclick="openSidebar('CFV_7_CW07 Sanctuary Guard',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\21_CU07 Electromagnet Snapper.jpg" id="CFV_21_CU07 Electromagnet Snapper" data-flag="@X" onclick="openSidebar('CFV_21_CU07 Electromagnet Snapper',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\35_CB07 Canteen Ghostie.jpg" id="CFV_35_CB07 Canteen Ghostie" data-flag="@X" onclick="openSidebar('CFV_35_CB07 Canteen Ghostie',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\49_CR07 Raptor Spark Alpha.jpg" id="CFV_49_CR07 Raptor Spark Alpha" data-flag="@X" onclick="openSidebar('CFV_49_CR07 Raptor Spark Alpha',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\63_CG07.jpg" id="CFV_63_CG07" data-flag="@X" onclick="openSidebar('CFV_63_CG07',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\8_CW08 Doctoroid Doritas.jpg" id="CFV_8_CW08 Doctoroid Doritas" data-flag="@X" onclick="openSidebar('CFV_8_CW08 Doctoroid Doritas',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\22_CU08 Spiritual Protection.jpg" id="CFV_22_CU08 Spiritual Protection" data-flag="@X" onclick="openSidebar('CFV_22_CU08 Spiritual Protection',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\36_CB08 Corrupted Komainu.jpg" id="CFV_36_CB08 Corrupted Komainu" data-flag="@X" onclick="openSidebar('CFV_36_CB08 Corrupted Komainu',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\50_CR08 Warbringer Oni.jpg" id="CFV_50_CR08 Warbringer Oni" data-flag="@X" onclick="openSidebar('CFV_50_CR08 Warbringer Oni',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\64_CG08.jpg" id="CFV_64_CG08" data-flag="@X" onclick="openSidebar('CFV_64_CG08',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\9_CW09 Nurse of Holdheart.jpg" id="CFV_9_CW09 Nurse of Holdheart" data-flag="@X" onclick="openSidebar('CFV_9_CW09 Nurse of Holdheart',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\23_CU09 Natural Bureaucracy.jpg" id="CFV_23_CU09 Natural Bureaucracy" data-flag="@X" onclick="openSidebar('CFV_23_CU09 Natural Bureaucracy',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\37_CB09 The Spirits Are Coming.jpg" id="CFV_37_CB09 The Spirits Are Coming" data-flag="@X" onclick="openSidebar('CFV_37_CB09 The Spirits Are Coming',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\51_CR09 Narukami.jpg" id="CFV_51_CR09 Narukami" data-flag="@X" onclick="openSidebar('CFV_51_CR09 Narukami',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\65_CG09.jpg" id="CFV_65_CG09" data-flag="@X" onclick="openSidebar('CFV_65_CG09',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\10_CW10 Thing Saver Dragon.jpg" id="CFV_10_CW10 Thing Saver Dragon" data-flag="@X" onclick="openSidebar('CFV_10_CW10 Thing Saver Dragon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\24_CU10 Prayer of Stagnation.jpg" id="CFV_24_CU10 Prayer of Stagnation" data-flag="@X" onclick="openSidebar('CFV_24_CU10 Prayer of Stagnation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\38_CB10 Unlife Insurance.jpg" id="CFV_38_CB10 Unlife Insurance" data-flag="@X" onclick="openSidebar('CFV_38_CB10 Unlife Insurance',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\52_CR10 Dragon-Steel Mantle.jpg" id="CFV_52_CR10 Dragon-Steel Mantle" data-flag="@X" onclick="openSidebar('CFV_52_CR10 Dragon-Steel Mantle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\66_CG10 Fight.jpg" id="CFV_66_CG10 Fight" data-flag="@X" onclick="openSidebar('CFV_66_CG10 Fight',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\11_CW11 Unified Volley.jpg" id="CFV_11_CW11 Unified Volley" data-flag="@X" onclick="openSidebar('CFV_11_CW11 Unified Volley',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\25_CU11 Forbidden Grimoire.jpg" id="CFV_25_CU11 Forbidden Grimoire" data-flag="@X" onclick="openSidebar('CFV_25_CU11 Forbidden Grimoire',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\39_CB11 Skull Witch's Augury.jpg" id="CFV_39_CB11 Skull Witchs Augury" data-flag="@X" onclick="openSidebar('CFV_39_CB11 Skull Witchs Augury',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\53_CR11 Magibullet Creation.jpg" id="CFV_53_CR11 Magibullet Creation" data-flag="@X" onclick="openSidebar('CFV_53_CR11 Magibullet Creation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\67_CG11 Bite.jpg" id="CFV_67_CG11 Bite" data-flag="@X" onclick="openSidebar('CFV_67_CG11 Bite',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\12_CW12 Galactic Cuffs.jpg" id="CFV_12_CW12 Galactic Cuffs" data-flag="@X" onclick="openSidebar('CFV_12_CW12 Galactic Cuffs',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\26_CU12 Laze Around.jpg" id="CFV_26_CU12 Laze Around" data-flag="@X" onclick="openSidebar('CFV_26_CU12 Laze Around',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\40_CB12 Geist's Caress.jpg" id="CFV_40_CB12 Geists Caress" data-flag="@X" onclick="openSidebar('CFV_40_CB12 Geists Caress',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\54_CR12 Hammerknuckle.jpg" id="CFV_54_CR12 Hammerknuckle" data-flag="@X" onclick="openSidebar('CFV_54_CR12 Hammerknuckle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\68_CG12 Combat.jpg" id="CFV_68_CG12 Combat" data-flag="@X" onclick="openSidebar('CFV_68_CG12 Combat',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\13_CW13 Health Checkup.jpg" id="CFV_13_CW13 Health Checkup" data-flag="@X" onclick="openSidebar('CFV_13_CW13 Health Checkup',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\27_CU13 Space-Time Distortion.jpg" id="CFV_27_CU13 Space-Time Distortion" data-flag="@X" onclick="openSidebar('CFV_27_CU13 Space-Time Distortion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\41_CB13 Soul Plunder.jpg" id="CFV_41_CB13 Soul Plunder" data-flag="@X" onclick="openSidebar('CFV_41_CB13 Soul Plunder',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\55_CR13 Dragon's Power.jpg" id="CFV_55_CR13 Dragons Power" data-flag="@X" onclick="openSidebar('CFV_55_CR13 Dragons Power',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\69_CG13 Ramp.jpg" id="CFV_69_CG13 Ramp" data-flag="@X" onclick="openSidebar('CFV_69_CG13 Ramp',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\14_CW14 Overwhelming Light.jpg" id="CFV_14_CW14 Overwhelming Light" data-flag="@X" onclick="openSidebar('CFV_14_CW14 Overwhelming Light',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\28_CU14 Aria of Longing.jpg" id="CFV_28_CU14 Aria of Longing" data-flag="@X" onclick="openSidebar('CFV_28_CU14 Aria of Longing',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\42_CB14 Ghastly Realm.jpg" id="CFV_42_CB14 Ghastly Realm" data-flag="@X" onclick="openSidebar('CFV_42_CB14 Ghastly Realm',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\56_CR14 Black Dwarf Burst.jpg" id="CFV_56_CR14 Black Dwarf Burst" data-flag="@X" onclick="openSidebar('CFV_56_CR14 Black Dwarf Burst',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\70_CG14 Dig.jpg" id="CFV_70_CG14 Dig" data-flag="@X" onclick="openSidebar('CFV_70_CG14 Dig',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CFV_er" data-flag="@E" onclick="openSidebar('CFV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CFV_er" data-flag="@E" onclick="openSidebar('CFV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CFV_er" data-flag="@E" onclick="openSidebar('CFV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CFV_er" data-flag="@E" onclick="openSidebar('CFV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CFV_er" data-flag="@E" onclick="openSidebar('CFV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CFV_e" data-flag="@E" onclick="openSidebar('CFV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\86_UM09 Neon Sea Songshaper.jpg" id="CFV_86_UM09 Neon Sea Songshaper" data-flag="@X" onclick="openSidebar('CFV_86_UM09 Neon Sea Songshaper',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CFV_e" data-flag="@E" onclick="openSidebar('CFV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CFV_e" data-flag="@E" onclick="openSidebar('CFV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CFV_e" data-flag="@E" onclick="openSidebar('CFV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CFV_er" data-flag="@E" onclick="openSidebar('CFV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CFV_er" data-flag="@E" onclick="openSidebar('CFV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CFV_er" data-flag="@E" onclick="openSidebar('CFV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CFV_er" data-flag="@E" onclick="openSidebar('CFV_er',false)"></div>
 				<div id="token" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\1t_Cardfight!! Vanguard Clans.jpg" id="1t_Cardfight!! Vanguard Clans" data-flag="@X" onclick="openSidebar('1t_Cardfight!! Vanguard Clans',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\2t_Cardfight!! Vanguard Mechanics.jpg" id="2t_Cardfight!! Vanguard Mechanics" data-flag="@X" onclick="openSidebar('2t_Cardfight!! Vanguard Mechanics',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CFV-files\img\3t_Lock.jpg" id="3t_Lock" data-flag="@X" onclick="openSidebar('3t_Lock',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\1t_Cardfight!! Vanguard Clans.jpg" id="CFV_1t_Cardfight!! Vanguard Clans" data-flag="@X" onclick="openSidebar('CFV_1t_Cardfight!! Vanguard Clans',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\2t_Cardfight!! Vanguard Mechanics.jpg" id="CFV_2t_Cardfight!! Vanguard Mechanics" data-flag="@X" onclick="openSidebar('CFV_2t_Cardfight!! Vanguard Mechanics',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CFV-files\img\3t_Lock.jpg" id="CFV_3t_Lock" data-flag="@X" onclick="openSidebar('CFV_3t_Lock',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CFV_e" data-flag="@E" onclick="openSidebar('CFV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CFV_e" data-flag="@E" onclick="openSidebar('CFV_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CFV_er" data-flag="@E" onclick="openSidebar('CFV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CFV_er" data-flag="@E" onclick="openSidebar('CFV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CFV_er" data-flag="@E" onclick="openSidebar('CFV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CFV_er" data-flag="@E" onclick="openSidebar('CFV_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CFV_er" data-flag="@E" onclick="openSidebar('CFV_er',false)"></div>
 	</div>
 	</div>
 	<div class="sidebar" id="sidebar">
 		<div class="sidebar-container">
-			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_img" class="sidebar-img">
 			<img id="sidebar_h_img" class="sidebar-h-img">
 			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
 		</div>
@@ -321,19 +344,111 @@
 		let specialchars = "";
 
 	document.addEventListener('DOMContentLoaded', async function() {
-		await fetch('/lists/all-cards.json')
+		await fetch(rootPath + '/lists/all-cards.json')
 					.then(response => response.json())
 					.then(json => {
 						card_list = json;
 				}).catch(error => console.error('Error:', error));
 
-				await fetch('/resources/replacechars.txt')
+				await fetch(rootPath + '/resources/replacechars.txt')
 					.then(response => response.text())
 					.then(text => {
 						specialchars = text; 
 				}).catch(error => console.error('Error:', error));
 
 				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1]);
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
 
 		preloadImgs = document.getElementsByClassName('preload-hidden');
 
@@ -368,13 +483,16 @@
 			const flag = img.getAttribute('data-flag');
 
 			if (flag === '@N') {
-				img.src = '/img/card_back.png';
+				img.src = rootPath + '/img/card_back.png';
 				img.removeAttribute("onclick");
 				img.style.cursor = 'default';
 			}
 			else
 			{
-				img.src = img.alt;
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
 
 				if (flag === '@E') {
 					img.removeAttribute("onclick");
@@ -528,16 +646,16 @@
 	});
 
 	function search() {
-		const url = new URL('search', window.location.origin);
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 		url.searchParams.append('search', document.getElementById("search").value);
-		window.location.href = url;
+		window.location.href = url.pathname + url.search;
 	}
 
 		function randomCard() {
 				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
 				let random_card = card_list_arrayified[i];
 
-				const url = new URL('card', window.location.origin);
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 				const params = {
 					set: random_card.set,
 					num: random_card.number,
@@ -547,7 +665,7 @@
 					url.searchParams.append(key, params[key]);
 				}
 
-				window.location.href = url;
+				window.location.href = url.pathname + url.search;
 			}
 	</script>
 </body>

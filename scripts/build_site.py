@@ -6,7 +6,7 @@ import glob
 import re
 
 import list_to_list
-import print_cockatrice_file
+# import print_cockatrice_file
 import print_draft_file
 import print_html_for_index
 import print_html_for_search
@@ -161,13 +161,13 @@ for code in set_codes:
 		except Exception as e:
 			print('Unable to generate draft file for {0}: {1}'.format(code, e))
 
-	# CE: Trice
-	if not os.path.isfile(os.path.join('custom', 'sets', code + '-files', code + '.xml')):
-		try:
-			print_cockatrice_file.generateFile(code)
-			print('Generated Cockatrice file for {0}.'.format(code))
-		except Exception as e:
-			print('Unable to generate Cockatrice file for {0}: {1}'.format(code, e))
+	# # CE: Trice
+	# if not os.path.isfile(os.path.join('custom', 'sets', code + '-files', code + '.xml')):
+	# 	try:
+	# 		print_cockatrice_file.generateFile(code)
+	# 		print('Generated Cockatrice file for {0}.'.format(code))
+	# 	except Exception as e:
+	# 		print('Unable to generate Cockatrice file for {0}: {1}'.format(code, e))
 
 	#CE: this code is all for version history
 	if 'version' not in raw:
