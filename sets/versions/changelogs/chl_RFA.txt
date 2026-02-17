@@ -1,4 +1,491 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+CR02 Firefist Warrior added.
+CR03 Partnered Pyromancers added.
+CR04 Felfire Channeler added.
+CR11 Fight for the Fallen added.
+CR14 Skewer the Critics added.
+CI06 Summoner of the Inner Self added.
+CU01 Spectacle Blank added.
+CU02 Mill added.
+CU03 Mill Incant added.
+CU04 Foretell Kick added.
+CU05 Goodstuff added.
+CU06 Mill added.
+CU07 Spectacle added.
+CU08 Spectacle Large added.
+CU09 Protection/Stall added.
+CU12 Spectacle added.
+CU13 Aura Blank Removal added.
+CU14 Foretell added.
+CU15 Foretell Kick added.
+The Incantation added.
+CB01 Good Wide Types added.
+CB02 Ward added.
+CB03 Clue added.
+CB07 Multi Type added.
+CB05 Goodstuff added.
+CB06 Goodstuff added.
+CB04 Goodstuff added.
+CB08 Wide Types added.
+CB09 Ward added.
+CB10 Weak Removal Clue Types added.
+CB11 Clue Trick added.
+CB13 Multi Type added.
+CB14 Demonic Feeding added.
+Enchantment added.
+Enchantment added.
+Enchantment Dungeoneer added.
+Foretell added.
+Foretell Removal added.
+Foretell Topend added.
+Foretell Wide Wisp-Reader Angel added.
+Gift of Estates added.
+Goodstuff Removal added.
+Incant Nevermore added.
+Lifegain Enabler added.
+Lifegain Fog added.
+Lifegain Angel of Vitality added.
+Spells Incant Charge added.
+Spells Threat added.
+Wide added.
+Wide added.
+Annoying Incant added.
+Blank added.
+Blank Control added.
+Blank Novice Mind-Binder added.
+Flusterstorm but no storm added.
+Foretell Evasive added.
+Foretell Inspiration added.
+Goodstuff added.
+Goodstuff Counter added.
+Goodstuff Removal added.
+Goodstuff Thirst for Mastery added.
+Incant Curiosity added.
+Mill Sphinx added.
+Mill Dream Crab added.
+Spectacle Clone added.
+Spectacle Removal added.
+Spell Dungeoneer added.
+Clue Mill/Kill Payoff added.
+Clue Removal added.
+Clue Wide added.
+Goodstuff Mental Sewage added.
+Goodstuff Withering Torment added.
+Incant Hate added.
+Incant Zombify added.
+Mill added.
+Mill Demise added.
+Multi Type added.
+Multi Type Plumb added.
+Sacrifice Dungeoneer added.
+Ward added.
+Ward Fegnit Dedth added.
+Ward Vicious Gossip added.
+Wide added.
+Wide Clues added.
+Discard added.
+Discard added.
+Discard Engine added.
+Discard Lightning Axe added.
+Exile added.
+Exile Dungeoneer w Ward added.
+Goodstuff Hammer added.
+Goodstuff Magic Thief added.
+Goodstuff Wipe added.
+Incant Discard Phoenix added.
+Incant Finisher added.
+Spectacle Flametounge added.
+Spectacle Light Up the Stage added.
+Spell Aggro added.
+Spell Aggro Burn added.
+Ward added.
+Ward Pump added.
+Bushwhack but worse added.
+Enchantment added.
+Enchantment Incant Buff added.
+Exile added.
+Exile added.
+Exile added.
+Foretell added.
+Foretell added.
+Foretell Ramp added.
+Foretell Ramp added.
+Goodstuff added.
+Goodstuff Spinning Wheel Kick added.
+Incant Regrowth added.
+Landfall Dungeoner added.
+Multi Type added.
+Multi Type Enchantments added.
+Multi Type Ramp Target added.
+Blank added.
+Blank added.
+Blank Ixidrike added.
+Clue added.
+Clue added.
+Discard Clue Spiritweaver added.
+Discard Trick added.
+Discard Furyblade Vampire 2 added.
+Goodstuff Removal added.
+Goodstuff GY added.
+Incant Ramp added.
+Incant Sift added.
+Lifegain added.
+Lifegain added.
+Lifegain added.
+Lifegain Ramp Target added.
+Lifegain Remand added.
+Removal added.
+Blank added.
+Clue Control added.
+Discard added.
+Enchantments added.
+Exile added.
+Foretell added.
+Foretell Ramp added.
+Go Wide added.
+Lifegain added.
+Mill added.
+Multi Type added.
+Prowess Aggro added.
+Ramp added.
+Spectacle added.
+Ward added.
+Generic Large Flying added.
+Incant without Spells added.
+Manalith added.
+Toxic Spells added.
+
+CU01 removed.
+CU02 removed.
+CU03 removed.
+CU04 removed.
+CU05 removed.
+CU07 removed.
+CU06 removed.
+CU08 removed.
+CU09 Protection removed.
+CU12 Forgotten Tongues removed.
+CU13 Lockdown Aura removed.
+CU14 removed.
+CU15 Modal removed.
+CB01 removed.
+CB02 removed.
+CB03 removed.
+CB05 removed.
+CB06 removed.
+CB07 removed.
+CB08 removed.
+CB09 removed.
+CB10 Weak Removal removed.
+CB11 Trick removed.
+CB13 removed.
+CB14 Removal removed.
+CR02 removed.
+CR03 removed.
+CR04 removed.
+CR11 Trick removed.
+CR14 Coil removed.
+CI06 removed.
+Incant Verses removed.
+CB04 removed.
+UM01 removed.
+UM02 removed.
+UM03 removed.
+UM04 removed.
+UM05 removed.
+UM06 removed.
+UM09 removed.
+UM07 removed.
+UM10 removed.
+UM11 removed.
+UM08 removed.
+UM14 removed.
+UM12 removed.
+UM13 removed.
+UM15 removed.
+UW01 removed.
+UW02 R Prowess removed.
+UW13 removed.
+UW14 removed.
+UW05 Hate removed.
+UW07 I Lifegain removed.
+UW17 removed.
+UW08 B Wide removed.
+UW09 Enchantment removed.
+UW10 removed.
+UW11 Foretell removed.
+UU01 Mill removed.
+UU02 removed.
+UU13 removed.
+UU04 removed.
+UU15 Blank removed.
+UU16 Tech removed.
+UU17 Removal removed.
+UU08 Counters removed.
+UU09 removed.
+UU10 removed.
+UU11 removed.
+UB01 Stats removed.
+UB02 Escape removed.
+UB04 Mill removed.
+UB14 Hate removed.
+UB15 G Multi Type removed.
+UB16 U Mill removed.
+UB17 removed.
+UB08 Clue removed.
+UB09 Withering Torment removed.
+UB10 Multi Type removed.
+UB11 Mill removed.
+UR01 removed.
+UR12 Finisher removed.
+UR03 Thief removed.
+UR14 removed.
+UR05 W Prowess removed.
+UR16 removed.
+UR07 removed.
+UR08 Discard CA removed.
+UR09 Burning Vengeance removed.
+UR10 removed.
+UR11 removed.
+UG01 removed.
+UG12 removed.
+UG03 Multi Type removed.
+UG04 Exile removed.
+UG05 Exile removed.
+UG06 removed.
+UG07 removed.
+UG08 removed.
+UG09 removed.
+UG10 removed.
+UG11 removed.
+UI01 removed.
+UI12 removed.
+UI03 removed.
+UI04 Discard removed.
+UI05 Discard removed.
+UI06 Spells removed.
+UI07 removed.
+UI18 Lifegain removed.
+UI09 Discard removed.
+UI10 removed.
+UI11 Blank removed.
+UW12 removed.
+UW03 Flying removed.
+UW04 Young Dream-Binder removed.
+UW15 G Enchantments removed.
+UW16 removed.
+UW06 Multi Archetype removed.
+UU12 removed.
+UU03 Hate removed.
+UU14 Evasion removed.
+UU05 removed.
+UU06 Counters removed.
+UU07 removed.
+UB12 R Gravecast removed.
+UB13 Incant Zombify removed.
+UB06 I Clues removed.
+UB05 W Wide removed.
+UB03 Clue removed.
+UB07 Multi Type removed.
+UR02 Discard removed.
+UR13 removed.
+UR04 Exile removed.
+UR15 removed.
+UR06 removed.
+UR17 removed.
+UG02 removed.
+UG13 removed.
+UG14 removed.
+UG15 Enchantment Bait removed.
+UG16 Incant Regrowth removed.
+UG17 removed.
+UI02 removed.
+UI13 removed.
+UI14 removed.
+UI15 removed.
+UI16 removed.
+UI17 removed.
+UI08 Ixikite removed.
+Themes removed.
+
+CW02
+rules_text: Incant 2 [i](At verse 2+, reset it to cast this spell from your sanctum. If you have no verse, start it at 1. Increase it once on each of your turns by casting an instant or sorcery.)[/i]
+Prowess => Prowess
+Incant 2 [i](If you're not in a dungeon, enter the Incantation.)[/i]
+
+CW04
+rules_text: Foretell {W} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]
+When CW04 enters, if it was cast from exile, destroy target noncreature artifact or enchantment. => When CW04 enters, if it was cast from exile, destroy target noncreature artifact or enchantment.
+Foretell {W} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]
+
+CW06
+
+CW09
+rules_text: Foretell {1}{W} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]
+Create three 1/1 white Spirit enchantment creature tokens. => Create three 1/1 white Spirit enchantment creature tokens.
+Foretell {1}{W} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]
+
+CW10
+rules_text: Incant 4 [i](At verse 4+, reset it to cast this spell from your sanctum. If you have no verse, start it at 1. Increase it once on each of your turns by casting an instant or sorcery.)[/i]
+When CW10 enters, tap up to one target creature. Put a stun counter on it. => When CW10 enters, tap up to one target creature. Put a stun counter on it.
+Incant 4 [i](If you're not in a dungeon, enter the Incantation.)[/i]
+
+CW11
+rules_text: Foretell {3}{W} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]
+Flying => Flying
+Foretell {3}{W} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]
+
+CW12 Combat Removal
+rules_text: Foretell {W} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]
+Combat Removal deals 2 damage to target attacking or blocking creature. If this spell was foretold, it deals 5 instead. => Combat Removal deals 2 damage to target attacking or blocking creature. If this spell was foretold, it deals 5 instead.
+Foretell {W} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]
+
+CW15 Removal
+rules_text: Foretell {1}{W}{W} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]
+Exile target nonland permanent if it's a tapped creature or this spell was foretold. => Exile target nonland permanent if it's a tapped creature or this spell was foretold.
+Foretell {1}{W}{W} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]
+
+CR05
+
+CR06 Acolyte of the Inferno
+type: Creature — Human Monk => Creature
+rules_text: Renown 1 [i](When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)[/i]
+Whenever this creature becomes blocked by a creature, it deals 2 damage to that creature. => Spectacle {1}{R} [i](You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)[/i]
+Ward—Pay 1 life.
+Whenever this creature becomes blocked by a creature, it deals 2 damage to that creature.
+pt: 3/1 => 3/2
+
+CR09
+rules_text: Reach
+When CR09 enters, it deals damage to target creature equal to the number of cards you own in exile. => Reach
+Ward—Pay 2 life.
+When CR09 enters, it deals damage to target creature equal to the number of cards you own in exile.
+
+CR13 Shatter
+rules_text: Incant 4 [i](At verse 4+, reset it to cast this spell from your sanctum. If you have no verse, start it at 1. Increase it once on each of your turns by casting an instant or sorcery.)[/i]
+Destroy up to one target artifact. Up to one target creature with base power 2 or less can't be blocked this turn. => Destroy up to one target artifact. Up to one target creature with base power 2 or less can't be blocked this turn.
+Incant 3 [i](If you're not in a dungeon, enter the Incantation.)[/i]
+
+CG01
+rules_text: Whenever an enchantment you control enters, CG01 gets +1/+1 and gains vigilance.
+{T}: Add {G}. => {T}: Add {G}.
+Disturb {3}{G} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+pt: 1/1 => 1/2
+
+CG02
+rules_text: Reach
+Disturb {4}{G} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => Reach
+When CG02 enters, if it was foretold, create a token that's a copy of it, put a +1/+1 counter on that token.
+Foretell {4}{G} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]
+
+CG04
+rules_text: Renown 1 [i](When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)[/i]
+Each creature you control with a +1/+1 counter on it has trample. => Foretell {4}{G}{G} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]
+When CG04 enters, if it was foretold, it enters with three +1/+1 counter on it.
+
+CG08
+type: Creature => Enchantment Creature — Spirit
+cost: {4}{G} => {3}{G}
+rules_text: Vigilance
+Whenever CG08 attacks, you may exile a card from your graveyard. If you do, it gets +2/+2 until end of turn. => Trample
+CG08 enters with a +1/+1 counter on it if you exiled a card this turn.
+pt: 4/4 => 4/3
+
+CG07
+rules_text: Incant 3 [i](At verse 3+, reset it to cast this spell from your sanctum. If you have no verse, start it at 1. Increase it once on each of your turns by casting an instant or sorcery.)[/i]
+When CG07 enters, another target creature gets +2/+2 and renown 1 until end of turn. => When CG07 enters, create a 1/1 white Spirit enchantment creature token.
+Incant 2 [i](If you're not in a dungeon, enter the Incantation.)[/i]
+pt: 2/4 => 3/3
+
+CG09
+cost: {5}{G} => {3}{G}{G}
+rules_text: When CG09 enters, create two 1/1 white Spirit enchantment creature tokens.
+Disturb {3}{G} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => Reach
+Whenever CG09 attacks, if you exiled a card this turn, create a 1/2 green Forest Dryad land creature token.
+pt: 4/3 => 5/3
+
+CG06
+type: Enchantment Creature — Spirit => Creature
+cost: {3}{G} => {2}{G}
+rules_text: Trample
+CG06 enters with a +1/+1 counter on it if you exiled a card this turn. => Vigilance
+When CG06 enters, target creature gets +2/+2 until end of turn.
+Disturb {G} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+pt: 4/3 => 2/3
+
+CG15 Selection
+rules_text: Incant 3 [i](At verse 3+, reset it to cast this spell from your sanctum. If you have no verse, start it at 1. Increase it once on each of your turns by casting an instant or sorcery.)[/i]
+Mill three cards, then you may return a creature or land card from your graveyard to your hand. => Mill three cards, then you may return a creature or land card from your graveyard to your hand.
+Incant 3 [i](If you're not in a dungeon, enter the Incantation.)[/i]
+
+CI01
+rules_text: Incant 2 [i](At verse 2+, reset it to cast this spell from your sanctum. If you have no verse, start it at 1. Increase it once on each of your turns by casting an instant or sorcery.)[/i]
+When CI01 dies, add {I}. Until your next end step, you don't lose this mana as steps and phases end. => When CI01 dies, add {I}. Until your next end step, you don't lose this mana as steps and phases end.
+Incant 2 [i](If you're not in a dungeon, enter the Incantation.)[/i]
+
+CI02
+rules_text: Discard a card: CI02 gets +2/-2 until end of turn. => Discard a card: CI02 gets +2/-2 until end of turn.
+Disturb {1}{I} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+CI13
+type: Instant => Sorcery
+rules_text: Incant 5 [i](At verse 5+, reset it to cast this spell from your sanctum. If you have no verse, start it at 1. Increase it once on each of your turns by casting an instant or sorcery.)[/i]
+Creatures you control get -1/+2 and gain ward {1} until your next turn. => Target creature loses all abilities.
+Incant 4 [i](If you're not in a dungeon, enter the Incantation.)[/i]
+
+CA01
+rules_text: Incant 1 [i](At verse 1+, reset it to cast this spell from your sanctum. If you have no verse, start it at 1. Increase it once on each of your turns by casting an instant or sorcery.)[/i]
+When CA01 enters, you may discard a card. If you do, put a basic land from your sanctum into your hand. => When CA01 enters, you may discard a card. If you do, put a basic land from your sanctum into your hand.
+Incant 1 [i](If you're not in a dungeon, enter the Incantation.)[/i]
+
+CA02
+
+CA03
+rules_text: {2}, Exile a card from your graveyard: Create a clue token. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Draw a card.”)[/i] => {2}, Exile an instant or sorcery card from your graveyard: Create a clue token. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: Draw a card.”)[/i]
+
+Themes
+rules_text: {I}{W}{U}{B}{R}{G}: Disturb
+{I}{W}{U}{B}{R}{G}: Incant
+{W}{U}: Foretell
+{R}{W}: Prowess
+{I}{G}: Renown
+{U}{B}: Mill
+{I}{W}: Lifegain
+{I}{R}: Discard
+{B}{G}: Multi-type
+{R}{G}: Exile => {W}{U}: Foretell
+{U}{B}: Mill
+{B}{R}: Nonmana Ward
+{R}{G}: Exile
+{G}{W}: Enchantment Tokens
+{W}{B}: Wide
+{B}{G}: Multi Type
+{G}{U}: Kicker Foretell
+{U}{R}: Spectacle
+{R}{W}: Spells Aggro
+{I}{W}: Lifegain
+{I}{U}: Blanking
+{I}{B}: Clue Control
+{I}{R}: Discard
+{I}{G}: Ramp
+
+CU11 Cantrip
+rules_text: This spell costs {2} more to cast from your sanctum.
+Incant 3 [i](At verse 3+, reset it to cast this spell from your sanctum. If you have no verse, start it at 1. Increase it once on each of your turns by casting an instant or sorcery.)[/i]
+Draw a card, then surveil 1. => This spell costs {2} more to cast from your sanctum.
+Draw a card, then surveil 1.
+Incant 3 [i](If you're not in a dungeon, enter the Incantation.)[/i]
+
+CB12 Draw
+rules_text: Sift X, where X is the number of card types among permanents you control. Draw two cards. You lose 2 life. [i](Look at the top X cards of your library, then put any number of them into your sanctum and the rest on top of your library in any order.)[/i] => Sift 2, then draw two cards. You lose 2 life. [i](Look at the top 2 cards of your library, then put any number of them into your sanctum and the rest on top of your library in any order.)[/i]
+Incant 4 [i](If you're not in a dungeon, enter the Incantation.)[/i]
+
+CB15 Crushing Doubt
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
