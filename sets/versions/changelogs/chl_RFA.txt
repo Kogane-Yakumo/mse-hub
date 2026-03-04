@@ -1,4 +1,314 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+RU Startled Awake added.
+UW02 Enchantment added.
+UW01 Enchantment added.
+UW03 Enchantment Dungeoneer added.
+UW04 Foretell added.
+UW05 Foretell Removal added.
+UW06 Foretell Topend added.
+UW07 Foretell-Wide Wisp-Reader Angel added.
+UW08 Gift of Estates added.
+UW09 Goodstuff Removal added.
+UW10 Incant Nevermore added.
+UW12 Lifegain Enabler added.
+UW13 Lifegain Fog added.
+UW11 Lifegain Angel of Vitality added.
+UW14 Spells Incant Charge added.
+UW15 Spells Threat added.
+UW17 Wide added.
+UW16 Wide added.
+UU01 Annoying Incant added.
+UU02 Blank added.
+UU03 Blank Control added.
+UU04 Blank Novice Mind-Binder added.
+UU05 Flusterstorm but no storm added.
+UU06 Foretell Evasive added.
+UU07 Foretell Inspiration added.
+UU08 Goodstuff added.
+UU09 Goodstuff Counter added.
+UU10 Goodstuff Removal added.
+UU11 Goodstuff Thirst for Mastery added.
+UU12 Incant Curiosity added.
+UU14 Mill Sphinx added.
+UU13 Mill Dream Crab added.
+UU15 Spectacle Clone added.
+UU16 Spectacle Removal added.
+UU17 Spell Dungeoneer added.
+UB01 Clue Mill/Kill Payoff added.
+UB02 Clue Removal added.
+UB03 Clue Wide added.
+UB04 Goodstuff Mental Sewage added.
+UB05 Goodstuff Withering Torment added.
+UB06 Incant Hate added.
+UB07 Incant Zombify added.
+UB08 Mill added.
+UB09 Mill Demise added.
+UB10 Multi Type added.
+UB11 Multi Type Plumb added.
+UB12 Sacrifice Dungeoneer added.
+UB13 Ward added.
+UB14 Ward Fegnit Dedth added.
+UB15 Ward Vicious Gossip added.
+UB16 Wide added.
+UB17 Wide Clues added.
+UR01 Discard added.
+UR02 Discard added.
+UR03 Discard Engine added.
+UR04 Discard Lightning Axe added.
+UR05 Exile added.
+UR06 Exile Dungeoneer w Ward added.
+UR07 Goodstuff Hammer added.
+UR08 Goodstuff Magic Thief added.
+UR09 Goodstuff Wipe added.
+UR10 Incant Discard Phoenix added.
+UR11 Incant Finisher added.
+UR12 Spectacle Flametounge added.
+UR13 Spectacle Light Up the Stage added.
+UR15 Spell Aggro added.
+UR16 Spell Aggro Burn added.
+UR14 Ward added.
+UR17 Ward Pump added.
+UG01 Bushwhack but worse added.
+UG02 Enchantment added.
+UG03 Enchantment Incant Buff added.
+UG06 Exile added.
+UG04 Exile added.
+UG05 Exile added.
+UG08 Foretell added.
+UG07 Foretell added.
+UG10 Foretell Ramp added.
+UG09 Foretell Ramp added.
+UG11 Goodstuff added.
+UG12 Goodstuff Spinning Wheel Kick added.
+UG13 Incant Regrowth added.
+UG14 Landfall Dungeoner added.
+UG15 Multi Type added.
+UG16 Multi Type Enchantments added.
+UG17 Multi Type Ramp Target added.
+UI02 Blank added.
+UI01 Blank added.
+UI03 Blank Ixidrike added.
+UI05 Clue added.
+UI06 Clue added.
+UI04 Discard Clue Spiritweaver added.
+UI08 Discard Trick added.
+UI07 Discard Furyblade Vampire 2 added.
+UI10 Goodstuff Removal added.
+UI09 Goodstuff GY added.
+UI11 Incant Ramp added.
+UI12 Incant Sift added.
+UI14 Lifegain added.
+UI15 Lifegain added.
+UI13 Lifegain added.
+UI16 Lifegain Ramp Target added.
+UI17 Lifegain Remand added.
+UI18 Removal added.
+UM12 Blank added.
+UM13 Clue Control added.
+UM14 Discard added.
+UM05 Enchantments added.
+UM04 Exile added.
+UM01 Foretell added.
+UM08 Foretell Ramp added.
+UM06 Go Wide added.
+UM11 Lifegain added.
+UM02 Mill added.
+UM07 Multi Type added.
+UM10 Prowess Aggro added.
+UM15 Ramp added.
+UM09 Spectacle added.
+UM03 Ward added.
+UA01 Generic Large Flying added.
+UA02 Incant without Spells added.
+UA03 Manalith added.
+UA04 Toxic Spells added.
+UL02 River of Tears added.
+UL15 added.
+UL14 added.
+UL09 added.
+UL10 added.
+UL08 added.
+UL03 added.
+UL01 added.
+UL06 added.
+UL05 added.
+UL07 added.
+UL04 added.
+UL11 added.
+UL12 added.
+UL13 added.
+RM Anti Lifegain added.
+RW The Most Uninspired Card added.
+RI Saccharine Command added.
+RM Pawn Off added.
+RM Blank Walker added.
+RW added.
+RU Gravecast added.
+RB added.
+RI added.
+RB added.
+RR added.
+RG added.
+RR added.
+MG 8 Line Mythic added.
+RM Baba Yaga added.
+RU added.
+RU Obstructionist added.
+ML added.
+
+RU01 Startled Awake removed.
+Enchantment removed.
+Enchantment removed.
+Enchantment Dungeoneer removed.
+Foretell removed.
+Foretell Removal removed.
+Foretell Topend removed.
+Foretell Wide Wisp-Reader Angel removed.
+Gift of Estates removed.
+Goodstuff Removal removed.
+Incant Nevermore removed.
+Lifegain Enabler removed.
+Lifegain Fog removed.
+Lifegain Angel of Vitality removed.
+Spells Incant Charge removed.
+Spells Threat removed.
+Wide removed.
+Wide removed.
+Annoying Incant removed.
+Blank removed.
+Blank Control removed.
+Blank Novice Mind-Binder removed.
+Flusterstorm but no storm removed.
+Foretell Evasive removed.
+Foretell Inspiration removed.
+Goodstuff removed.
+Goodstuff Counter removed.
+Goodstuff Removal removed.
+Goodstuff Thirst for Mastery removed.
+Incant Curiosity removed.
+Mill Sphinx removed.
+Mill Dream Crab removed.
+Spectacle Clone removed.
+Spectacle Removal removed.
+Spell Dungeoneer removed.
+Clue Mill/Kill Payoff removed.
+Clue Removal removed.
+Clue Wide removed.
+Goodstuff Mental Sewage removed.
+Goodstuff Withering Torment removed.
+Incant Hate removed.
+Incant Zombify removed.
+Mill removed.
+Mill Demise removed.
+Multi Type removed.
+Multi Type Plumb removed.
+Sacrifice Dungeoneer removed.
+Ward removed.
+Ward Fegnit Dedth removed.
+Ward Vicious Gossip removed.
+Wide removed.
+Wide Clues removed.
+Discard removed.
+Discard removed.
+Discard Engine removed.
+Discard Lightning Axe removed.
+Exile removed.
+Exile Dungeoneer w Ward removed.
+Goodstuff Hammer removed.
+Goodstuff Magic Thief removed.
+Goodstuff Wipe removed.
+Incant Discard Phoenix removed.
+Incant Finisher removed.
+Spectacle Flametounge removed.
+Spectacle Light Up the Stage removed.
+Spell Aggro removed.
+Spell Aggro Burn removed.
+Ward removed.
+Ward Pump removed.
+Bushwhack but worse removed.
+Enchantment removed.
+Enchantment Incant Buff removed.
+Exile removed.
+Exile removed.
+Exile removed.
+Foretell removed.
+Foretell removed.
+Foretell Ramp removed.
+Foretell Ramp removed.
+Goodstuff removed.
+Goodstuff Spinning Wheel Kick removed.
+Incant Regrowth removed.
+Landfall Dungeoner removed.
+Multi Type removed.
+Multi Type Enchantments removed.
+Multi Type Ramp Target removed.
+Blank removed.
+Blank removed.
+Blank Ixidrike removed.
+Clue removed.
+Clue removed.
+Discard Clue Spiritweaver removed.
+Discard Trick removed.
+Discard Furyblade Vampire 2 removed.
+Goodstuff Removal removed.
+Goodstuff GY removed.
+Incant Ramp removed.
+Incant Sift removed.
+Lifegain removed.
+Lifegain removed.
+Lifegain removed.
+Lifegain Ramp Target removed.
+Lifegain Remand removed.
+Removal removed.
+Blank removed.
+Clue Control removed.
+Discard removed.
+Enchantments removed.
+Exile removed.
+Foretell removed.
+Foretell Ramp removed.
+Go Wide removed.
+Lifegain removed.
+Mill removed.
+Multi Type removed.
+Prowess Aggro removed.
+Ramp removed.
+Spectacle removed.
+Ward removed.
+Generic Large Flying removed.
+Incant without Spells removed.
+Manalith removed.
+Toxic Spells removed.
+
+CW15 Removal
+cost: {2}{W} => {1}{W}
+
+CI07
+rules_text: Discard a card: Draw a card. Activate only once during each of your turns.
+When you discard this card, you may pay {I}. When you do, sift 3 [i](Look at the top 3 cards of your library, then put any number of them into your sanctum and the rest on top of your library in any order.)[/i] => Discard a card: Draw a card. Activate only once during each of your turns.
+When you discard this card, you may pay {I}. When you do, sift 3 [i](Look at the top three cards of your library, then put any number of them into your sanctum and the rest on top of your library in any order.)[/i]
+
+CA01
+type: Creature => Enchantment Creature
+
+CA02
+type: Creature => Artifact Creature
+
+CA03
+type: Creature => Artifact Creature
+
+CB12 Draw
+rules_text: Sift 2, then draw two cards. You lose 2 life. [i](Look at the top 2 cards of your library, then put any number of them into your sanctum and the rest on top of your library in any order.)[/i]
+Incant 4 [i](If you're not in a dungeon, enter the Incantation.)[/i] => Sift 2, then draw two cards. You lose 2 life. [i](To sift 2, look at the top two cards of your library, then put any number of them into your sanctum and the rest on top of your library in any order.)[/i]
+Incant 4 [i](If you're not in a dungeon, enter the Incantation.)[/i]
+
+The Incantation
+rules_text: You may cast a spell with incant 1 or less from your sanctum this turn. If you do, return to the start of this dungeon. => You may cast a spell with incant 1 or less from your sanctum this turn. If you do, return the start of the Incantation.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 CR02 Firefist Warrior added.

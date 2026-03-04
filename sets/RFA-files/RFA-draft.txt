@@ -1,0 +1,3700 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "CW02",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/4_CW02.jpg"
+			}
+		},
+		{
+			"name": "CW03",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/5_CW03.jpg"
+			}
+		},
+		{
+			"name": "CW04",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/6_CW04.jpg"
+			}
+		},
+		{
+			"name": "CW05",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment Creature",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/7_CW05.jpg"
+			}
+		},
+		{
+			"name": "CW08",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/10_CW08.jpg"
+			}
+		},
+		{
+			"name": "CW07",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/9_CW07.jpg"
+			}
+		},
+		{
+			"name": "CW06",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature",
+			"collector_number": "8",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/RFA-files/img/8_CW06_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/8_CW06_front.jpg"
+			}
+		},
+		{
+			"name": "CW09",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/11_CW09.jpg"
+			}
+		},
+		{
+			"name": "CW10",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Enchantment Creature",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/12_CW10.jpg"
+			}
+		},
+		{
+			"name": "CW11",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/13_CW11.jpg"
+			}
+		},
+		{
+			"name": "CW12 Combat Removal",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/14_CW12 Combat Removal.jpg"
+			}
+		},
+		{
+			"name": "CW15 Removal",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/17_CW15 Removal.jpg"
+			}
+		},
+		{
+			"name": "CW14 Trick",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/16_CW14 Trick.jpg"
+			}
+		},
+		{
+			"name": "CW13",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/15_CW13.jpg"
+			}
+		},
+		{
+			"name": "CR01",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature",
+			"collector_number": "107",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/RFA-files/img/107_CR01_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/107_CR01_front.jpg"
+			}
+		},
+		{
+			"name": "CR02 Firefist Warrior",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/108_CR02 Firefist Warrior.jpg"
+			}
+		},
+		{
+			"name": "CR03 Partnered Pyromancers",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Sorcerer",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/109_CR03 Partnered Pyromancers.jpg"
+			}
+		},
+		{
+			"name": "CR05",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature",
+			"collector_number": "111",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/RFA-files/img/111_CR05_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/111_CR05_front.jpg"
+			}
+		},
+		{
+			"name": "CR04 Felfire Channeler",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior Mystic",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/110_CR04 Felfire Channeler.jpg"
+			}
+		},
+		{
+			"name": "CR06 Acolyte of the Inferno",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/112_CR06 Acolyte of the Inferno.jpg"
+			}
+		},
+		{
+			"name": "CR07",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature",
+			"collector_number": "113",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/RFA-files/img/113_CR07_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/113_CR07_front.jpg"
+			}
+		},
+		{
+			"name": "CR08",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/114_CR08.jpg"
+			}
+		},
+		{
+			"name": "CR09",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/115_CR09.jpg"
+			}
+		},
+		{
+			"name": "CR10 Magma Spray",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/116_CR10 Magma Spray.jpg"
+			}
+		},
+		{
+			"name": "CR13 Shatter",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/119_CR13 Shatter.jpg"
+			}
+		},
+		{
+			"name": "CR12 Read the Flame",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "118",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/RFA-files/img/118_CR12 Read the Flame_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/118_CR12 Read the Flame_front.jpg"
+			}
+		},
+		{
+			"name": "CR11 Fight for the Fallen",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/117_CR11 Fight for the Fallen.jpg"
+			}
+		},
+		{
+			"name": "CR14 Skewer the Critics",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/120_CR14 Skewer the Critics.jpg"
+			}
+		},
+		{
+			"name": "CR15 Fireball",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/121_CR15 Fireball.jpg"
+			}
+		},
+		{
+			"name": "CG01",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "141",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/RFA-files/img/141_CG01_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/141_CG01_front.jpg"
+			}
+		},
+		{
+			"name": "CG02",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/142_CG02.jpg"
+			}
+		},
+		{
+			"name": "CG03",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/143_CG03.jpg"
+			}
+		},
+		{
+			"name": "CG04",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/144_CG04.jpg"
+			}
+		},
+		{
+			"name": "CG14 Better Root Out",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/154_CG14 Better Root Out.jpg"
+			}
+		},
+		{
+			"name": "CG08",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/148_CG08.jpg"
+			}
+		},
+		{
+			"name": "CG07",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/147_CG07.jpg"
+			}
+		},
+		{
+			"name": "CG09",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/149_CG09.jpg"
+			}
+		},
+		{
+			"name": "CG06",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature",
+			"collector_number": "146",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/RFA-files/img/146_CG06_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/146_CG06_front.jpg"
+			}
+		},
+		{
+			"name": "CG10",
+			"rarity": "common",
+			"mana_cost": "{6}{G}",
+			"type": "Creature",
+			"collector_number": "150",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/RFA-files/img/150_CG10_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/150_CG10_front.jpg"
+			}
+		},
+		{
+			"name": "CG11 Bite",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/151_CG11 Bite.jpg"
+			}
+		},
+		{
+			"name": "CG12",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/152_CG12.jpg"
+			}
+		},
+		{
+			"name": "CG13 Trick",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/153_CG13 Trick.jpg"
+			}
+		},
+		{
+			"name": "CG05",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/145_CG05.jpg"
+			}
+		},
+		{
+			"name": "CG15 Selection",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/155_CG15 Selection.jpg"
+			}
+		},
+		{
+			"name": "CI01",
+			"rarity": "common",
+			"mana_cost": "{1}{I}",
+			"type": "Creature",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/175_CI01.jpg"
+			}
+		},
+		{
+			"name": "CI02",
+			"rarity": "common",
+			"mana_cost": "{1}{I}",
+			"type": "Creature",
+			"collector_number": "176",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/RFA-files/img/176_CI02_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/176_CI02_front.jpg"
+			}
+		},
+		{
+			"name": "CI03 Amberglow Moths",
+			"rarity": "common",
+			"mana_cost": "{1}{I}",
+			"type": "Creature — Insect",
+			"collector_number": "177",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/RFA-files/img/177_CI03 Amberglow Moths_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/177_CI03 Amberglow Moths_front.jpg"
+			}
+		},
+		{
+			"name": "CI04",
+			"rarity": "common",
+			"mana_cost": "{2}{I}",
+			"type": "Creature",
+			"collector_number": "178",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/RFA-files/img/178_CI04_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/178_CI04_front.jpg"
+			}
+		},
+		{
+			"name": "CI05",
+			"rarity": "common",
+			"mana_cost": "{1}{I}{I}",
+			"type": "Creature",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/179_CI05.jpg"
+			}
+		},
+		{
+			"name": "CI06 Summoner of the Inner Self",
+			"rarity": "common",
+			"mana_cost": "{3}{I}",
+			"type": "Creature — Human Mystic",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/180_CI06 Summoner of the Inner Self.jpg"
+			}
+		},
+		{
+			"name": "CI07",
+			"rarity": "common",
+			"mana_cost": "{4}{I}",
+			"type": "Creature",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/181_CI07.jpg"
+			}
+		},
+		{
+			"name": "CI09",
+			"rarity": "common",
+			"mana_cost": "{5}{I}",
+			"type": "Creature",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/183_CI09.jpg"
+			}
+		},
+		{
+			"name": "CI08",
+			"rarity": "common",
+			"mana_cost": "{4}{I}",
+			"type": "Creature",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/182_CI08.jpg"
+			}
+		},
+		{
+			"name": "CI10 Flowstone",
+			"rarity": "common",
+			"mana_cost": "{I}",
+			"type": "Instant",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/184_CI10 Flowstone.jpg"
+			}
+		},
+		{
+			"name": "CI11 Counterspell",
+			"rarity": "common",
+			"mana_cost": "{1}{I}",
+			"type": "Instant",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/185_CI11 Counterspell.jpg"
+			}
+		},
+		{
+			"name": "CI12 Blank",
+			"rarity": "common",
+			"mana_cost": "{1}{I}",
+			"type": "Instant",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/186_CI12 Blank.jpg"
+			}
+		},
+		{
+			"name": "CI13",
+			"rarity": "common",
+			"mana_cost": "{1}{I}",
+			"type": "Sorcery",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/187_CI13.jpg"
+			}
+		},
+		{
+			"name": "CI14",
+			"rarity": "common",
+			"mana_cost": "{I}",
+			"type": "Sorcery",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/188_CI14.jpg"
+			}
+		},
+		{
+			"name": "CI15 Serum Extraction",
+			"rarity": "common",
+			"mana_cost": "{1}{I}",
+			"type": "Sorcery",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/189_CI15 Serum Extraction.jpg"
+			}
+		},
+		{
+			"name": "Mechanics",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/2t_Mechanics.jpg"
+			}
+		},
+		{
+			"name": "CW01",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature",
+			"collector_number": "3",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/RFA-files/img/3_CW01_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/3_CW01_front.jpg"
+			}
+		},
+		{
+			"name": "CI16",
+			"rarity": "common",
+			"mana_cost": "{3}{I}",
+			"type": "Creature",
+			"collector_number": "190",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/RFA-files/img/190_CI16_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/190_CI16_front.jpg"
+			}
+		},
+		{
+			"name": "CA01",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Enchantment Creature",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/1_CA01.jpg"
+			}
+		},
+		{
+			"name": "CA04",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/232_CA04.jpg"
+			}
+		},
+		{
+			"name": "CA02",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature",
+			"collector_number": "230",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/RFA-files/img/230_CA02_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/230_CA02_front.jpg"
+			}
+		},
+		{
+			"name": "CA03",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/231_CA03.jpg"
+			}
+		},
+		{
+			"name": "CA06",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Clue",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/233_CA06.jpg"
+			}
+		},
+		{
+			"name": "CA05",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Sorcery",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/2_CA05.jpg"
+			}
+		},
+		{
+			"name": "RU Startled Awake",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "55",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/RFA-files/img/55_RU Startled Awake_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/55_RU Startled Awake_front.jpg"
+			}
+		},
+		{
+			"name": "Themes",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/3t_Themes.jpg"
+			}
+		},
+		{
+			"name": "CU01 Spectacle Blank",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/37_CU01 Spectacle Blank.jpg"
+			}
+		},
+		{
+			"name": "CU02 Mill",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature",
+			"collector_number": "38",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/RFA-files/img/38_CU02 Mill_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/38_CU02 Mill_front.jpg"
+			}
+		},
+		{
+			"name": "CU03 Mill Incant",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/39_CU03 Mill Incant.jpg"
+			}
+		},
+		{
+			"name": "CU04 Foretell Kick",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/40_CU04 Foretell Kick.jpg"
+			}
+		},
+		{
+			"name": "CU05 Goodstuff",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature",
+			"collector_number": "41",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/RFA-files/img/41_CU05 Goodstuff_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/41_CU05 Goodstuff_front.jpg"
+			}
+		},
+		{
+			"name": "CU06 Mill",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/42_CU06 Mill.jpg"
+			}
+		},
+		{
+			"name": "CU07 Spectacle",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/43_CU07 Spectacle.jpg"
+			}
+		},
+		{
+			"name": "CU08 Spectacle Large",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/44_CU08 Spectacle Large.jpg"
+			}
+		},
+		{
+			"name": "CU09 Protection/Stall",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/45_CU09 Protection/Stall.jpg"
+			}
+		},
+		{
+			"name": "CU10 Unsubstantiate",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/46_CU10 Unsubstantiate.jpg"
+			}
+		},
+		{
+			"name": "CU11 Cantrip",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/47_CU11 Cantrip.jpg"
+			}
+		},
+		{
+			"name": "CU12 Spectacle",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/48_CU12 Spectacle.jpg"
+			}
+		},
+		{
+			"name": "CU13 Aura Blank Removal",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/49_CU13 Aura Blank Removal.jpg"
+			}
+		},
+		{
+			"name": "CU14 Foretell",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/50_CU14 Foretell.jpg"
+			}
+		},
+		{
+			"name": "CU15 Foretell Kick",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/51_CU15 Foretell Kick.jpg"
+			}
+		},
+		{
+			"name": "CB01 Good Wide Types",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/73_CB01 Good Wide Types.jpg"
+			}
+		},
+		{
+			"name": "CB02 Ward",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/74_CB02 Ward.jpg"
+			}
+		},
+		{
+			"name": "CB03 Clue",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature",
+			"collector_number": "75",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/RFA-files/img/75_CB03 Clue_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/75_CB03 Clue_front.jpg"
+			}
+		},
+		{
+			"name": "CB07 Multi Type",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/79_CB07 Multi Type.jpg"
+			}
+		},
+		{
+			"name": "CB05 Goodstuff",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/77_CB05 Goodstuff.jpg"
+			}
+		},
+		{
+			"name": "CB06 Goodstuff",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature",
+			"collector_number": "78",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/RFA-files/img/78_CB06 Goodstuff_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/78_CB06 Goodstuff_front.jpg"
+			}
+		},
+		{
+			"name": "CB04 Goodstuff",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/76_CB04 Goodstuff.jpg"
+			}
+		},
+		{
+			"name": "CB08 Wide Types",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Artifact Creature",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/80_CB08 Wide Types.jpg"
+			}
+		},
+		{
+			"name": "CB09 Ward",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature",
+			"collector_number": "81",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/RFA-files/img/81_CB09 Ward_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/81_CB09 Ward_front.jpg"
+			}
+		},
+		{
+			"name": "CB10 Weak Removal Clue Types",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/82_CB10 Weak Removal Clue Types.jpg"
+			}
+		},
+		{
+			"name": "CB11 Clue Trick",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/83_CB11 Clue Trick.jpg"
+			}
+		},
+		{
+			"name": "CB12 Draw",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/84_CB12 Draw.jpg"
+			}
+		},
+		{
+			"name": "CB13 Multi Type",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/85_CB13 Multi Type.jpg"
+			}
+		},
+		{
+			"name": "CB14 Demonic Feeding",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/86_CB14 Demonic Feeding.jpg"
+			}
+		},
+		{
+			"name": "CB15 Crushing Doubt",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/87_CB15 Crushing Doubt.jpg"
+			}
+		},
+		{
+			"name": "UW02 Enchantment",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment Creature",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/21_UW02 Enchantment.jpg"
+			}
+		},
+		{
+			"name": "UW01 Enchantment",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment Creature",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/20_UW01 Enchantment.jpg"
+			}
+		},
+		{
+			"name": "UW03 Enchantment Dungeoneer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/22_UW03 Enchantment Dungeoneer.jpg"
+			}
+		},
+		{
+			"name": "UW04 Foretell",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/23_UW04 Foretell.jpg"
+			}
+		},
+		{
+			"name": "UW05 Foretell Removal",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/24_UW05 Foretell Removal.jpg"
+			}
+		},
+		{
+			"name": "UW06 Foretell Topend",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Creature",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/25_UW06 Foretell Topend.jpg"
+			}
+		},
+		{
+			"name": "UW07 Foretell-Wide Wisp-Reader Angel",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Angel Shaman",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/26_UW07 Foretell-Wide Wisp-Reader Angel.jpg"
+			}
+		},
+		{
+			"name": "UW08 Gift of Estates",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/27_UW08 Gift of Estates.jpg"
+			}
+		},
+		{
+			"name": "UW09 Goodstuff Removal",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/28_UW09 Goodstuff Removal.jpg"
+			}
+		},
+		{
+			"name": "UW10 Incant Nevermore",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Creature",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/29_UW10 Incant Nevermore.jpg"
+			}
+		},
+		{
+			"name": "UW12 Lifegain Enabler",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature",
+			"collector_number": "31",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/RFA-files/img/31_UW12 Lifegain Enabler_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/31_UW12 Lifegain Enabler_front.jpg"
+			}
+		},
+		{
+			"name": "UW13 Lifegain Fog",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/32_UW13 Lifegain Fog.jpg"
+			}
+		},
+		{
+			"name": "UW11 Lifegain Angel of Vitality",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/30_UW11 Lifegain Angel of Vitality.jpg"
+			}
+		},
+		{
+			"name": "UW14 Spells Incant Charge",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/33_UW14 Spells Incant Charge.jpg"
+			}
+		},
+		{
+			"name": "UW15 Spells Threat",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/34_UW15 Spells Threat.jpg"
+			}
+		},
+		{
+			"name": "UW17 Wide",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature",
+			"collector_number": "36",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/RFA-files/img/36_UW17 Wide_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/36_UW17 Wide_front.jpg"
+			}
+		},
+		{
+			"name": "UW16 Wide",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature",
+			"collector_number": "35",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/RFA-files/img/35_UW16 Wide_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/35_UW16 Wide_front.jpg"
+			}
+		},
+		{
+			"name": "UU01 Annoying Incant",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/56_UU01 Annoying Incant.jpg"
+			}
+		},
+		{
+			"name": "UU02 Blank",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/57_UU02 Blank.jpg"
+			}
+		},
+		{
+			"name": "UU03 Blank Control",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/58_UU03 Blank Control.jpg"
+			}
+		},
+		{
+			"name": "UU04 Blank Novice Mind-Binder",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/59_UU04 Blank Novice Mind-Binder.jpg"
+			}
+		},
+		{
+			"name": "UU05 Flusterstorm but no storm",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/60_UU05 Flusterstorm but no storm.jpg"
+			}
+		},
+		{
+			"name": "UU06 Foretell Evasive",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/61_UU06 Foretell Evasive.jpg"
+			}
+		},
+		{
+			"name": "UU07 Foretell Inspiration",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/62_UU07 Foretell Inspiration.jpg"
+			}
+		},
+		{
+			"name": "UU08 Goodstuff",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature",
+			"collector_number": "63",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/RFA-files/img/63_UU08 Goodstuff_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/63_UU08 Goodstuff_front.jpg"
+			}
+		},
+		{
+			"name": "UU09 Goodstuff Counter",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{U}",
+			"type": "Instant",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/64_UU09 Goodstuff Counter.jpg"
+			}
+		},
+		{
+			"name": "UU10 Goodstuff Removal",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/65_UU10 Goodstuff Removal.jpg"
+			}
+		},
+		{
+			"name": "UU11 Goodstuff Thirst for Mastery",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/66_UU11 Goodstuff Thirst for Mastery.jpg"
+			}
+		},
+		{
+			"name": "UU12 Incant Curiosity",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/67_UU12 Incant Curiosity.jpg"
+			}
+		},
+		{
+			"name": "UU14 Mill Sphinx",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Sphinx",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/69_UU14 Mill Sphinx.jpg"
+			}
+		},
+		{
+			"name": "UU13 Mill Dream Crab",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Crab",
+			"collector_number": "68",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/RFA-files/img/68_UU13 Mill Dream Crab_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/68_UU13 Mill Dream Crab_front.jpg"
+			}
+		},
+		{
+			"name": "UU15 Spectacle Clone",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/70_UU15 Spectacle Clone.jpg"
+			}
+		},
+		{
+			"name": "UU16 Spectacle Removal",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/71_UU16 Spectacle Removal.jpg"
+			}
+		},
+		{
+			"name": "UU17 Spell Dungeoneer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/72_UU17 Spell Dungeoneer.jpg"
+			}
+		},
+		{
+			"name": "UB01 Clue Mill/Kill Payoff",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/90_UB01 Clue Mill/Kill Payoff.jpg"
+			}
+		},
+		{
+			"name": "UB02 Clue Removal",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/91_UB02 Clue Removal.jpg"
+			}
+		},
+		{
+			"name": "UB03 Clue Wide",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Clue",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/92_UB03 Clue Wide.jpg"
+			}
+		},
+		{
+			"name": "UB04 Goodstuff Mental Sewage",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/93_UB04 Goodstuff Mental Sewage.jpg"
+			}
+		},
+		{
+			"name": "UB05 Goodstuff Withering Torment",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/94_UB05 Goodstuff Withering Torment.jpg"
+			}
+		},
+		{
+			"name": "UB06 Incant Hate",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/95_UB06 Incant Hate.jpg"
+			}
+		},
+		{
+			"name": "UB07 Incant Zombify",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/96_UB07 Incant Zombify.jpg"
+			}
+		},
+		{
+			"name": "UB08 Mill",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature",
+			"collector_number": "97",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/RFA-files/img/97_UB08 Mill_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/97_UB08 Mill_front.jpg"
+			}
+		},
+		{
+			"name": "UB09 Mill Demise",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/98_UB09 Mill Demise.jpg"
+			}
+		},
+		{
+			"name": "UB10 Multi Type",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/99_UB10 Multi Type.jpg"
+			}
+		},
+		{
+			"name": "UB11 Multi Type Plumb",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/100_UB11 Multi Type Plumb.jpg"
+			}
+		},
+		{
+			"name": "UB12 Sacrifice Dungeoneer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/101_UB12 Sacrifice Dungeoneer.jpg"
+			}
+		},
+		{
+			"name": "UB13 Ward",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/102_UB13 Ward.jpg"
+			}
+		},
+		{
+			"name": "UB14 Ward Fegnit Dedth",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/103_UB14 Ward Fegnit Dedth.jpg"
+			}
+		},
+		{
+			"name": "UB15 Ward Vicious Gossip",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/104_UB15 Ward Vicious Gossip.jpg"
+			}
+		},
+		{
+			"name": "UB16 Wide",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature",
+			"collector_number": "105",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/RFA-files/img/105_UB16 Wide_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/105_UB16 Wide_front.jpg"
+			}
+		},
+		{
+			"name": "UB17 Wide Clues",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/106_UB17 Wide Clues.jpg"
+			}
+		},
+		{
+			"name": "UR01 Discard",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/124_UR01 Discard.jpg"
+			}
+		},
+		{
+			"name": "UR02 Discard",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature",
+			"collector_number": "125",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/RFA-files/img/125_UR02 Discard_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/125_UR02 Discard_front.jpg"
+			}
+		},
+		{
+			"name": "UR03 Discard Engine",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature",
+			"collector_number": "126",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/RFA-files/img/126_UR03 Discard Engine_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/126_UR03 Discard Engine_front.jpg"
+			}
+		},
+		{
+			"name": "UR04 Discard Lightning Axe",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/127_UR04 Discard Lightning Axe.jpg"
+			}
+		},
+		{
+			"name": "UR05 Exile",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/128_UR05 Exile.jpg"
+			}
+		},
+		{
+			"name": "UR06 Exile Dungeoneer w Ward",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/129_UR06 Exile Dungeoneer w Ward.jpg"
+			}
+		},
+		{
+			"name": "UR07 Goodstuff Hammer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/130_UR07 Goodstuff Hammer.jpg"
+			}
+		},
+		{
+			"name": "UR08 Goodstuff Magic Thief",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/131_UR08 Goodstuff Magic Thief.jpg"
+			}
+		},
+		{
+			"name": "UR09 Goodstuff Wipe",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/132_UR09 Goodstuff Wipe.jpg"
+			}
+		},
+		{
+			"name": "UR10 Incant Discard Phoenix",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/133_UR10 Incant Discard Phoenix.jpg"
+			}
+		},
+		{
+			"name": "UR11 Incant Finisher",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/134_UR11 Incant Finisher.jpg"
+			}
+		},
+		{
+			"name": "UR12 Spectacle Flametounge",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/135_UR12 Spectacle Flametounge.jpg"
+			}
+		},
+		{
+			"name": "UR13 Spectacle Light Up the Stage",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/136_UR13 Spectacle Light Up the Stage.jpg"
+			}
+		},
+		{
+			"name": "UR15 Spell Aggro",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/138_UR15 Spell Aggro.jpg"
+			}
+		},
+		{
+			"name": "UR16 Spell Aggro Burn",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/139_UR16 Spell Aggro Burn.jpg"
+			}
+		},
+		{
+			"name": "UR14 Ward",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/137_UR14 Ward.jpg"
+			}
+		},
+		{
+			"name": "UR17 Ward Pump",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/140_UR17 Ward Pump.jpg"
+			}
+		},
+		{
+			"name": "UG01 Bushwhack but worse",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/158_UG01 Bushwhack but worse.jpg"
+			}
+		},
+		{
+			"name": "UG02 Enchantment",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Enchantment Creature",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/159_UG02 Enchantment.jpg"
+			}
+		},
+		{
+			"name": "UG03 Enchantment Incant Buff",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/160_UG03 Enchantment Incant Buff.jpg"
+			}
+		},
+		{
+			"name": "UG06 Exile",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/163_UG06 Exile.jpg"
+			}
+		},
+		{
+			"name": "UG04 Exile",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/161_UG04 Exile.jpg"
+			}
+		},
+		{
+			"name": "UG05 Exile",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/162_UG05 Exile.jpg"
+			}
+		},
+		{
+			"name": "UG08 Foretell",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/165_UG08 Foretell.jpg"
+			}
+		},
+		{
+			"name": "UG07 Foretell",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/164_UG07 Foretell.jpg"
+			}
+		},
+		{
+			"name": "UG10 Foretell Ramp",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/167_UG10 Foretell Ramp.jpg"
+			}
+		},
+		{
+			"name": "UG09 Foretell Ramp",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/166_UG09 Foretell Ramp.jpg"
+			}
+		},
+		{
+			"name": "UG11 Goodstuff",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature",
+			"collector_number": "168",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/RFA-files/img/168_UG11 Goodstuff_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/168_UG11 Goodstuff_front.jpg"
+			}
+		},
+		{
+			"name": "UG12 Goodstuff Spinning Wheel Kick",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{X}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/169_UG12 Goodstuff Spinning Wheel Kick.jpg"
+			}
+		},
+		{
+			"name": "UG13 Incant Regrowth",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/170_UG13 Incant Regrowth.jpg"
+			}
+		},
+		{
+			"name": "UG14 Landfall Dungeoner",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/171_UG14 Landfall Dungeoner.jpg"
+			}
+		},
+		{
+			"name": "UG15 Multi Type",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/172_UG15 Multi Type.jpg"
+			}
+		},
+		{
+			"name": "UG16 Multi Type Enchantments",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment Creature",
+			"collector_number": "173",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/RFA-files/img/173_UG16 Multi Type Enchantments_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/173_UG16 Multi Type Enchantments_front.jpg"
+			}
+		},
+		{
+			"name": "UG17 Multi Type Ramp Target",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}",
+			"type": "Creature",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/174_UG17 Multi Type Ramp Target.jpg"
+			}
+		},
+		{
+			"name": "UI02 Blank",
+			"rarity": "uncommon",
+			"mana_cost": "{I}",
+			"type": "Instant",
+			"collector_number": "194",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/RFA-files/img/194_UI02 Blank_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/194_UI02 Blank_front.jpg"
+			}
+		},
+		{
+			"name": "UI01 Blank",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{I}",
+			"type": "Instant",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/193_UI01 Blank.jpg"
+			}
+		},
+		{
+			"name": "UI03 Blank Ixidrike",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{I}{I}",
+			"type": "Creature",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/195_UI03 Blank Ixidrike.jpg"
+			}
+		},
+		{
+			"name": "UI05 Clue",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{I}",
+			"type": "Creature",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/197_UI05 Clue.jpg"
+			}
+		},
+		{
+			"name": "UI06 Clue",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{I}{I}",
+			"type": "Creature",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/198_UI06 Clue.jpg"
+			}
+		},
+		{
+			"name": "UI04 Discard Clue Spiritweaver",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{I}",
+			"type": "Creature — Elf Mystic",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/196_UI04 Discard Clue Spiritweaver.jpg"
+			}
+		},
+		{
+			"name": "UI08 Discard Trick",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{I}",
+			"type": "Instant",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/200_UI08 Discard Trick.jpg"
+			}
+		},
+		{
+			"name": "UI07 Discard Furyblade Vampire 2",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{I}",
+			"type": "Creature",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/199_UI07 Discard Furyblade Vampire 2.jpg"
+			}
+		},
+		{
+			"name": "UI10 Goodstuff Removal",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{I}",
+			"type": "Enchantment — Aura",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/202_UI10 Goodstuff Removal.jpg"
+			}
+		},
+		{
+			"name": "UI09 Goodstuff GY",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{I}",
+			"type": "Creature",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/201_UI09 Goodstuff GY.jpg"
+			}
+		},
+		{
+			"name": "UI11 Incant Ramp",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{I}",
+			"type": "Sorcery",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/203_UI11 Incant Ramp.jpg"
+			}
+		},
+		{
+			"name": "UI12 Incant Sift",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{I}",
+			"type": "Sorcery",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/204_UI12 Incant Sift.jpg"
+			}
+		},
+		{
+			"name": "UI14 Lifegain",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{I}",
+			"type": "Creature",
+			"collector_number": "206",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/RFA-files/img/206_UI14 Lifegain_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/206_UI14 Lifegain_front.jpg"
+			}
+		},
+		{
+			"name": "UI15 Lifegain",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{I}",
+			"type": "Creature",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/207_UI15 Lifegain.jpg"
+			}
+		},
+		{
+			"name": "UI13 Lifegain",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{I}",
+			"type": "Enchantment",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/205_UI13 Lifegain.jpg"
+			}
+		},
+		{
+			"name": "UI16 Lifegain Ramp Target",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{I}",
+			"type": "Creature",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/208_UI16 Lifegain Ramp Target.jpg"
+			}
+		},
+		{
+			"name": "UI17 Lifegain Remand",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{I}",
+			"type": "Instant",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/209_UI17 Lifegain Remand.jpg"
+			}
+		},
+		{
+			"name": "UI18 Removal",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{I}",
+			"type": "Instant",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/210_UI18 Removal.jpg"
+			}
+		},
+		{
+			"name": "UM12 Blank",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{I}{U}",
+			"type": "Legendary Creature",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/226_UM12 Blank.jpg"
+			}
+		},
+		{
+			"name": "UM13 Clue Control",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{I}{B}",
+			"type": "Legendary Creature",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/227_UM13 Clue Control.jpg"
+			}
+		},
+		{
+			"name": "UM14 Discard",
+			"rarity": "uncommon",
+			"mana_cost": "{I}{R}",
+			"type": "Creature",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/228_UM14 Discard.jpg"
+			}
+		},
+		{
+			"name": "UM05 Enchantments",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Enchantment Creature",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/219_UM05 Enchantments.jpg"
+			}
+		},
+		{
+			"name": "UM04 Exile",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/218_UM04 Exile.jpg"
+			}
+		},
+		{
+			"name": "UM01 Foretell",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Creature",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/215_UM01 Foretell.jpg"
+			}
+		},
+		{
+			"name": "UM08 Foretell Ramp",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/222_UM08 Foretell Ramp.jpg"
+			}
+		},
+		{
+			"name": "UM06 Go Wide",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/220_UM06 Go Wide.jpg"
+			}
+		},
+		{
+			"name": "UM11 Lifegain",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{I}{W}",
+			"type": "Enchantment",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/225_UM11 Lifegain.jpg"
+			}
+		},
+		{
+			"name": "UM02 Mill",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Instant",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/216_UM02 Mill.jpg"
+			}
+		},
+		{
+			"name": "UM07 Multi Type",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Instant",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/221_UM07 Multi Type.jpg"
+			}
+		},
+		{
+			"name": "UM10 Prowess Aggro",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/224_UM10 Prowess Aggro.jpg"
+			}
+		},
+		{
+			"name": "UM15 Ramp",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{I}{G}",
+			"type": "Creature",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/229_UM15 Ramp.jpg"
+			}
+		},
+		{
+			"name": "UM09 Spectacle",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Instant",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/223_UM09 Spectacle.jpg"
+			}
+		},
+		{
+			"name": "UM03 Ward",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/217_UM03 Ward.jpg"
+			}
+		},
+		{
+			"name": "UA01 Generic Large Flying",
+			"rarity": "uncommon",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature",
+			"collector_number": "234",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/RFA-files/img/234_UA01 Generic Large Flying_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/234_UA01 Generic Large Flying_front.jpg"
+			}
+		},
+		{
+			"name": "UA02 Incant without Spells",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/235_UA02 Incant without Spells.jpg"
+			}
+		},
+		{
+			"name": "UA03 Manalith",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/236_UA03 Manalith.jpg"
+			}
+		},
+		{
+			"name": "UA04 Toxic Spells",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/237_UA04 Toxic Spells.jpg"
+			}
+		},
+		{
+			"name": "UL02 River of Tears",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/240_UL02 River of Tears.jpg"
+			}
+		},
+		{
+			"name": "UL15",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/253_UL15.jpg"
+			}
+		},
+		{
+			"name": "UL14",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/252_UL14.jpg"
+			}
+		},
+		{
+			"name": "UL09",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/247_UL09.jpg"
+			}
+		},
+		{
+			"name": "UL10",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/248_UL10.jpg"
+			}
+		},
+		{
+			"name": "UL08",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/246_UL08.jpg"
+			}
+		},
+		{
+			"name": "UL03",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/241_UL03.jpg"
+			}
+		},
+		{
+			"name": "UL01",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/239_UL01.jpg"
+			}
+		},
+		{
+			"name": "UL06",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/244_UL06.jpg"
+			}
+		},
+		{
+			"name": "UL05",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/243_UL05.jpg"
+			}
+		},
+		{
+			"name": "UL07",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/245_UL07.jpg"
+			}
+		},
+		{
+			"name": "UL04",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/242_UL04.jpg"
+			}
+		},
+		{
+			"name": "UL11",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/249_UL11.jpg"
+			}
+		},
+		{
+			"name": "UL12",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/250_UL12.jpg"
+			}
+		},
+		{
+			"name": "UL13",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/251_UL13.jpg"
+			}
+		},
+		{
+			"name": "RM Anti Lifegain",
+			"rarity": "rare",
+			"mana_cost": "{2}{B/R}",
+			"type": "Creature",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/211_RM Anti Lifegain.jpg"
+			}
+		},
+		{
+			"name": "The Incantation",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/1t_The Incantation.jpg"
+			}
+		},
+		{
+			"name": "RW The Most Uninspired Card",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/19_RW The Most Uninspired Card.jpg"
+			}
+		},
+		{
+			"name": "RI Saccharine Command",
+			"rarity": "rare",
+			"mana_cost": "{1}{I}",
+			"type": "Instant",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/192_RI Saccharine Command.jpg"
+			}
+		},
+		{
+			"name": "RM Pawn Off",
+			"rarity": "rare",
+			"mana_cost": "{3}{U/R}",
+			"type": "Sorcery",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/214_RM Pawn Off.jpg"
+			}
+		},
+		{
+			"name": "RM Blank Walker",
+			"rarity": "mythic",
+			"mana_cost": "{2}{I}{U}",
+			"type": "Planeswalker",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/213_RM Blank Walker.jpg"
+			}
+		},
+		{
+			"name": "RW",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "18",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/RFA-files/img/18_RW_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/18_RW_front.jpg"
+			}
+		},
+		{
+			"name": "RU Gravecast",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/53_RU Gravecast.jpg"
+			}
+		},
+		{
+			"name": "RB",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "88",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/RFA-files/img/88_RB_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/88_RB_front.jpg"
+			}
+		},
+		{
+			"name": "RI",
+			"rarity": "rare",
+			"mana_cost": "{I}",
+			"type": "",
+			"collector_number": "191",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/RFA-files/img/191_RI_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/191_RI_front.jpg"
+			}
+		},
+		{
+			"name": "RB",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/89_RB.jpg"
+			}
+		},
+		{
+			"name": "RR",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "123",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/RFA-files/img/123_RR_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/123_RR_front.jpg"
+			}
+		},
+		{
+			"name": "RG",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "157",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/RFA-files/img/157_RG_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/157_RG_front.jpg"
+			}
+		},
+		{
+			"name": "RR",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/122_RR.jpg"
+			}
+		},
+		{
+			"name": "MG 8 Line Mythic",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/156_MG 8 Line Mythic.jpg"
+			}
+		},
+		{
+			"name": "RM Baba Yaga",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/212_RM Baba Yaga.jpg"
+			}
+		},
+		{
+			"name": "RU",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/52_RU.jpg"
+			}
+		},
+		{
+			"name": "RU Obstructionist",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/54_RU Obstructionist.jpg"
+			}
+		},
+		{
+			"name": "ML",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://mse-hub/sets/RFA-files/img/238_ML.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	2 RU Startled Awake
+	2 RM Anti Lifegain
+	2 RW The Most Uninspired Card
+	2 RI Saccharine Command
+	2 RM Pawn Off
+	1 RM Blank Walker
+	2 RW
+	2 RU Gravecast
+	2 RB
+	2 RI
+	2 RB
+	2 RR
+	2 RG
+	2 RR
+	1 MG 8 Line Mythic
+	2 RM Baba Yaga
+	2 RU
+	2 RU Obstructionist
+	1 ML
+[uncommon(3)]
+	4 UW02 Enchantment
+	4 UW01 Enchantment
+	4 UW03 Enchantment Dungeoneer
+	4 UW04 Foretell
+	4 UW05 Foretell Removal
+	4 UW06 Foretell Topend
+	4 UW07 Foretell-Wide Wisp-Reader Angel
+	4 UW08 Gift of Estates
+	4 UW09 Goodstuff Removal
+	4 UW10 Incant Nevermore
+	4 UW12 Lifegain Enabler
+	4 UW11 Lifegain Angel of Vitality
+	4 UW14 Spells Incant Charge
+	4 UW15 Spells Threat
+	4 UW17 Wide
+	4 UW16 Wide
+	4 UU01 Annoying Incant
+	4 UU02 Blank
+	4 UU03 Blank Control
+	4 UU04 Blank Novice Mind-Binder
+	4 UU05 Flusterstorm but no storm
+	4 UU06 Foretell Evasive
+	4 UU07 Foretell Inspiration
+	4 UU08 Goodstuff
+	4 UU09 Goodstuff Counter
+	4 UU10 Goodstuff Removal
+	4 UU11 Goodstuff Thirst for Mastery
+	4 UU12 Incant Curiosity
+	4 UU14 Mill Sphinx
+	4 UU13 Mill Dream Crab
+	4 UU15 Spectacle Clone
+	4 UU16 Spectacle Removal
+	4 UU17 Spell Dungeoneer
+	4 UB01 Clue Mill/Kill Payoff
+	4 UB02 Clue Removal
+	4 UB03 Clue Wide
+	4 UB04 Goodstuff Mental Sewage
+	4 UB05 Goodstuff Withering Torment
+	4 UB06 Incant Hate
+	4 UB07 Incant Zombify
+	4 UB08 Mill
+	4 UB09 Mill Demise
+	4 UB10 Multi Type
+	4 UB11 Multi Type Plumb
+	4 UB12 Sacrifice Dungeoneer
+	4 UB13 Ward
+	4 UB14 Ward Fegnit Dedth
+	4 UB15 Ward Vicious Gossip
+	4 UB16 Wide
+	4 UB17 Wide Clues
+	4 UR01 Discard
+	4 UR02 Discard
+	4 UR03 Discard Engine
+	4 UR04 Discard Lightning Axe
+	4 UR05 Exile
+	4 UR06 Exile Dungeoneer w Ward
+	4 UR07 Goodstuff Hammer
+	4 UR08 Goodstuff Magic Thief
+	4 UR09 Goodstuff Wipe
+	4 UR10 Incant Discard Phoenix
+	4 UR11 Incant Finisher
+	4 UR12 Spectacle Flametounge
+	4 UR13 Spectacle Light Up the Stage
+	4 UR15 Spell Aggro
+	4 UR16 Spell Aggro Burn
+	4 UR14 Ward
+	4 UR17 Ward Pump
+	4 UG01 Bushwhack but worse
+	4 UG02 Enchantment
+	4 UG03 Enchantment Incant Buff
+	4 UG06 Exile
+	4 UG04 Exile
+	4 UG05 Exile
+	4 UG08 Foretell
+	4 UG07 Foretell
+	4 UG10 Foretell Ramp
+	4 UG09 Foretell Ramp
+	4 UG11 Goodstuff
+	4 UG12 Goodstuff Spinning Wheel Kick
+	4 UG13 Incant Regrowth
+	4 UG14 Landfall Dungeoner
+	4 UG15 Multi Type
+	4 UG16 Multi Type Enchantments
+	4 UG17 Multi Type Ramp Target
+	4 UI02 Blank
+	4 UI01 Blank
+	4 UI03 Blank Ixidrike
+	4 UI05 Clue
+	4 UI06 Clue
+	4 UI04 Discard Clue Spiritweaver
+	4 UI08 Discard Trick
+	4 UI07 Discard Furyblade Vampire 2
+	4 UI10 Goodstuff Removal
+	4 UI09 Goodstuff GY
+	4 UI11 Incant Ramp
+	4 UI12 Incant Sift
+	4 UI14 Lifegain
+	4 UI15 Lifegain
+	4 UI13 Lifegain
+	4 UI16 Lifegain Ramp Target
+	4 UI17 Lifegain Remand
+	4 UI18 Removal
+	4 UM12 Blank
+	4 UM13 Clue Control
+	4 UM14 Discard
+	4 UM05 Enchantments
+	4 UM04 Exile
+	4 UM01 Foretell
+	4 UM08 Foretell Ramp
+	4 UM06 Go Wide
+	4 UM11 Lifegain
+	4 UM02 Mill
+	4 UM07 Multi Type
+	4 UM10 Prowess Aggro
+	4 UM15 Ramp
+	4 UM09 Spectacle
+	4 UM03 Ward
+	4 UA01 Generic Large Flying
+	4 UA02 Incant without Spells
+	4 UA03 Manalith
+	4 UA04 Toxic Spells
+	4 UL02 River of Tears
+	4 UL15
+	4 UL14
+	4 UL09
+	4 UL10
+	4 UL08
+	4 UL03
+	4 UL01
+	4 UL06
+	4 UL05
+	4 UL07
+	4 UL04
+	4 UL11
+	4 UL12
+	4 UL13
+[common(6)]
+	8 CW02
+	8 CW03
+	8 CW04
+	8 CW05
+	8 CW08
+	8 CW07
+	8 CW06
+	8 CW09
+	8 CW10
+	8 CW11
+	8 CW12 Combat Removal
+	8 CW15 Removal
+	8 CW14 Trick
+	8 CW13
+	8 CR01
+	8 CR02 Firefist Warrior
+	8 CR03 Partnered Pyromancers
+	8 CR05
+	8 CR04 Felfire Channeler
+	8 CR06 Acolyte of the Inferno
+	8 CR07
+	8 CR08
+	8 CR09
+	8 CR10 Magma Spray
+	8 CR13 Shatter
+	8 CR12 Read the Flame
+	8 CR11 Fight for the Fallen
+	8 CR14 Skewer the Critics
+	8 CR15 Fireball
+	8 CG01
+	8 CG02
+	8 CG03
+	8 CG04
+	8 CG14 Better Root Out
+	8 CG08
+	8 CG07
+	8 CG09
+	8 CG06
+	8 CG10
+	8 CG11 Bite
+	8 CG12
+	8 CG13 Trick
+	8 CG05
+	8 CG15 Selection
+	8 CI01
+	8 CI02
+	8 CI03 Amberglow Moths
+	8 CI04
+	8 CI05
+	8 CI06 Summoner of the Inner Self
+	8 CI07
+	8 CI09
+	8 CI08
+	8 CI10 Flowstone
+	8 CI11 Counterspell
+	8 CI12 Blank
+	8 CI13
+	8 CI14
+	8 CI15 Serum Extraction
+	8 CW01
+	8 CI16
+	8 CA01
+	8 CA04
+	8 CA02
+	8 CA03
+	8 CA06
+	8 CA05
+	8 CU01 Spectacle Blank
+	8 CU02 Mill
+	8 CU03 Mill Incant
+	8 CU04 Foretell Kick
+	8 CU05 Goodstuff
+	8 CU06 Mill
+	8 CU07 Spectacle
+	8 CU08 Spectacle Large
+	8 CU09 Protection/Stall
+	8 CU10 Unsubstantiate
+	8 CU11 Cantrip
+	8 CU12 Spectacle
+	8 CU13 Aura Blank Removal
+	8 CU14 Foretell
+	8 CU15 Foretell Kick
+	8 CB01 Good Wide Types
+	8 CB02 Ward
+	8 CB03 Clue
+	8 CB07 Multi Type
+	8 CB05 Goodstuff
+	8 CB06 Goodstuff
+	8 CB04 Goodstuff
+	8 CB08 Wide Types
+	8 CB09 Ward
+	8 CB10 Weak Removal Clue Types
+	8 CB11 Clue Trick
+	8 CB12 Draw
+	8 CB13 Multi Type
+	8 CB14 Demonic Feeding
+	8 CB15 Crushing Doubt
+	8 UW13 Lifegain Fog
+[common | masterpiece(1)]
+	8 CW02
+	8 CW03
+	8 CW04
+	8 CW05
+	8 CW08
+	8 CW07
+	8 CW06
+	8 CW09
+	8 CW10
+	8 CW11
+	8 CW12 Combat Removal
+	8 CW15 Removal
+	8 CW14 Trick
+	8 CW13
+	8 CR01
+	8 CR02 Firefist Warrior
+	8 CR03 Partnered Pyromancers
+	8 CR05
+	8 CR04 Felfire Channeler
+	8 CR06 Acolyte of the Inferno
+	8 CR07
+	8 CR08
+	8 CR09
+	8 CR10 Magma Spray
+	8 CR13 Shatter
+	8 CR12 Read the Flame
+	8 CR11 Fight for the Fallen
+	8 CR14 Skewer the Critics
+	8 CR15 Fireball
+	8 CG01
+	8 CG02
+	8 CG03
+	8 CG04
+	8 CG14 Better Root Out
+	8 CG08
+	8 CG07
+	8 CG09
+	8 CG06
+	8 CG10
+	8 CG11 Bite
+	8 CG12
+	8 CG13 Trick
+	8 CG05
+	8 CG15 Selection
+	8 CI01
+	8 CI02
+	8 CI03 Amberglow Moths
+	8 CI04
+	8 CI05
+	8 CI06 Summoner of the Inner Self
+	8 CI07
+	8 CI09
+	8 CI08
+	8 CI10 Flowstone
+	8 CI11 Counterspell
+	8 CI12 Blank
+	8 CI13
+	8 CI14
+	8 CI15 Serum Extraction
+	8 CW01
+	8 CI16
+	8 CA01
+	8 CA04
+	8 CA02
+	8 CA03
+	8 CA06
+	8 CA05
+	8 CU01 Spectacle Blank
+	8 CU02 Mill
+	8 CU03 Mill Incant
+	8 CU04 Foretell Kick
+	8 CU05 Goodstuff
+	8 CU06 Mill
+	8 CU07 Spectacle
+	8 CU08 Spectacle Large
+	8 CU09 Protection/Stall
+	8 CU10 Unsubstantiate
+	8 CU11 Cantrip
+	8 CU12 Spectacle
+	8 CU13 Aura Blank Removal
+	8 CU14 Foretell
+	8 CU15 Foretell Kick
+	8 CB01 Good Wide Types
+	8 CB02 Ward
+	8 CB03 Clue
+	8 CB07 Multi Type
+	8 CB05 Goodstuff
+	8 CB06 Goodstuff
+	8 CB04 Goodstuff
+	8 CB08 Wide Types
+	8 CB09 Ward
+	8 CB10 Weak Removal Clue Types
+	8 CB11 Clue Trick
+	8 CB12 Draw
+	8 CB13 Multi Type
+	8 CB14 Demonic Feeding
+	8 CB15 Crushing Doubt
+	8 UW13 Lifegain Fog
+[foil(1)]
+	12 CW02
+	12 CW03
+	12 CW04
+	12 CW05
+	12 CW08
+	12 CW07
+	12 CW06
+	12 CW09
+	12 CW10
+	12 CW11
+	12 CW12 Combat Removal
+	12 CW15 Removal
+	12 CW14 Trick
+	12 CW13
+	12 CR01
+	12 CR02 Firefist Warrior
+	12 CR03 Partnered Pyromancers
+	12 CR05
+	12 CR04 Felfire Channeler
+	12 CR06 Acolyte of the Inferno
+	12 CR07
+	12 CR08
+	12 CR09
+	12 CR10 Magma Spray
+	12 CR13 Shatter
+	12 CR12 Read the Flame
+	12 CR11 Fight for the Fallen
+	12 CR14 Skewer the Critics
+	12 CR15 Fireball
+	12 CG01
+	12 CG02
+	12 CG03
+	12 CG04
+	12 CG14 Better Root Out
+	12 CG08
+	12 CG07
+	12 CG09
+	12 CG06
+	12 CG10
+	12 CG11 Bite
+	12 CG12
+	12 CG13 Trick
+	12 CG05
+	12 CG15 Selection
+	12 CI01
+	12 CI02
+	12 CI03 Amberglow Moths
+	12 CI04
+	12 CI05
+	12 CI06 Summoner of the Inner Self
+	12 CI07
+	12 CI09
+	12 CI08
+	12 CI10 Flowstone
+	12 CI11 Counterspell
+	12 CI12 Blank
+	12 CI13
+	12 CI14
+	12 CI15 Serum Extraction
+	12 CW01
+	12 CI16
+	12 CA01
+	12 CA04
+	12 CA02
+	12 CA03
+	12 CA06
+	12 CA05
+	2 RU Startled Awake
+	12 CU01 Spectacle Blank
+	12 CU02 Mill
+	12 CU03 Mill Incant
+	12 CU04 Foretell Kick
+	12 CU05 Goodstuff
+	12 CU06 Mill
+	12 CU07 Spectacle
+	12 CU08 Spectacle Large
+	12 CU09 Protection/Stall
+	12 CU10 Unsubstantiate
+	12 CU11 Cantrip
+	12 CU12 Spectacle
+	12 CU13 Aura Blank Removal
+	12 CU14 Foretell
+	12 CU15 Foretell Kick
+	12 CB01 Good Wide Types
+	12 CB02 Ward
+	12 CB03 Clue
+	12 CB07 Multi Type
+	12 CB05 Goodstuff
+	12 CB06 Goodstuff
+	12 CB04 Goodstuff
+	12 CB08 Wide Types
+	12 CB09 Ward
+	12 CB10 Weak Removal Clue Types
+	12 CB11 Clue Trick
+	12 CB12 Draw
+	12 CB13 Multi Type
+	12 CB14 Demonic Feeding
+	12 CB15 Crushing Doubt
+	6 UW02 Enchantment
+	6 UW01 Enchantment
+	6 UW03 Enchantment Dungeoneer
+	6 UW04 Foretell
+	6 UW05 Foretell Removal
+	6 UW06 Foretell Topend
+	6 UW07 Foretell-Wide Wisp-Reader Angel
+	6 UW08 Gift of Estates
+	6 UW09 Goodstuff Removal
+	6 UW10 Incant Nevermore
+	6 UW12 Lifegain Enabler
+	12 UW13 Lifegain Fog
+	6 UW11 Lifegain Angel of Vitality
+	6 UW14 Spells Incant Charge
+	6 UW15 Spells Threat
+	6 UW17 Wide
+	6 UW16 Wide
+	6 UU01 Annoying Incant
+	6 UU02 Blank
+	6 UU03 Blank Control
+	6 UU04 Blank Novice Mind-Binder
+	6 UU05 Flusterstorm but no storm
+	6 UU06 Foretell Evasive
+	6 UU07 Foretell Inspiration
+	6 UU08 Goodstuff
+	6 UU09 Goodstuff Counter
+	6 UU10 Goodstuff Removal
+	6 UU11 Goodstuff Thirst for Mastery
+	6 UU12 Incant Curiosity
+	6 UU14 Mill Sphinx
+	6 UU13 Mill Dream Crab
+	6 UU15 Spectacle Clone
+	6 UU16 Spectacle Removal
+	6 UU17 Spell Dungeoneer
+	6 UB01 Clue Mill/Kill Payoff
+	6 UB02 Clue Removal
+	6 UB03 Clue Wide
+	6 UB04 Goodstuff Mental Sewage
+	6 UB05 Goodstuff Withering Torment
+	6 UB06 Incant Hate
+	6 UB07 Incant Zombify
+	6 UB08 Mill
+	6 UB09 Mill Demise
+	6 UB10 Multi Type
+	6 UB11 Multi Type Plumb
+	6 UB12 Sacrifice Dungeoneer
+	6 UB13 Ward
+	6 UB14 Ward Fegnit Dedth
+	6 UB15 Ward Vicious Gossip
+	6 UB16 Wide
+	6 UB17 Wide Clues
+	6 UR01 Discard
+	6 UR02 Discard
+	6 UR03 Discard Engine
+	6 UR04 Discard Lightning Axe
+	6 UR05 Exile
+	6 UR06 Exile Dungeoneer w Ward
+	6 UR07 Goodstuff Hammer
+	6 UR08 Goodstuff Magic Thief
+	6 UR09 Goodstuff Wipe
+	6 UR10 Incant Discard Phoenix
+	6 UR11 Incant Finisher
+	6 UR12 Spectacle Flametounge
+	6 UR13 Spectacle Light Up the Stage
+	6 UR15 Spell Aggro
+	6 UR16 Spell Aggro Burn
+	6 UR14 Ward
+	6 UR17 Ward Pump
+	6 UG01 Bushwhack but worse
+	6 UG02 Enchantment
+	6 UG03 Enchantment Incant Buff
+	6 UG06 Exile
+	6 UG04 Exile
+	6 UG05 Exile
+	6 UG08 Foretell
+	6 UG07 Foretell
+	6 UG10 Foretell Ramp
+	6 UG09 Foretell Ramp
+	6 UG11 Goodstuff
+	6 UG12 Goodstuff Spinning Wheel Kick
+	6 UG13 Incant Regrowth
+	6 UG14 Landfall Dungeoner
+	6 UG15 Multi Type
+	6 UG16 Multi Type Enchantments
+	6 UG17 Multi Type Ramp Target
+	6 UI02 Blank
+	6 UI01 Blank
+	6 UI03 Blank Ixidrike
+	6 UI05 Clue
+	6 UI06 Clue
+	6 UI04 Discard Clue Spiritweaver
+	6 UI08 Discard Trick
+	6 UI07 Discard Furyblade Vampire 2
+	6 UI10 Goodstuff Removal
+	6 UI09 Goodstuff GY
+	6 UI11 Incant Ramp
+	6 UI12 Incant Sift
+	6 UI14 Lifegain
+	6 UI15 Lifegain
+	6 UI13 Lifegain
+	6 UI16 Lifegain Ramp Target
+	6 UI17 Lifegain Remand
+	6 UI18 Removal
+	6 UM12 Blank
+	6 UM13 Clue Control
+	6 UM14 Discard
+	6 UM05 Enchantments
+	6 UM04 Exile
+	6 UM01 Foretell
+	6 UM08 Foretell Ramp
+	6 UM06 Go Wide
+	6 UM11 Lifegain
+	6 UM02 Mill
+	6 UM07 Multi Type
+	6 UM10 Prowess Aggro
+	6 UM15 Ramp
+	6 UM09 Spectacle
+	6 UM03 Ward
+	6 UA01 Generic Large Flying
+	6 UA02 Incant without Spells
+	6 UA03 Manalith
+	6 UA04 Toxic Spells
+	6 UL02 River of Tears
+	6 UL15
+	6 UL14
+	6 UL09
+	6 UL10
+	6 UL08
+	6 UL03
+	6 UL01
+	6 UL06
+	6 UL05
+	6 UL07
+	6 UL04
+	6 UL11
+	6 UL12
+	6 UL13
+	2 RM Anti Lifegain
+	2 RW The Most Uninspired Card
+	2 RI Saccharine Command
+	2 RM Pawn Off
+	1 RM Blank Walker
+	2 RW
+	2 RU Gravecast
+	2 RB
+	2 RI
+	2 RB
+	2 RR
+	2 RG
+	2 RR
+	1 MG 8 Line Mythic
+	2 RM Baba Yaga
+	2 RU
+	2 RU Obstructionist
+	1 ML
+[wildcard(1)]
+	6 CW02
+	6 CW03
+	6 CW04
+	6 CW05
+	6 CW08
+	6 CW07
+	6 CW06
+	6 CW09
+	6 CW10
+	6 CW11
+	6 CW12 Combat Removal
+	6 CW15 Removal
+	6 CW14 Trick
+	6 CW13
+	6 CR01
+	6 CR02 Firefist Warrior
+	6 CR03 Partnered Pyromancers
+	6 CR05
+	6 CR04 Felfire Channeler
+	6 CR06 Acolyte of the Inferno
+	6 CR07
+	6 CR08
+	6 CR09
+	6 CR10 Magma Spray
+	6 CR13 Shatter
+	6 CR12 Read the Flame
+	6 CR11 Fight for the Fallen
+	6 CR14 Skewer the Critics
+	6 CR15 Fireball
+	6 CG01
+	6 CG02
+	6 CG03
+	6 CG04
+	6 CG14 Better Root Out
+	6 CG08
+	6 CG07
+	6 CG09
+	6 CG06
+	6 CG10
+	6 CG11 Bite
+	6 CG12
+	6 CG13 Trick
+	6 CG05
+	6 CG15 Selection
+	6 CI01
+	6 CI02
+	6 CI03 Amberglow Moths
+	6 CI04
+	6 CI05
+	6 CI06 Summoner of the Inner Self
+	6 CI07
+	6 CI09
+	6 CI08
+	6 CI10 Flowstone
+	6 CI11 Counterspell
+	6 CI12 Blank
+	6 CI13
+	6 CI14
+	6 CI15 Serum Extraction
+	6 CW01
+	6 CI16
+	6 CA01
+	6 CA04
+	6 CA02
+	6 CA03
+	6 CA06
+	6 CA05
+	7 RU Startled Awake
+	6 CU01 Spectacle Blank
+	6 CU02 Mill
+	6 CU03 Mill Incant
+	6 CU04 Foretell Kick
+	6 CU05 Goodstuff
+	6 CU06 Mill
+	6 CU07 Spectacle
+	6 CU08 Spectacle Large
+	6 CU09 Protection/Stall
+	6 CU10 Unsubstantiate
+	6 CU11 Cantrip
+	6 CU12 Spectacle
+	6 CU13 Aura Blank Removal
+	6 CU14 Foretell
+	6 CU15 Foretell Kick
+	6 CB01 Good Wide Types
+	6 CB02 Ward
+	6 CB03 Clue
+	6 CB07 Multi Type
+	6 CB05 Goodstuff
+	6 CB06 Goodstuff
+	6 CB04 Goodstuff
+	6 CB08 Wide Types
+	6 CB09 Ward
+	6 CB10 Weak Removal Clue Types
+	6 CB11 Clue Trick
+	6 CB12 Draw
+	6 CB13 Multi Type
+	6 CB14 Demonic Feeding
+	6 CB15 Crushing Doubt
+	15 UW02 Enchantment
+	15 UW01 Enchantment
+	15 UW03 Enchantment Dungeoneer
+	15 UW04 Foretell
+	15 UW05 Foretell Removal
+	15 UW06 Foretell Topend
+	15 UW07 Foretell-Wide Wisp-Reader Angel
+	15 UW08 Gift of Estates
+	15 UW09 Goodstuff Removal
+	15 UW10 Incant Nevermore
+	15 UW12 Lifegain Enabler
+	6 UW13 Lifegain Fog
+	15 UW11 Lifegain Angel of Vitality
+	15 UW14 Spells Incant Charge
+	15 UW15 Spells Threat
+	15 UW17 Wide
+	15 UW16 Wide
+	15 UU01 Annoying Incant
+	15 UU02 Blank
+	15 UU03 Blank Control
+	15 UU04 Blank Novice Mind-Binder
+	15 UU05 Flusterstorm but no storm
+	15 UU06 Foretell Evasive
+	15 UU07 Foretell Inspiration
+	15 UU08 Goodstuff
+	15 UU09 Goodstuff Counter
+	15 UU10 Goodstuff Removal
+	15 UU11 Goodstuff Thirst for Mastery
+	15 UU12 Incant Curiosity
+	15 UU14 Mill Sphinx
+	15 UU13 Mill Dream Crab
+	15 UU15 Spectacle Clone
+	15 UU16 Spectacle Removal
+	15 UU17 Spell Dungeoneer
+	15 UB01 Clue Mill/Kill Payoff
+	15 UB02 Clue Removal
+	15 UB03 Clue Wide
+	15 UB04 Goodstuff Mental Sewage
+	15 UB05 Goodstuff Withering Torment
+	15 UB06 Incant Hate
+	15 UB07 Incant Zombify
+	15 UB08 Mill
+	15 UB09 Mill Demise
+	15 UB10 Multi Type
+	15 UB11 Multi Type Plumb
+	15 UB12 Sacrifice Dungeoneer
+	15 UB13 Ward
+	15 UB14 Ward Fegnit Dedth
+	15 UB15 Ward Vicious Gossip
+	15 UB16 Wide
+	15 UB17 Wide Clues
+	15 UR01 Discard
+	15 UR02 Discard
+	15 UR03 Discard Engine
+	15 UR04 Discard Lightning Axe
+	15 UR05 Exile
+	15 UR06 Exile Dungeoneer w Ward
+	15 UR07 Goodstuff Hammer
+	15 UR08 Goodstuff Magic Thief
+	15 UR09 Goodstuff Wipe
+	15 UR10 Incant Discard Phoenix
+	15 UR11 Incant Finisher
+	15 UR12 Spectacle Flametounge
+	15 UR13 Spectacle Light Up the Stage
+	15 UR15 Spell Aggro
+	15 UR16 Spell Aggro Burn
+	15 UR14 Ward
+	15 UR17 Ward Pump
+	15 UG01 Bushwhack but worse
+	15 UG02 Enchantment
+	15 UG03 Enchantment Incant Buff
+	15 UG06 Exile
+	15 UG04 Exile
+	15 UG05 Exile
+	15 UG08 Foretell
+	15 UG07 Foretell
+	15 UG10 Foretell Ramp
+	15 UG09 Foretell Ramp
+	15 UG11 Goodstuff
+	15 UG12 Goodstuff Spinning Wheel Kick
+	15 UG13 Incant Regrowth
+	15 UG14 Landfall Dungeoner
+	15 UG15 Multi Type
+	15 UG16 Multi Type Enchantments
+	15 UG17 Multi Type Ramp Target
+	15 UI02 Blank
+	15 UI01 Blank
+	15 UI03 Blank Ixidrike
+	15 UI05 Clue
+	15 UI06 Clue
+	15 UI04 Discard Clue Spiritweaver
+	15 UI08 Discard Trick
+	15 UI07 Discard Furyblade Vampire 2
+	15 UI10 Goodstuff Removal
+	15 UI09 Goodstuff GY
+	15 UI11 Incant Ramp
+	15 UI12 Incant Sift
+	15 UI14 Lifegain
+	15 UI15 Lifegain
+	15 UI13 Lifegain
+	15 UI16 Lifegain Ramp Target
+	15 UI17 Lifegain Remand
+	15 UI18 Removal
+	15 UM12 Blank
+	15 UM13 Clue Control
+	15 UM14 Discard
+	15 UM05 Enchantments
+	15 UM04 Exile
+	15 UM01 Foretell
+	15 UM08 Foretell Ramp
+	15 UM06 Go Wide
+	15 UM11 Lifegain
+	15 UM02 Mill
+	15 UM07 Multi Type
+	15 UM10 Prowess Aggro
+	15 UM15 Ramp
+	15 UM09 Spectacle
+	15 UM03 Ward
+	15 UA01 Generic Large Flying
+	15 UA02 Incant without Spells
+	15 UA03 Manalith
+	15 UA04 Toxic Spells
+	15 UL02 River of Tears
+	15 UL15
+	15 UL14
+	15 UL09
+	15 UL10
+	15 UL08
+	15 UL03
+	15 UL01
+	15 UL06
+	15 UL05
+	15 UL07
+	15 UL04
+	15 UL11
+	15 UL12
+	15 UL13
+	7 RM Anti Lifegain
+	7 RW The Most Uninspired Card
+	7 RI Saccharine Command
+	7 RM Pawn Off
+	4 RM Blank Walker
+	7 RW
+	7 RU Gravecast
+	7 RB
+	7 RI
+	7 RB
+	7 RR
+	7 RG
+	7 RR
+	4 MG 8 Line Mythic
+	7 RM Baba Yaga
+	7 RU
+	7 RU Obstructionist
+	4 ML

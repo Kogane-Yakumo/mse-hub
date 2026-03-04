@@ -1,1039 +1,14 @@
 ﻿[
     {
-        "card_name": "Enchantment Dungeoneer",
-        "number": 22,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "RU01 Startled Awake",
-        "number": 66,
-        "shape": "transform double faced",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Clue Mill/Kill Payoff",
-        "number": 85,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Discard Engine",
-        "number": 119,
-        "shape": "transform double faced",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Bushwhack but worse",
-        "number": 134,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Foretell Removal",
-        "number": 24,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Annoying Incant",
-        "number": 37,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Clue Removal",
-        "number": 86,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Discard Lightning Axe",
-        "number": 120,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Enchantment",
-        "number": 150,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Foretell Topend",
-        "number": 25,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Blank Control",
-        "number": 39,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Clue Wide",
-        "number": 87,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Exile Dungeoneer w Ward",
-        "number": 122,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Enchantment Incant Buff",
-        "number": 151,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Foretell Wide Wisp-Reader Angel",
-        "number": 26,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Blank Novice Mind-Binder",
-        "number": 40,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Goodstuff Mental Sewage",
-        "number": 88,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Goodstuff Hammer",
-        "number": 123,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Goodstuff",
-        "number": 159,
-        "shape": "transform double faced",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Gift of Estates",
-        "number": 27,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Flusterstorm but no storm",
-        "number": 56,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Goodstuff Withering Torment",
-        "number": 89,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Goodstuff Magic Thief",
-        "number": 124,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Goodstuff Spinning Wheel Kick",
-        "number": 160,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Incant Nevermore",
-        "number": 29,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Foretell Evasive",
-        "number": 57,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Incant Hate",
-        "number": 90,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Goodstuff Wipe",
-        "number": 125,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Incant Regrowth",
-        "number": 161,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Lifegain Angel of Vitality",
-        "number": 30,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Foretell Inspiration",
-        "number": 58,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Incant Zombify",
-        "number": 91,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Incant Discard Phoenix",
-        "number": 126,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Landfall Dungeoner",
-        "number": 162,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Lifegain Enabler",
-        "number": 31,
-        "shape": "transform double faced",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Goodstuff Counter",
-        "number": 60,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Mill Demise",
-        "number": 93,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Incant Finisher",
-        "number": 127,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Multi Type Enchantments",
-        "number": 164,
-        "shape": "transform double faced",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Spells Incant Charge",
-        "number": 33,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Goodstuff Thirst for Mastery",
-        "number": 62,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Multi Type Plumb",
-        "number": 95,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Spectacle Flametounge",
-        "number": 128,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Multi Type Ramp Target",
-        "number": 165,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Spells Threat",
-        "number": 34,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Incant Curiosity",
-        "number": 63,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Sacrifice Dungeoneer",
-        "number": 96,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Spectacle Light Up the Stage",
-        "number": 129,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CG01",
-        "number": 135,
-        "shape": "transform double faced",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CW01",
-        "number": 5,
-        "shape": "transform double faced",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Mill Dream Crab",
-        "number": 64,
-        "shape": "transform double faced",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Ward Fegnit Dedth",
-        "number": 98,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Spell Aggro",
-        "number": 130,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CG02",
-        "number": 136,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CW02",
-        "number": 6,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Mill Sphinx",
-        "number": 65,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Ward Vicious Gossip",
-        "number": 99,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Spell Aggro Burn",
-        "number": 131,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CG03",
-        "number": 137,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CW03",
-        "number": 7,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Spectacle Clone",
-        "number": 67,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Wide",
-        "number": 100,
-        "shape": "transform double faced",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Ward Pump",
-        "number": 133,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CG04",
-        "number": 138,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CW04",
-        "number": 8,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Spectacle Removal",
-        "number": 68,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Wide Clues",
-        "number": 101,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CR01",
-        "number": 102,
-        "shape": "transform double faced",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CG05",
-        "number": 139,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CW05",
-        "number": 9,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Spell Dungeoneer",
-        "number": 69,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CB01 Good Wide Types",
-        "number": 70,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CR02 Firefist Warrior",
-        "number": 103,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CG06",
-        "number": 140,
-        "shape": "transform double faced",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CW06",
-        "number": 10,
-        "shape": "transform double faced",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CU01 Spectacle Blank",
-        "number": 41,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CB02 Ward",
-        "number": 71,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CR03 Partnered Pyromancers",
-        "number": 104,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CG07",
-        "number": 141,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CW07",
-        "number": 11,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CU02 Mill",
-        "number": 42,
-        "shape": "transform double faced",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CB03 Clue",
-        "number": 72,
-        "shape": "transform double faced",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CR04 Felfire Channeler",
-        "number": 105,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CG08",
-        "number": 142,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CW08",
-        "number": 12,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CU03 Mill Incant",
-        "number": 43,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CB04 Goodstuff",
-        "number": 73,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CR05",
-        "number": 106,
-        "shape": "transform double faced",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CG09",
-        "number": 143,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CW09",
-        "number": 13,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CU04 Foretell Kick",
-        "number": 44,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CB05 Goodstuff",
-        "number": 74,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CR06 Acolyte of the Inferno",
-        "number": 107,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CG10",
-        "number": 144,
-        "shape": "transform double faced",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CW10",
-        "number": 14,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CU05 Goodstuff",
-        "number": 45,
-        "shape": "transform double faced",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CB06 Goodstuff",
-        "number": 75,
-        "shape": "transform double faced",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CR07",
-        "number": 108,
-        "shape": "transform double faced",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CG11 Bite",
-        "number": 145,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CW11",
-        "number": 15,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CU06 Mill",
-        "number": 46,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CB07 Multi Type",
-        "number": 76,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CR08",
-        "number": 109,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CG12",
-        "number": 146,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CW12 Combat Removal",
-        "number": 16,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CU07 Spectacle",
-        "number": 47,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CB08 Wide Types",
-        "number": 77,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CR09",
-        "number": 110,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CG13 Trick",
-        "number": 147,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CW13",
-        "number": 17,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CU08 Spectacle Large",
-        "number": 48,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CB09 Ward",
-        "number": 78,
-        "shape": "transform double faced",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CR10 Magma Spray",
-        "number": 111,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CG14 Better Root Out",
-        "number": 148,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CW14 Trick",
+        "card_name": "RW",
         "number": 18,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CU09 Protection/Stall",
-        "number": 49,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CB10 Weak Removal Clue Types",
-        "number": 79,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CR11 Fight for the Fallen",
-        "number": 112,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CG15 Selection",
-        "number": 149,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CW15 Removal",
-        "number": 19,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CU10 Unsubstantiate",
-        "number": 50,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CB11 Clue Trick",
-        "number": 80,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CR12 Read the Flame",
-        "number": 113,
         "shape": "transform double faced",
         "set": "RFA",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Lifegain Fog",
-        "number": 32,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CU11 Cantrip",
-        "number": 51,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CB12 Draw",
-        "number": 81,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CR13 Shatter",
-        "number": 114,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CU12 Spectacle",
+        "card_name": "RU",
         "number": 52,
         "shape": "normal",
         "set": "RFA",
@@ -1041,29 +16,39 @@
         "position": ""
     },
     {
-        "card_name": "CB13 Multi Type",
-        "number": 82,
+        "card_name": "RB",
+        "number": 89,
         "shape": "normal",
         "set": "RFA",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "CR14 Skewer the Critics",
-        "number": 115,
+        "card_name": "RR",
+        "number": 122,
         "shape": "normal",
         "set": "RFA",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "MG 8 Line Mythic",
+        "number": 156,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "RW The Most Uninspired Card",
+        "number": 19,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
     },
     {
-        "card_name": "CU13 Aura Blank Removal",
+        "card_name": "RU Gravecast",
         "number": 53,
         "shape": "normal",
         "set": "RFA",
@@ -1071,29 +56,39 @@
         "position": ""
     },
     {
-        "card_name": "CB14 Demonic Feeding",
-        "number": 83,
+        "card_name": "UB01 Clue Mill/Kill Payoff",
+        "number": 90,
         "shape": "normal",
         "set": "RFA",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "CR15 Fireball",
-        "number": 116,
+        "card_name": "UR01 Discard",
+        "number": 124,
         "shape": "normal",
         "set": "RFA",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "RG",
+        "number": 157,
+        "shape": "transform double faced",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "UW01 Enchantment",
+        "number": 20,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
     },
     {
-        "card_name": "CU14 Foretell",
+        "card_name": "RU Obstructionist",
         "number": 54,
         "shape": "normal",
         "set": "RFA",
@@ -1101,12 +96,1272 @@
         "position": ""
     },
     {
-        "card_name": "CB15 Crushing Doubt",
+        "card_name": "UB02 Clue Removal",
+        "number": 91,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR02 Discard",
+        "number": 125,
+        "shape": "transform double faced",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG01 Bushwhack but worse",
+        "number": 158,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW02 Enchantment",
+        "number": 21,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "RU Startled Awake",
+        "number": 55,
+        "shape": "transform double faced",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB03 Clue Wide",
+        "number": 92,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR03 Discard Engine",
+        "number": 126,
+        "shape": "transform double faced",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG02 Enchantment",
+        "number": 159,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW03 Enchantment Dungeoneer",
+        "number": 22,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU01 Annoying Incant",
+        "number": 56,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB04 Goodstuff Mental Sewage",
+        "number": 93,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR04 Discard Lightning Axe",
+        "number": 127,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG03 Enchantment Incant Buff",
+        "number": 160,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW04 Foretell",
+        "number": 23,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU02 Blank",
+        "number": 57,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB05 Goodstuff Withering Torment",
+        "number": 94,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR05 Exile",
+        "number": 128,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG04 Exile",
+        "number": 161,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW05 Foretell Removal",
+        "number": 24,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU03 Blank Control",
+        "number": 58,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB06 Incant Hate",
+        "number": 95,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR06 Exile Dungeoneer w Ward",
+        "number": 129,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG05 Exile",
+        "number": 162,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW06 Foretell Topend",
+        "number": 25,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU04 Blank Novice Mind-Binder",
+        "number": 59,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB07 Incant Zombify",
+        "number": 96,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR07 Goodstuff Hammer",
+        "number": 130,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG06 Exile",
+        "number": 163,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW07 Foretell-Wide Wisp-Reader Angel",
+        "number": 26,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU05 Flusterstorm but no storm",
+        "number": 60,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB08 Mill",
+        "number": 97,
+        "shape": "transform double faced",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR08 Goodstuff Magic Thief",
+        "number": 131,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG07 Foretell",
+        "number": 164,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW08 Gift of Estates",
+        "number": 27,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU06 Foretell Evasive",
+        "number": 61,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB09 Mill Demise",
+        "number": 98,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR09 Goodstuff Wipe",
+        "number": 132,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG08 Foretell",
+        "number": 165,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW09 Goodstuff Removal",
+        "number": 28,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU07 Foretell Inspiration",
+        "number": 62,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB10 Multi Type",
+        "number": 99,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR10 Incant Discard Phoenix",
+        "number": 133,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG09 Foretell Ramp",
+        "number": 166,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW10 Incant Nevermore",
+        "number": 29,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU08 Goodstuff",
+        "number": 63,
+        "shape": "transform double faced",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB11 Multi Type Plumb",
+        "number": 100,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR11 Incant Finisher",
+        "number": 134,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG10 Foretell Ramp",
+        "number": 167,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW11 Lifegain Angel of Vitality",
+        "number": 30,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU09 Goodstuff Counter",
+        "number": 64,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB12 Sacrifice Dungeoneer",
+        "number": 101,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR12 Spectacle Flametounge",
+        "number": 135,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG11 Goodstuff",
+        "number": 168,
+        "shape": "transform double faced",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW12 Lifegain Enabler",
+        "number": 31,
+        "shape": "transform double faced",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU10 Goodstuff Removal",
+        "number": 65,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB13 Ward",
+        "number": 102,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR13 Spectacle Light Up the Stage",
+        "number": 136,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG12 Goodstuff Spinning Wheel Kick",
+        "number": 169,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW14 Spells Incant Charge",
+        "number": 33,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU11 Goodstuff Thirst for Mastery",
+        "number": 66,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB14 Ward Fegnit Dedth",
+        "number": 103,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR14 Ward",
+        "number": 137,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG13 Incant Regrowth",
+        "number": 170,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW15 Spells Threat",
+        "number": 34,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU12 Incant Curiosity",
+        "number": 67,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB15 Ward Vicious Gossip",
+        "number": 104,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR15 Spell Aggro",
+        "number": 138,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG14 Landfall Dungeoner",
+        "number": 171,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW16 Wide",
+        "number": 35,
+        "shape": "transform double faced",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU13 Mill Dream Crab",
+        "number": 68,
+        "shape": "transform double faced",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB16 Wide",
+        "number": 105,
+        "shape": "transform double faced",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR16 Spell Aggro Burn",
+        "number": 139,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG15 Multi Type",
+        "number": 172,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW17 Wide",
+        "number": 36,
+        "shape": "transform double faced",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU14 Mill Sphinx",
+        "number": 69,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UB17 Wide Clues",
+        "number": 106,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UR17 Ward Pump",
+        "number": 140,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG16 Multi Type Enchantments",
+        "number": 173,
+        "shape": "transform double faced",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW01",
+        "number": 3,
+        "shape": "transform double faced",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU15 Spectacle Clone",
+        "number": 70,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB01 Good Wide Types",
+        "number": 73,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR01",
+        "number": 107,
+        "shape": "transform double faced",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UG17 Multi Type Ramp Target",
+        "number": 174,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW02",
+        "number": 4,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU16 Spectacle Removal",
+        "number": 71,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB02 Ward",
+        "number": 74,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR02 Firefist Warrior",
+        "number": 108,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG01",
+        "number": 141,
+        "shape": "transform double faced",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW03",
+        "number": 5,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UU17 Spell Dungeoneer",
+        "number": 72,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB03 Clue",
+        "number": 75,
+        "shape": "transform double faced",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR03 Partnered Pyromancers",
+        "number": 109,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG02",
+        "number": 142,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW04",
+        "number": 6,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU01 Spectacle Blank",
+        "number": 37,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB04 Goodstuff",
+        "number": 76,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR04 Felfire Channeler",
+        "number": 110,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG03",
+        "number": 143,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW05",
+        "number": 7,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU02 Mill",
+        "number": 38,
+        "shape": "transform double faced",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB05 Goodstuff",
+        "number": 77,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR05",
+        "number": 111,
+        "shape": "transform double faced",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG04",
+        "number": 144,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW06",
+        "number": 8,
+        "shape": "transform double faced",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU03 Mill Incant",
+        "number": 39,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB06 Goodstuff",
+        "number": 78,
+        "shape": "transform double faced",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR06 Acolyte of the Inferno",
+        "number": 112,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG05",
+        "number": 145,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW07",
+        "number": 9,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU04 Foretell Kick",
+        "number": 40,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB07 Multi Type",
+        "number": 79,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR07",
+        "number": 113,
+        "shape": "transform double faced",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG06",
+        "number": 146,
+        "shape": "transform double faced",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW08",
+        "number": 10,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU05 Goodstuff",
+        "number": 41,
+        "shape": "transform double faced",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB08 Wide Types",
+        "number": 80,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR08",
+        "number": 114,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG07",
+        "number": 147,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW09",
+        "number": 11,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU06 Mill",
+        "number": 42,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB09 Ward",
+        "number": 81,
+        "shape": "transform double faced",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR09",
+        "number": 115,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG08",
+        "number": 148,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW10",
+        "number": 12,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU07 Spectacle",
+        "number": 43,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB10 Weak Removal Clue Types",
+        "number": 82,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR10 Magma Spray",
+        "number": 116,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG09",
+        "number": 149,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW11",
+        "number": 13,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU08 Spectacle Large",
+        "number": 44,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB11 Clue Trick",
+        "number": 83,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR11 Fight for the Fallen",
+        "number": 117,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG10",
+        "number": 150,
+        "shape": "transform double faced",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW12 Combat Removal",
+        "number": 14,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU09 Protection/Stall",
+        "number": 45,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB12 Draw",
         "number": 84,
         "shape": "normal",
         "set": "RFA",
         "rotated": false,
         "position": ""
+    },
+    {
+        "card_name": "CR12 Read the Flame",
+        "number": 118,
+        "shape": "transform double faced",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG11 Bite",
+        "number": 151,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW13",
+        "number": 15,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU10 Unsubstantiate",
+        "number": 46,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB13 Multi Type",
+        "number": 85,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR13 Shatter",
+        "number": 119,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG12",
+        "number": 152,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW14 Trick",
+        "number": 16,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU11 Cantrip",
+        "number": 47,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB14 Demonic Feeding",
+        "number": 86,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR14 Skewer the Critics",
+        "number": 120,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG13 Trick",
+        "number": 153,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW15 Removal",
+        "number": 17,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU12 Spectacle",
+        "number": 48,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB15 Crushing Doubt",
+        "number": 87,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR15 Fireball",
+        "number": 121,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG14 Better Root Out",
+        "number": 154,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW13 Lifegain Fog",
+        "number": 32,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU13 Aura Blank Removal",
+        "number": 49,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CG15 Selection",
+        "number": 155,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CU14 Foretell",
+        "number": 50,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -1119,7 +1374,7 @@
     },
     {
         "card_name": "CU15 Foretell Kick",
-        "number": 55,
+        "number": 51,
         "shape": "normal",
         "set": "RFA",
         "rotated": false,
@@ -1148,86 +1403,23 @@
     },
     "a->gold",
     {
-        "card_name": "Foretell",
-        "number": 205,
+        "card_name": "UM01 Foretell",
+        "number": 215,
         "shape": "normal",
         "set": "RFA",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Mill",
-        "number": 209,
+        "card_name": "UM02 Mill",
+        "number": 216,
         "shape": "normal",
         "set": "RFA",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Ward",
-        "number": 214,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Exile",
-        "number": 204,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Enchantments",
-        "number": 203,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "Go Wide",
-        "number": 207,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Spectacle",
-        "number": 213,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Multi Type",
-        "number": 210,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Prowess Aggro",
+        "card_name": "RM Anti Lifegain",
         "number": 211,
         "shape": "normal",
         "set": "RFA",
@@ -1235,12 +1427,40 @@
         "position": ""
     },
     {
-        "card_name": "Foretell Ramp",
-        "number": 206,
+        "card_name": "UM04 Exile",
+        "number": 218,
         "shape": "normal",
         "set": "RFA",
         "rotated": false,
         "position": ""
+    },
+    {
+        "card_name": "UM05 Enchantments",
+        "number": 219,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "UM03 Ward",
+        "number": 217,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1258,44 +1478,144 @@
         "card_name": "er"
     },
     {
-        "card_name": "Blank",
-        "number": 200,
+        "card_name": "UM06 Go Wide",
+        "number": 220,
         "shape": "normal",
         "set": "RFA",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Clue Control",
-        "number": 201,
+        "card_name": "RM Pawn Off",
+        "number": 214,
         "shape": "normal",
         "set": "RFA",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Discard",
-        "number": 202,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Lifegain",
-        "number": 208,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Ramp",
+        "card_name": "RM Baba Yaga",
         "number": 212,
         "shape": "normal",
         "set": "RFA",
         "rotated": false,
         "position": ""
+    },
+    {
+        "card_name": "UM10 Prowess Aggro",
+        "number": 224,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UM08 Foretell Ramp",
+        "number": 222,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "UM09 Spectacle",
+        "number": 223,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UM07 Multi Type",
+        "number": 221,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "RM Blank Walker",
+        "number": 213,
+        "shape": "planeswalker",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UM11 Lifegain",
+        "number": 225,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UM12 Blank",
+        "number": 226,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UM13 Clue Control",
+        "number": 227,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UM14 Discard",
+        "number": 228,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UM15 Ramp",
+        "number": 229,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1311,32 +1631,32 @@
     },
     "a->colorless",
     {
-        "card_name": "Generic Large Flying",
-        "number": 217,
+        "card_name": "UA01 Generic Large Flying",
+        "number": 234,
         "shape": "transform double faced",
         "set": "RFA",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Incant without Spells",
-        "number": 218,
+        "card_name": "UA02 Incant without Spells",
+        "number": 235,
         "shape": "normal",
         "set": "RFA",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Manalith",
-        "number": 219,
+        "card_name": "UA03 Manalith",
+        "number": 236,
         "shape": "normal",
         "set": "RFA",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Toxic Spells",
-        "number": 220,
+        "card_name": "UA04 Toxic Spells",
+        "number": 237,
         "shape": "normal",
         "set": "RFA",
         "rotated": false,
@@ -1351,8 +1671,16 @@
         "position": ""
     },
     {
-        "card_name": "CA02",
+        "card_name": "CA05",
         "number": 2,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CA02",
+        "number": 230,
         "shape": "transform double faced",
         "set": "RFA",
         "rotated": false,
@@ -1360,15 +1688,7 @@
     },
     {
         "card_name": "CA03",
-        "number": 3,
-        "shape": "normal",
-        "set": "RFA",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "CA05",
-        "number": 4,
+        "number": 231,
         "shape": "normal",
         "set": "RFA",
         "rotated": false,
@@ -1376,7 +1696,7 @@
     },
     {
         "card_name": "CA04",
-        "number": 215,
+        "number": 232,
         "shape": "normal",
         "set": "RFA",
         "rotated": false,
@@ -1384,11 +1704,196 @@
     },
     {
         "card_name": "CA06",
-        "number": 216,
+        "number": 233,
         "shape": "normal",
         "set": "RFA",
         "rotated": false,
         "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "UL01",
+        "number": 239,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UL02 River of Tears",
+        "number": 240,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UL03",
+        "number": 241,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UL04",
+        "number": 242,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UL05",
+        "number": 243,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "UL06",
+        "number": 244,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UL09",
+        "number": 247,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UL07",
+        "number": 245,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UL10",
+        "number": 248,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UL08",
+        "number": 246,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "ML",
+        "number": 238,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UL11",
+        "number": 249,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UL12",
+        "number": 250,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UL13",
+        "number": 251,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UL14",
+        "number": 252,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UL15",
+        "number": 253,
+        "shape": "normal",
+        "set": "RFA",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
