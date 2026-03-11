@@ -1,4 +1,43 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Matthias, Imago's Beloved added.
+
+[Repeated Removal] removed.
+
+Feast of the True Birth
+rules_text: Pathbound—Sacrifice two Clerics. [i](As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)[/i]
+Search target opponent's library for a card and exile it. That player shuffles. You gain life equal to that cards mana value and it becomes foretold. [i](Its foretell cost is its mana cost if it isn't already specified.)[/i] => Pathbound—Sacrifice two Clerics. [i](As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)[/i]
+Search target opponent's library for a card and exile it. That player shuffles. You foretell that card. Its foretell cost is equal to its mana cost reduced by {2}.
+
+Vespera in Flames
+rules_text: Wipe deals 5 damage to each creature and each planeswalker. If a creature an opponent controls would die this turn, exile it instead. => Wipe deals 5 damage to each creature and each planeswalker. If a creature or planeswalker an opponent controls would die this turn, exile it instead.
+
+Glassgarden Wanderer
+type: Creature => Creature — Human Cleric Knight
+
+Fruitfulness
+cost: {B}{B} => {1}{B}{B}
+
+Omnipresent Ultimatum
+cost: {I}{I}{I}{B}{B}{G}{G} => {B}{B}{I}{I}{I}{G}{G}
+
+Memory from Another History
+rules_text: Flash; flying
+When Memory from Another History enters, if it was foretold, counter target activated or triggered ability from a nonland source.
+Foretell {1}{I} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i] => Flash
+Flying
+When Memory from Another History enters, if it was foretold, counter target activated or triggered ability from a nonland source.
+Foretell {1}{I} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]
+
+Fruiting Devoured
+rules_text: Flash, ward {1}
+Whenever an opponent searches their library, put a +1/+1 counter on Fruiting Devoured and you gain 1 life. => Flash
+Ward {1}
+Whenever an opponent searches their library, put a +1/+1 counter on Fruiting Devoured and you gain 1 life.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
