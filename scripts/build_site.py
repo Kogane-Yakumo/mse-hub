@@ -262,8 +262,8 @@ if not os.path.exists(custom_order):
 for code in set_codes:
 	#F: more important functions
 	#CE: moving this down after we create the 'set-order.json' file
-	if not os.path.exists(os.path.join('sets', code + '-files', 'ignore.txt')):
-		print_html_for_preview.generateHTML(code)
+	# if not os.path.exists(os.path.join('sets', code + '-files', 'ignore.txt')):
+	# 	print_html_for_preview.generateHTML(code)
 	print_html_for_set.generateHTML(code)
 
 print_html_for_sets_page.generateHTML()

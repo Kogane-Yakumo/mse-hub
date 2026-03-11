@@ -13,6 +13,11 @@
         {
             "set_code": "RFA",
             "set_name": "Rites of Foveaana",
+            "formats": ""
+        },
+        {
+            "set_code": "VSB",
+            "set_name": "Vespera: Breached",
             "formats": "Voyager"
         }
     ]
