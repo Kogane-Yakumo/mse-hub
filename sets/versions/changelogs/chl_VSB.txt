@@ -1,4 +1,59 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Living Spore added.
+An Extraplanar Visitor added.
+Unformed Sun-Servant added.
+Being Fracture added.
+Coelle, Consumed Hunter added.
+Thing in the Wood added.
+
+
+Solar Pilgrimage
+rules_text: When Solar Pilgrimage enters, if it was foretold, create a 2/2 white Angel creature token with flying.
+Whenever you cast a foretold spell, create a 2/2 white Angel creature token with flying.
+Foretell {1}{W} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i] => Flash
+When Solar Pilgrimage enters, if it was foretold, create a 2/2 white Angel creature token with flying.
+Whenever you cast a foretold spell, create a 2/2 white Angel creature token with flying.
+Foretell {1}{W} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]
+
+Feast of the True Birth
+rules_text: Pathbound—Sacrifice two Clerics. [i](As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)[/i]
+Search target opponent's library for a card and exile it. That player shuffles. You foretell that card. Its foretell cost is equal to its mana cost reduced by {2}. => Pathbound—Sacrifice two Clerics. [i](As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)[/i]
+Search target opponent's library for a card and exile it. That player shuffles. You foretell that card. Its foretell cost is equal to its mana cost reduced by {2}. Mana of any type can be spent to cast that spell.
+
+Nothing Must be Forgotten
+cost: {6}{U} => {5}{U}
+rules_text: Pathbound—Sacrifice two Clerics. [i](As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)[/i]
+This spell costs {3} less to cast if it targets an instant or sorcery card.
+Exile target card in a graveyard. Copy it. You may cast the copy without paying its mana cost. 
+Exile Nothing Must be Forgotten. => Pathbound—Sacrifice two Clerics. [i](As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)[/i]
+This spell costs {2} less to cast if it targets an instant or sorcery card.
+Exile target card in a graveyard. Copy it. You may cast the copy without paying its mana cost. 
+Exile Nothing Must be Forgotten.
+
+Glassgarden Wanderer
+rules_text: When Glassgarden Wanderer enters, if it was foretold, copy the next foretold spell you cast this turn when you cast it. You may choose new targets for the copy.
+Foretell {W} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i] => When Glassgarden Wanderer enters, if it was foretold, you get a boon with “When a foretold permanent you control enters, create a token that's a copy of that permanent.”
+Foretell {W} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]
+
+Unopened Door
+
+Cyprian Heretic
+
+Vesperan Exodus
+cost: {X}{X}{I}{G} => {X}{IG}{IW}{GW}
+rules_text: Create X 1/1 silver Sanctuary Cleric land creature tokens with “{T}: Add {I}”. => Create X 1/1 silver Sanctuary Cleric land creature tokens with “{T}: Add one mana of any color”.
+
+Season of Numa
+rules_text: Choose one or both —
+• Target nonland permanent phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i]
+• Counter target spell. If that spell is countered this way, put it on top of its owner's library instead of into that player's graveyard. => Choose one or both—
+• Target nonland permanent phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i]
+• Put a random card from your sanctum on top of your library.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Matthias, Imago's Beloved added.
