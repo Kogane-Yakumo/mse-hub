@@ -1,0 +1,508 @@
+﻿[
+    {
+        "card_name": "UW",
+        "number": 17,
+        "shape": "normal",
+        "set": "CFV2",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU",
+        "number": 25,
+        "shape": "normal",
+        "set": "CFV2",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB",
+        "number": 37,
+        "shape": "normal",
+        "set": "CFV2",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR",
+        "number": 61,
+        "shape": "normal",
+        "set": "CFV2",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG",
+        "number": 75,
+        "shape": "normal",
+        "set": "CFV2",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "UW Million Ray Pegasus",
+        "number": 18,
+        "shape": "normal",
+        "set": "CFV2",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU01 Godhawk of the Moon",
+        "number": 29,
+        "shape": "normal",
+        "set": "CFV2",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB02 Banshee of Ripples",
+        "number": 46,
+        "shape": "normal",
+        "set": "CFV2",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR01 Energetic Dragon Dancer",
+        "number": 62,
+        "shape": "normal",
+        "set": "CFV2",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG01 Combat Squirrel",
+        "number": 76,
+        "shape": "normal",
+        "set": "CFV2",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW01 Flogal",
+        "number": 2,
+        "shape": "normal",
+        "set": "CFV2",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU04 Jet Dolphin",
+        "number": 30,
+        "shape": "normal",
+        "set": "CFV2",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB04 Ruin Shade",
+        "number": 47,
+        "shape": "normal",
+        "set": "CFV2",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CR02 Flame of Victory",
+        "number": 63,
+        "shape": "normal",
+        "set": "CFV2",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CG14 Druidic Revelation",
+        "number": 77,
+        "shape": "normal",
+        "set": "CFV2",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW02 Murakumo Snow Guardian",
+        "number": 3,
+        "shape": "normal",
+        "set": "CFV2",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU05 Battle Siren Cadet",
+        "number": 31,
+        "shape": "normal",
+        "set": "CFV2",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CB07 Decay Dragon",
+        "number": 48,
+        "shape": "normal",
+        "set": "CFV2",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CG15 Season of Plenty",
+        "number": 78,
+        "shape": "normal",
+        "set": "CFV2",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CW03 Apprentice Exorcist",
+        "number": 4,
+        "shape": "normal",
+        "set": "CFV2",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU10 Impulse but Sanctum",
+        "number": 32,
+        "shape": "normal",
+        "set": "CFV2",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW04 Knight of Harp",
+        "number": 5,
+        "shape": "normal",
+        "set": "CFV2",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "CU15 Heartfelt Song",
+        "number": 33,
+        "shape": "normal",
+        "set": "CFV2",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW05 Bellringer Angel",
+        "number": 6,
+        "shape": "normal",
+        "set": "CFV2",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW06 Barcgal",
+        "number": 7,
+        "shape": "normal",
+        "set": "CFV2",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW07 Fife and Drum Corp",
+        "number": 8,
+        "shape": "normal",
+        "set": "CFV2",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW08 Guardian Shisa",
+        "number": 9,
+        "shape": "normal",
+        "set": "CFV2",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW09 Enthusiastic Battle Sister",
+        "number": 10,
+        "shape": "normal",
+        "set": "CFV2",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW10 Crimson Mediblade",
+        "number": 11,
+        "shape": "normal",
+        "set": "CFV2",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW11 Love Machine Gun",
+        "number": 12,
+        "shape": "normal",
+        "set": "CFV2",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW12 Dimensional Cuffs",
+        "number": 13,
+        "shape": "normal",
+        "set": "CFV2",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW13 Heavy Break Slam",
+        "number": 14,
+        "shape": "normal",
+        "set": "CFV2",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW14 Overwhelming Light",
+        "number": 15,
+        "shape": "normal",
+        "set": "CFV2",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CW15 Marine Intelligence",
+        "number": 16,
+        "shape": "normal",
+        "set": "CFV2",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "",
+        "number": 1,
+        "shape": "normal",
+        "set": "CFV2",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Color Goals",
+        "number": 1,
+        "shape": "token",
+        "set": "CFV2",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

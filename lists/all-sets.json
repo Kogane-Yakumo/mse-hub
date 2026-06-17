@@ -6,6 +6,11 @@
             "formats": ""
         },
         {
+            "set_code": "CFV2",
+            "set_name": "Cardfight Vanguard Nickel Horizon",
+            "formats": "Voyager"
+        },
+        {
             "set_code": "ICS",
             "set_name": "Incant Set",
             "formats": "Voyager"
