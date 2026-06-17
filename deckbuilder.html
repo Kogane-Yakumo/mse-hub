@@ -416,6 +416,7 @@
 		<ul>
 			<li id="add-to-deck">Add to Deck</li>
 			<li id="add-to-sideboard">Add to Sideboard</li>
+			<li id="add-to-sanctum">Add to Sanctum</li>
 		</ul>
 	</div>
 	<input type="text" id="display" class="hidden" value="cards-and-text"> <!-- here to make img-container-defs snippet work properly -->
@@ -521,6 +522,11 @@
 							<div class="deck-inner-section" id="deck-sideboard-cards">
 							</div>
 						</div>
+						<div class="deck-section" id="deck-sanctum">
+							<span id="deck-sanctum-title">Sanctum (0)</span>
+							<div class="deck-inner-section" id="deck-sanctum-cards">
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
@@ -533,6 +539,7 @@
 		let specialchars = "";
 		let deck = [];
 		let sideboard = [];
+		let sanctum = [];
 		let active_card = [];
 		let sets_json = {};
 
@@ -682,6 +689,7 @@
 			{
 				deck = [];
 				sideboard = [];
+				sanctum = [];
 				processDeck();
 				document.getElementById("file-menu").value = "default";
 			}

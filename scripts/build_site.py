@@ -268,5 +268,5 @@ for code in set_codes:
 
 print_html_for_sets_page.generateHTML()
 print_html_for_search.generateHTML(set_codes)
-print_html_for_deckbuilder.generateHTML(set_codes)
+# print_html_for_deckbuilder.generateHTML(set_codes)
 print_html_for_index.generateHTML()

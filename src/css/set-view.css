@@ -1,0 +1,298 @@
+    @font-face {
+		font-family: 'Beleren Small Caps';
+		src: url('../resources/beleren-caps.ttf');
+	}
+	@font-face {
+		font-family: Beleren;
+		src: url('../resources/beleren.ttf');
+	}
+	body {
+		font-family: 'Helvetica', 'Arial', sans-serif;
+		overscroll-behavior: none;
+		margin: 0px;
+		background-image: url('https://miro.medium.com/v2/resize:fit:4800/format:webp/1*JE-NHwjGgMQfrEVr7hkmcQ.png');
+		/* Art by Weather Factory */
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: center;
+		background-attachment: fixed;
+		height: 100vh;
+	}
+	.banner {
+		width: 100%;
+		background-color: #bbbbbb;
+	}
+	.banner-container {
+		width: 85%;
+		max-width: 1100px;
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		gap: 20px;
+		align-items: center;
+		margin: auto;
+	}
+	.set-banner {
+		font-family: Beleren;
+		display: flex;
+		align-items: center;
+		justify-items: center;
+		font-size: 26px;
+		color: #171717;
+		margin: auto;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		justify-self: left;
+		width: 100%;
+		white-space: nowrap;
+	}
+	.set-banner img {
+		width: 60px;
+		padding-right: 12px;
+	}
+	.set-banner a {
+		font-size: 18px;
+		color: #1338be;
+		text-decoration: none;
+	}
+	.set-banner a:hover {
+		color: #0492c2;
+	}
+	.select-text {
+		display: flex;
+		align-items: center;
+		justify-content: left;
+		gap: 8px;
+		font-size: 14.5px;
+		justify-self: right;
+		text-align: center;
+	}
+	select {
+		background-color: #fafafa;
+		border: 1px solid #656565;
+		border-radius: 8px;
+		box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
+		text-align: center;
+		color: #171717;
+		font-size: 13px;
+		height: 30px;
+	}
+	.button-container {
+		width: 50%;
+		max-width: 900px;
+		margin: auto;
+		padding: 15px 0 5px 0;
+		border-bottom: 2px solid #171717;
+		display: none;
+		grid-template-columns: 1fr 1fr;
+	}
+	.button-container button {
+		font-family: Beleren;
+		font-size: 30px;
+		width: 100%;
+		justify-self: center;
+		border: none;
+		background: none;
+		cursor: pointer;
+	}
+	.button-container button:hover {
+		color: #797979;
+	}
+	.button-container button:disabled {
+		color: #797979;
+		cursor: auto;
+	}
+	.grid-container {
+		display: grid;
+		grid-template-columns: auto;
+		padding-top: 30px;
+		padding-bottom: 30px;
+		max-width: 1200px;
+		margin: auto;
+	}
+	.splash-container {
+		width: 70%;
+		max-width: 1200px;
+		margin: auto;
+		justify-items: center;
+		padding-bottom: 20px;
+	}
+	.image-grid-container {
+		display: grid;
+		grid-template-columns: 1fr 1fr 1fr 1fr;
+		width: 70%;
+		max-width: 1200px;
+		margin: auto;
+		gap: 5px;
+		justify-items: center;
+		padding-top: 30px;
+		padding-bottom: 30px;
+		font-size: 36px;
+		font-family: 'Beleren';
+		color: #535353;
+	}
+	.small-caps {
+		font-family: 'Beleren Small Caps';
+		font-size: 46px;
+	}
+	@media ( max-width: 750px ) {
+		.image-grid-container {
+			grid-template-columns: 1fr 1fr;  
+		}
+	}
+	.image-grid {
+		width: 70%;
+		margin: auto;
+		display: grid;
+		grid-template-columns: minmax(150px, 1fr) minmax(300px, 2fr);
+		gap: 50px;
+		padding-bottom: 10px;
+		justify-items: left;
+	}
+	.image-grid img {
+		position: relative;
+		border-radius: 3.733% / 2.677%;
+	}
+	.card-image {
+		float: left;
+		width: 100%;
+		height: auto;
+		display: block;
+	}
+	.card-text {
+		padding-top: 20px;
+		padding-bottom: 20px;
+		background: #fcfcfc;
+		width: 100%;
+		border: 1px solid #d5d9d9;
+		border-top: 3px solid #171717;
+		border-bottom: 3px solid #171717;
+		border-radius: 6px;
+		height: fit-content;
+		min-height: 75%;
+		margin-top: 3%;
+	}
+	.img-container {
+		position: relative;
+		width: 100%;
+		align-self: center;
+	}
+	.img-container img {
+		width: 100%;
+		height: auto;
+		border-radius: 3.733% / 2.677%;
+	}
+	.img-container .btn {
+		background: url('../img/flip.png') no-repeat;
+		background-size: contain;
+		background-position: center;
+		width: 15%;
+		height: 11%;
+		cursor: pointer;
+		border: none;
+		position: absolute;
+		left: 50%;
+		top: 48%;
+		transform: translate(-50%, -50%);
+		opacity: 0.5;
+	}
+	.img-container .btn:hover {
+		background: url('../img/flip-hover.png') no-repeat;
+		background-size: contain;
+		background-position: center;
+	}
+	.img-container .hidden-text {
+		position: absolute;
+		font-family: Beleren;
+		top: 5%;
+		left: 9%;
+		font-size: .97vw;
+		color: rgba(0, 0, 0, 0);
+	}
+	h1 {
+		font-family: 'Beleren Small Caps';
+		font-size: 48px;
+		margin: 24px 0;
+	}
+	h2 {
+		font-family: 'Beleren';
+		font-size: 30px;
+		margin: 15px 0;
+	}
+	.overlay {
+		position: absolute;
+	    top: 50%;
+	    left: 50%;
+	    margin-right: -50%;
+	    transform: translate(-50%, -50%);
+	    height: 90%;
+	    width: 90%;
+		max-width: 1000px;
+		background-color: #e3e3e3;
+		border: 2px solid #171717;
+		border-radius: 20px;
+		display: none;
+	}
+	.overlay-title {
+		font-family: 'Beleren';
+		font-size: 34px;
+	}
+	.close-btn {
+		background: url('../img/close.png') no-repeat;
+		background-size: contain;
+		background-position: center;
+		width: 50px;
+		height: 50px;
+		border: none;
+		cursor: pointer;
+	}
+	.copy-btn {
+		background: url('../img/copy.png') no-repeat;
+		background-size: contain;
+		background-position: center;
+		width: 50px;
+		height: 50px;
+		border: none;
+		cursor: pointer;
+	}
+	.canvas {
+		max-width: 95%;
+		max-height: 95%;
+		width: auto;
+		height: auto;
+		display: flex;
+		justify-self: center;
+	}
+	.overlay-header {
+		display: grid;
+		height: 7%;
+		grid-template-columns: 2fr 18fr 1fr 1fr;
+		gap: 10px;
+		padding: 1%;
+		justify-self: center;
+		justify-items: center;
+		align-items: center;
+	}
+	.canvas-container {
+		height: 89%;
+		align-content: center;
+		padding-bottom: 1%;
+	}
+	.extras-container {
+		padding-left: 4px;
+		display: flex;
+		align-items: center;
+	}
+	.dot {
+		font-family: 'Helvetica', 'Arial';
+		white-space: pre;
+	}
+	a {
+		cursor: pointer;
+	}
+	p {
+		width: 100%;
+	}
+	p img {
+		display: block;
+		margin: auto;
+	}
