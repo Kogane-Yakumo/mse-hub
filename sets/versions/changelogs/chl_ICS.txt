@@ -1,4 +1,222 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+CU01 Gleamingbird added.
+CI16 Pathwade added.
+CR01 Phoenix Chaser added.
+CB06 Location Ritemaster added.
+CB08 Strange Reflection added.
+CW11 Life from the Light added.
+CW10 Wadelight Angel added.
+ARTS I SHOULD USE added.
+UW05 Angel of Vitality added.
+UW08 Major Modifier added.
+UW03 Scientist added.
+UW07 Angel Aerie Keeper added.
+UW02 Rides-as-One added.
+UW10 Ghosts added.
+UR02 added.
+UR09 Bedlam Reveler added.
+UR03 Spell Thief added.
+UI08 Buttstrike added.
+UI04 Butt Eater added.
+UI02 Opus Shimmerer added.
+UW01 Bodyguard added.
+UI05 Opus added.
+UI13 Somewhat Wipe added.
+UI07 Crop Crasher added.
+UI12 Two Mana Removal added.
+UI11 Opus Draw added.
+UW04 Token Swarm added.
+UU added.
+UB12 Therapy added.
+UR added.
+UG added.
+UI01 Opus Ramp added.
+UU01 Ruin Crab added.
+UI03 added.
+UU02 Bad Idea added.
+UI10 Homesickness added.
+UG02 Merfolk Branchwalker added.
+UB added.
+UI06 Guy Maker added.
+UI14 Charm added.
+UI15 Damnatio Memoriae added.
+UI16 Memory Restored 2 added.
+UI09 Big Threat added.
+UW11 Compensation added.
+UW06 Dawnguard added.
+UW09 added.
+UW15 Setup Lethal added.
+UW14 Combat Trick added.
+UW13 Removal added.
+UW12 What am I doing added.
+
+CU01 Sky Theater Strix removed.
+CI16 Journey removed.
+CR01 Sanctify Witness removed.
+CB06 Sanctum Beats removed.
+CB08 Saga Eater removed.
+CW11 Recommision removed.
+CW10 Flying Incant removed.
+
+UM11 IW Counters Toughness
+cost: {I}{W} => {1}{I}{W}
+
+CG14 Distant Horizons
+rules_text: Look at the top three cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+Incant 5—{1}{G} [i](You can cast this spell from your sanctum for {1}{G} and exiling instant or sorcery cards with total mana value 5 or greater from your graveyard.)[/i] => Look at the top three cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+Incant 5—{1}{G} [i](Skip your next draw phase and exile instant or sorcery cards with total mana value 5 or greater from your graveyard to cast this spell from your sanctum for its incant cost.)[/i]
+
+CI05 Spiteful Servants
+rules_text: Whenever this creature's toughness decreases, it deals that much damage to any noncreature target. => Whenever this creature's toughness decreases, it deals that much damage to any noncreature target.
+{1}, Sacrifice CI05 Spiteful Servants: Destroy target enchantment.
+pt: 1/5 => 1/4
+
+CU02 Watcher from the Sea
+rules_text: Whenever Watcher from the Sea deals combat damage to a player, target player mills that many cards.
+Incant 3—{1}{U} [i](You can cast this spell from your sanctum for {1}{U} and exiling instant or sorcery cards with total mana value 3 or greater from your graveyard.)[/i] => Whenever Watcher from the Sea deals combat damage to a player, target player mills that many cards.
+Incant 3—{1}{U} [i](Skip your next draw phase and exile instant or sorcery cards with total mana value 3 or greater from your graveyard to cast this spell from your sanctum for its incant cost.)[/i]
+
+CR02 Felfire Channeler
+rules_text: Discard a card: Felfire Channeler becomes a 3/3 Demon with menace. Activate only once.
+Incant 4—{1}{R} [i](You can cast this spell from your sanctum for {1}{R} and exiling instant or sorcery cards with total mana value 4 or greater from your graveyard.)[/i] => Discard a card: Felfire Channeler becomes a 3/3 Demon with menace. Activate only once.
+Incant 4—{1}{R} [i](Skip your next draw phase and exile instant or sorcery cards with total mana value 4 or greater from your graveyard to cast this spell from your sanctum for its incant cost.)[/i]
+
+CB14 Taken By Nightmares
+
+CI01 Young Pathwader
+rules_text: When CI01 Young Pathwader attacks, add {I}. Until your next end step, you don't lose this mana as steps and phases end.
+Incant 4—{1}{I} [i](You can cast this spell from your sanctum for {1}{I} and exiling instant or sorcery cards with total mana value 4 or greater from your graveyard.)[/i] => When CI01 Young Pathwader attacks, add {I}. Until your next end step, you don't lose this mana as steps and phases end.
+Incant 4—{1}{I} [i](Skip your next draw phase and exile instant or sorcery cards with total mana value 4 or greater from your graveyard to cast this spell from your sanctum for its incant cost.)[/i]
+
+CI08 New Opus Flying
+rules_text: Create a 3/3 silver Type creature token with flying. Sanctify the top two cards of target player's library. [i](Put it into its owner's sanctum.)[/i]
+Incant 8—{3}{I}{I} [i](You can cast this spell from your sanctum for {3}{I}{I} and exiling instant or sorcery cards with total mana value 8 or greater from your graveyard.)[/i] => Create a 3/3 silver Type creature token with flying. Sanctify the top two cards of target player's library. [i](Put it into its owner's sanctum.)[/i]
+Incant 8—{3}{I}{I} [i](Skip your next draw phase and exile instant or sorcery cards with total mana value 8 or greater from your graveyard to cast this spell from your sanctum for its incant cost.)[/i]
+
+CI15 Removal
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Target nonland permanent loses all abilities until CI15 Removal leaves the battlefield.
+II — Sift 1. [i](Look at the top card of your library. You may put it into your sanctum.)[/i]
+III — Destroy up to one target enchantment or nonland permanent with no abilities. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Target nonland permanent loses all abilities until CI15 Removal leaves the battlefield.
+Sift 1. [i](Look at the top card of your library. You may put it into your sanctum.)[/i]
+Destroy up to one target enchantment or nonland permanent with no abilities.
+
+CI11
+type: Instant => Sorcery
+
+CR08 Wildfire Elemental
+
+CR15 Draw
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Exile the top card of your library, you may play it for as long as you control Draw.
+Target creature you control gets +1/+0 until end of turn.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile the top card of your library, you may play it for as long as you control Draw.
+Target creature you control gets +1/+0 until end of turn.
+​
+
+CR05 Crop Crasher
+rules_text: When Crop Crasher enters, target creature can't block this turn.
+Incant 8—{R}{R} [i](You can cast this spell from your sanctum for {R}{R} and exiling instant or sorcery cards with total mana value 8 or greater from your graveyard.)[/i] => When Crop Crasher enters, target creature can't block this turn.
+Incant 8—{R}{R} [i](Skip your next draw phase and exile instant or sorcery cards with total mana value 8 or greater from your graveyard to cast this spell from your sanctum for its incant cost.)[/i]
+
+CB01 Reckoner Raid
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each opponent loses 1 life and you gain 1 life.
+III — Create a 2/2 black Type creature token with menace.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Each opponent loses 1 life and you gain 1 life.
+Create a 2/2 black Type creature token with menace.
+​
+
+CB15 Draw
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+You draw two cards and lose 2 life.
+I — When you cast your next noncreature spell this turn, you gain 2 life.
+II — Sanctify up to one target card in an opponent's graveyard. [i](Put it into its owner's sanctum.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+You draw two cards and lose 2 life.
+When you cast your next noncreature spell this turn, you gain 2 life.
+Sanctify up to one target card in an opponent's graveyard. [i](Put it into its owner's sanctum.)[/i]
+
+CB05 2-in-1
+rules_text: When 2-in-1 enters, create a 1/1 black Spirit enchantment creature token.
+Incant 5—{2}{B} [i](You can cast this spell from your sanctum for {2}{B} and exiling instant or sorcery cards with total mana value 5 or greater from your graveyard.)[/i] => When 2-in-1 enters, create a 1/1 black Spirit enchantment creature token.
+Incant 5—{2}{B} [i](Skip your next draw phase and exile instant or sorcery cards with total mana value 5 or greater from your graveyard to cast this spell from your sanctum for its incant cost.)[/i]
+
+CB04 Sanctify Matters
+rules_text: Menace
+Whenever you sanctify one or more cards, put a +1/+1 counter on Sanctify Matters. [i](Put it into its owner's sanctum.)[/i] => Menace
+Whenever you put one or more cards into an opponent's sanctum, put a +1/+1 counter on Sanctify Matters.
+
+CB11 Corpse Churn
+
+CW15 Draw
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — You gain 2 life. Then if you have more life than an opponent, draw a card.
+Tap up to one target creature.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+You gain 2 life. Then if you have more life than an opponent, draw a card.
+Tap up to one target creature.
+​
+
+CW04 Incant the Alarm
+rules_text: Create two 1/1 black Spirit enchantment creature tokens. If this spell was cast from your sanctum, tap them.
+Incant 5—{1}{W} [i](You can cast this spell from your sanctum for {1}{W} and exiling instant or sorcery cards with total mana value 5 or greater from your graveyard.)[/i] => Create two 1/1 black Spirit enchantment creature tokens. If this spell was cast from your sanctum, tap them.
+Incant 5—{1}{W} [i](Skip your next draw phase and exile instant or sorcery cards with total mana value 5 or greater from your graveyard to cast this spell from your sanctum for its incant cost.)[/i]
+
+CW14 Consuming Radiance
+
+CW13 Pillar of Light
+
+CW09 John Spectacle
+
+CG05
+rules_text: CG05 gets +2/+2 as long as you have seven or more cards in your graveyard.
+Incant 4—{3}{G} [i](You can cast this spell from your sanctum for {3}{G} and exiling instant or sorcery cards with total mana value 4 or greater from your graveyard.)[/i] => CG05 gets +2/+2 as long as you have seven or more cards in your graveyard.
+Incant 4—{3}{G} [i](Skip your next draw phase and exile instant or sorcery cards with total mana value 4 or greater from your graveyard to cast this spell from your sanctum for its incant cost.)[/i]
+
+CG10 Fog
+
+CG15 Regrowth
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Each player mills three cards.
+I — Each player puts a random card from their sanctum into their graveyard.
+II — Return target creature or land card from your graveyard to your hand. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Each player mills three cards.
+Each player puts a random card from their sanctum into their graveyard.
+Return target creature or land card from your graveyard to your hand.
+
+CU09
+rules_text: Ward {3}
+After your draw step, put a lore counter on CU09. => Ward {2}
+After your draw step, put a lore counter on CU09.
+
+CU06 Get In Flying
+rules_text: Flying
+Whenever Get In Flying attacks, up to one target creature loses flying until end of turn. => Flying
+Whenever Get In Flying attacks, up to one target creature loses all abilities until end of turn.
+
+CU03 Looter
+
+CU15 Tutor
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile an instant or sorcery card form your sanctum.
+II — Target player mills four cards.
+III — Put a card exiled by Tutor into its owner's hand. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Exile an instant or sorcery card form your sanctum.
+III — Target player mills four cards.
+Put a card exiled by Tutor into its owner's hand.
+
+CC01 Environmental Sciences 2
+rules_text: Search your library for a basic land card, reveal it, put it into your hand, then shuffle. You gain 1 life.
+Incant 3—{2} [i](You can cast this spell from your sanctum for {2} and exiling instant or sorcery cards with total mana value 3 or greater from your graveyard.)[/i] => Search your library for a basic land card, reveal it, put it into your hand, then shuffle. You gain 1 life.
+Incant 3—{2} [i](Skip your next draw phase and exile instant or sorcery cards with total mana value 3 or greater from your graveyard to cast this spell from your sanctum for its incant cost.)[/i]
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
