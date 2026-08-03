@@ -1,4 +1,239 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Land added.
+
+
+The Horned-Axe
+rules_text: Trample
+When you cast this spell, until your next turn, your life total can't change. => Trample
+When you cast The Horned-Axe, until your next turn, your life total can't change.
+
+Mother of Ants
+rules_text: {U}{R}, Sacrifice an unblocked attacking creature you control: Put Mother of Ants from your hand onto the battlefield tapped and attacking.
+At the beginning of each of your postcombat main phases, add {R} for each 2 life your opponents have lost this turn. => {U}{R}, Sacrifice a creature that dealt combat damage to an opponent this turn: Put Mother of Ants from your hand onto the battlefield tapped.
+At the beginning of each of your postcombat main phase, add {R} for each 2 life your opponents have lost this turn.
+
+Blazing Crescendo
+
+Banisher Priest
+
+Iron Verdict
+
+Subverted Cyprian
+rules_text: When Subverted Cyprian enters, choose one—
+• Return target land card from your graveyard to your hand. You gain 2 life.
+• Put a +1/+1 counter on Subverted Cyprian. => When Subverted Cyprian enters, choose one —
+• Return target land card from your graveyard to your hand. You gain 2 life.
+• Put a +1/+1 counter on Subverted Cyprian.
+
+Rite of Twins' Union
+rules_text: Create a token that's a copy of target creature you control. If you cast this spell from exile, create two of those tokens instead.
+Foretell {2}{U}{U} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i] => Create a token that's a copy of target creature you control. If this spell was cast from exile, create two of those tokens instead.
+Foretell {2}{U}{U} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]
+
+Subvert the Light
+rules_text: Subvert the Light deals 3 damage to any target. If you cast this spell from exile, it deals 4 damage instead.
+Foretell {R} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i] => Subvert the Light deals 3 damage to any target. If this spell was cast from exile, it deals 4 damage instead.
+Foretell {R} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]
+
+Unlucky Witness
+
+Life's Legacy
+
+Extract Secrets
+rules_text: Destroy up to one target artifact or enchantment. If you cast this spell from exile, you gain 3 life and draw a card.
+Foretell {2}{W} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i] => Destroy up to one target artifact or enchantment. If this spell was cast from exile, you gain 3 life and draw a card.
+Foretell {2}{W} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]
+
+Ignite Fervor
+
+Fucine Translator
+rules_text: When Fucine Translator enters, if you cast it from exile, return target instant or sorcery card from your graveyard to your hand. 
+Foretell {1}{U} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i] => When Fucine Translator enters, if it was cast from exile, return target instant or sorcery card from your graveyard to your hand. 
+Foretell {1}{U} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]
+
+Take Prisoners
+rules_text: Target creature gets -4/-0 until end of turn. Induct [i](Create a 0/1 Cleric creature token with “As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can't block.”)[/i] => Target creature gets -4/-0 until end of turn. Induct. [i](Create a 0/1 Cleric creature token with “As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can't block.”)[/i]
+
+Ragged Sun's Angel
+rules_text: Flying
+Whenever you finish exiling one or more cards, you get a Scar if this is the first time this ability has resolved this turn. Otherwise, you gain 1 life. [i](They're boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)[/i] => Flying
+Whenever you exile one or more cards, you get a Scar if this is the first time this ability has resolved this turn. Otherwise, you gain 1 life. [i](They're boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)[/i]
+
+Sun-Scorched Tempering
+rules_text: Prevent the next 4 damage that would be dealt to target permanent or player. If you cast this spell from exile, Sun-Scorched Tempering deals damage to any target equal to the damage prevented this way.
+Foretell {W} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i] => Prevent the next 4 damage that would be dealt to target permanent or player. If this spell was cast from exile, Sun-Scorched Tempering deals damage to any target equal to the damage prevented this way.
+Foretell {W} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]
+
+Misguiding Lighthouse
+rules_text: Menace
+When Misguiding Lighthouse enters, destroy target tapped artifact or creature you don't control. => Menace
+When Misguiding Lighthouse enters, destroy target tapped artifact or creature an opponent controls.
+
+Seven-Coil Invocation
+rules_text: Target creature gets -0/-1 and gains deathtouch until end of turn. When it dies under you control this turn, draw a card. => Target creature gets -0/-1 and gains deathtouch until end of turn. When it dies under your control this turn, draw a card.
+
+The Geminiad
+
+Bringer of Glory
+
+Relic Vial
+
+Flames of Emnity
+rules_text: At the beginning of your end step, if you attacked, choose one—
+• If a creature you control died this turn, create a 2/2 green Wolf creature token.
+• You get a Scar. [i](They're boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)[/i] => At the beginning of your end step, if you attacked, choose one —
+• If a creature you control died this turn, create a 2/2 green Wolf creature token.
+• You get a Scar. [i](They're boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)[/i]
+
+Guided Crusader
+rules_text: Vigilance
+When Guided Crusader enters, if you cast it from exile, create a 2/2 white Angel creature token with flying.
+Foretell {4}{W}{W} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i] => Vigilance
+When Guided Crusader enters, if it was cast from exile, create a 2/2 white Angel creature token with flying.
+Foretell {4}{W}{W} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]
+
+Cindered Tally
+rules_text: This spell has flash as long as it's foretold.
+If you cast this spell from exile, surveil 2. You draw two cards and lose 2 life.
+Foretell {1}{B} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i] => This spell has flash as long as it's foretold.
+If this spell was cast from exile, surveil 2. You draw two cards and lose 2 life.
+Foretell {1}{B} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]
+
+Escape into the Night
+
+Seven-Coiled Strength
+rules_text: Target creature you control gains hexproof until end of turn. If you cast this spell from exile, it gets +3/+3 until end of turn. 
+Foretell {G} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i] => Target creature you control gains hexproof until end of turn. If this spell was cast from exile, it gets +3/+3 until end of turn. 
+Foretell {G} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]
+
+Augury Raven
+
+Eyes Everywhere
+
+Moonlit Augury
+rules_text: Whenever you draw a card except the first one you draw in each of your draw steps, induct. This ability only triggers twice per turn. [i](Create a 0/1 Cleric creature token with “As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can't block.”)[/i] => Whenever you draw one or more cards except first one you draw in each of your draw steps, induct. This ability only triggers twice per turn. [i](Create a 0/1 Cleric creature token with “As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can't block.”)[/i]
+
+Seaside Smuggler
+rules_text: Seaside Smuggler can't be blocked by creatures with greater power.
+{U}, Exile Seaside Smuggler from your graveyard: Induct. Activate only as sorcery. [i](Create a 0/1 Cleric creature token with “As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can't block.”)[/i] => Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]
+{U}, Exile Seaside Smuggler from your graveyard: Induct. Activate only as sorcery. [i](Create a 0/1 Cleric creature token with “As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can't block.”)[/i]
+
+Veil of Dreams
+
+Callidate Invocation
+
+Enflamed Caligine
+rules_text: Reach
+When Enflamed Caligine enters, if you cast it from exile, it gains haste until end of turn.
+Foretell {3}{R} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i] => Reach
+When Enflamed Caligine enters, if it was cast from exile, it gains haste until end of turn.
+Foretell {3}{R} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]
+
+Traitorous Blood
+
+The Old Forms
+rules_text: Until end of turn, target creature gets +3/+3 and gains “Whenever this creature is dealt damage while its tapped, you get a Scar.” [i](They're boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)[/i] => Until end of turn, target creature gets +3/+3 and gains “Whenever this creature is dealt damage while it's tapped, you get a Scar.” [i](They're boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)[/i]
+
+Pupil of Defiance
+
+Lorescale Coatl
+
+Field of Ruin
+
+God Horror
+
+Musician's Remnant
+rules_text: Haste
+Musician's Remnant can't block.
+{G}, Shuffle Musician's Remnant from your graveyard into your library: Create a token that's a copy of Musician's Remnant. Activate only if you've drawn three or more cards this turn. => Haste
+Musician's Remnant can't block.
+{8}{G}{G}, Shuffle Musician's Remnant from your graveyard into your library: Create a token that's a copy of Musician's Remnant. This ability costs {2} less to activate for each card you've drawn this turn.
+
+Ambitions of Ascension
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Put two +1/+1 counters on target non-God creature. It becomes a God in addition to its other types. 
+Search your library for a God card, reveal it, put it into your hand, then shuffle.
+Reveal a card in your hand. Target God you control gains the revealed card's abilities. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Target non-God creature becomes a God in addition to its other types. Put two +1/+1 counters on it.
+Search your library for a God card, reveal it, put it into your hand, then shuffle.
+II — Reveal a card in your hand. Target God you control gains the revealed card's abilities. [i](This effect lasts indefinitely)[/i]
+
+Glassgarden Watcheye
+rules_text: Gods and other Clerics you control get +1/+0 and have first strike.
+Whenever Glassgarden Watcheye attacks, induct twice. Tokens created this way enter tapped and attacking. [i](Create a 0/1 Cleric creature token with “As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can't block.”)[/i] => Gods and other Clerics you control get +1/+0 and have first strike.
+Whenever Glassgarden Watcheye attacks, induct twice. Tokens created this way are tapped and attacking. [i](Create a 0/1 Cleric creature token with “As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can't block.”)[/i]
+
+Ophidian Soul
+rules_text: Flash
+When Ophidian Soul enters, target permanent gains Ophidian Soul abilities until end of turn.
+Whenever Ophidian Soul deals combat damage to a player, draw a card. => Flash
+When Ophidian Soul enters, target permanent gains Ophidian Soul's abilities until end of turn.
+Whenever Ophidian Soul deals combat damage to a player, draw a card.
+
+The Museum of Worms
+
+Legacy of Flint
+rules_text: Whenever you finish exiling one or more cards, Legacy of Flint deals damage to target player equal to the number of spells you've cast from exile this turn. => At the beginning of your end step, create a tapped land token with “{T}, Sacrifice this land: Add {R}.”
+{2}{R}, Sacrifice a land: Legacy of Flint deals 2 damage to any target.
+
+Malleary Augmenter
+rules_text: Haste
+Whenever Malleary Augmenter or another Cleric you control enters, you may pay {R}. If you do, creatures you control get +1/+0 until end of turn. => Other Clerics you control get +1/+1.
+At the beginning of combat on your turn, you may pay {R}. If you do, Clerics and Gods you control gain haste until end of turn.
+
+The Thunderskin
+pt: 4/4 => 3/4
+
+Dappled Wing-Clippers
+rules_text: When Dappled Wing-Clippers enters, mill three cards.
+{1}, Sacrifice Dappled Wing-Clippers: Choose one—
+• Destroy target artifact or enchantment.
+• Return target land card from your graveyard to the battlefield tapped. => When Dappled Wing-Clippers enters, mill three cards.
+{1}, Sacrifice Dappled Wing-Clippers: Choose one —
+• Destroy target artifact or enchantment.
+• Return target land card from your graveyard to the battlefield tapped.
+
+Flesh Weaver
+
+Cleric
+
+Angel
+
+Wolf
+
+Legacy of Amber
+rules_text: At the beginning of your end step, if a permanent you controlled left the battlefield this turn, exile target card from a graveyard, you may have it become foretold. [i](Their foretell costs are their mana costs if they aren't already specified.)[/i] => At the beginning of your end step, if a permanent you controlled left the battlefield this turn, exile target permanent card from a graveyard, you may have it become foretold. [i](Their foretell costs are their mana costs if they aren't already specified.)[/i]
+
+Painted Distorter
+rules_text: Flash
+When Painted Distorter enters, counter target spell if its a noncreature spell or if you cast Painted Distorter from exile.
+Foretell {3}{U}{U} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i] => Flash
+When Painted Distorter enters, counter target spell if it's a noncreature spell or if Painted Distorter was cast from exile.
+Foretell {3}{U}{U} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]
+
+Skin's Division
+rules_text: Counter target permanent spell unless its controller pays {3}. If you cast this spell from exile, instead counter that spell, then surveil 2.
+Foretell {1}{U} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i] => Counter target permanent spell unless its controller pays {3}. If this spell was foretold, instead counter that spell, then surveil 2.
+Foretell {1}{U} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]
+
+Crowned Ghoul
+rules_text: Flying
+At the beginning of your end step, each player sacrifices a creature. 
+When you sacrifice Crowned Ghoul, you may search your library for a card named The Crowned Growth exile it. If you do, it becomes foretold. [i](Its foretell cost is its mana cost if it isn't already specified.)[/i] => Flying
+At the beginning of your end step, each player sacrifices a creature. 
+When you sacrifice Crowned Ghoul, you may search your library for a card named The Crowned Growth and exile it. If you do, it becomes foretold. [i](Its foretell cost is its mana cost if it isn't already specified.)[/i]
+
+Herald of Loss
+rules_text: Reach
+When Herald of Loss enters, each opponent discards a card or puts a foretold card they own into their graveyard. => Reach
+When Herald of Loss enters, each opponent puts a foretold card to the graveyard or discards a card.
+
+Monument of Rags
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

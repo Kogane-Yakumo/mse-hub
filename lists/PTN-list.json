@@ -2376,6 +2376,14 @@
         "position": ""
     },
     {
+        "card_name": "Land",
+        "number": 8,
+        "shape": "token",
+        "set": "PTN",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "Angel",
         "number": 5,
         "shape": "token",
@@ -2398,9 +2406,6 @@
         "set": "PTN",
         "rotated": false,
         "position": ""
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"

@@ -1,4 +1,322 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+CI03 Riftborn Sprite added.
+CU08 Consult Payoff added.
+CU12 Consult the Stars added.
+CR14 Joy of Destruction added.
+CB06 [Location] Ritemaster added.
+CU10 Unplanned Pathwade added.
+CC02 [Random Ghost] added.
+CW08 [Deity]'s Blessing added.
+CW09 [Something] Voyager added.
+CW01 Wade-Fleece Shepherd added.
+CW13 Consuming Radiance added.
+CW14 Fiberous Bindings added.
+CW15 Crystalline Gateway added.
+CU03 Gleamingbird added.
+CU09 Lake's Embrace added.
+CU13 Unsubstantiate added.
+CB11 Profane Awakening added.
+CB08 Tenth Life Caretaker added.
+CB05 Strange Reflection added.
+CR15 [NAME THIS] added.
+CR04 Sandmaker Weird added.
+CR07 [Turret Ogre] added.
+CR03 [Ardor Blossom Moth] added.
+CR05 [Power Cat] added.
+CG11 Teeth and Technique added.
+CG15 [Something] Memorial added.
+CG03 Spiritwyld Pack added.
+CG04 [Wooden Mystic] added.
+CG07 added.
+CG09 [Multi-Spider] added.
+CI14 Star Crossing Shot added.
+CI10 Foraging Necktwister added.
+CI05 Thundering Nighthound added.
+CI09 Vista Monitor added.
+CI11 Introductory Spacebending added.
+CI12 Flux Frequencies added.
+CI16 Explore the Pathwade added.
+CI08 Migratory Calling added.
+CW03 [Something] Pegasus added.
+CW12 Light's Embrace added.
+CR13 [NAME THIS] added.
+CB01 Allure of Darkness added.
+CW02 [Location] Relicbonder added.
+CU04 [NAME THIS] added.
+CB14 Haunting Nightmare added.
+CI15 One with the Pathwade added.
+CG05 [Aurora Cat] added.
+Bird added.
+CR12 Induce Visions added.
+CI07 Crystal Magus added.
+CU05 [Summoned Beast] added.
+CU14 Oceanic Pull added.
+CG10 [Colossal Landmaw] added.
+CU06 [NAME THIS] added.
+CR10 Lashing Flames added.
+CU11 Wonder the Waves added.
+CI02 Antiquimancy Student added.
+CI04 [Something] Skywhale added.
+CI06 Star Aligner added.
+CW07 [Something] Lightbinder added.
+CB02 Corvid Bowmasters added.
+CB03 Speaker of Last Rites added.
+CB04 Twist Dream added.
+CB10 Cremation added.
+CB15 Dead Memory added.
+CB09 Perching Harpies added.
+Spirit added.
+CB07 [Something] Panther added.
+CW04 Apostle Velox added.
+CW11 Shining Spark added.
+CU01 [Bird] added.
+CC01 Observe the Pathweft added.
+CU07 [Something] Skywhale added.
+CG08 [Wooden Dragon] added.
+CU15 The Voyage added.
+CR09 [Big Lava Lizard] added.
+CR11 Blazing Crescendo added.
+CR06 [Valor Singer] added.
+CG13 [Might of the Masses] added.
+CR08 [Scholar of Combustion] added.
+CG01 [Something] Wisp-Speaker added.
+CG06 [Mushroom Snail] added.
+CG12 [Windstorm] added.
+CC05 [Big Dumb Flying] added.
+CC03 Haunting Story added.
+CC04 [Magic Spear] added.
+
+UM01 WU Lifegain Mill removed.
+UM02 UB Mill Sanctify removed.
+UM03 BR Enchantment Burn removed.
+UM04 RG Power Graveyard removed.
+UM05 GW Lifegain Lands removed.
+UM06 WB Counters Enchantments removed.
+UM09 UR Unblocked Burn removed.
+UM07 BG Sanctify Graveyard removed.
+UM10 RW Power Counters removed.
+UM08 GU Graveyard Mill removed.
+UM11 IW Counters Toughness removed.
+UM12 IU Unblocked Toughness removed.
+UM13 IB Sanctifying Opus removed.
+UM14 IR Burn Toughness removed.
+UM15 IG Lands Opus removed.
+UL01 removed.
+UL02 River of Tears removed.
+UL03 removed.
+UL04 removed.
+UL05 removed.
+UL06 removed.
+UL07 removed.
+UL08 removed.
+UL09 removed.
+UL10 removed.
+UL11 removed.
+UL12 removed.
+UL13 removed.
+UL14 removed.
+UL15 removed.
+CR14 Burst Lightning removed.
+CI02 Expressive Firedancer removed.
+CI05 Spiteful Servants removed.
+CI14 Removal removed.
+CI10 Shotgun Scarab removed.
+CU14 Unsubstantiate removed.
+CI03 Tough Spymaster removed.
+CI07 Thundering Nighthound removed.
+CW02 Lightwalker removed.
+CU01 Gleamingbird removed.
+CU08 Mill removed.
+CU10 Consult the Stars removed.
+CB10 Disappear One Day removed.
+CR03 Pyromantic Neophyte removed.
+CR13 Joy of Destruction removed.
+CB03 Basilica Screecher removed.
+CB14 Taken By Nightmares removed.
+CI12 Skullduggery removed.
+CI09 Droll Bird 2 removed.
+CI16 Pathwade removed.
+CI04 Big Bird removed.
+CI08 New Opus Flying removed.
+CI15 Removal removed.
+CI06 removed.
+CI11 removed.
+CR08 Wildfire Elemental removed.
+CR07 Firefist Office Fixer removed.
+CR04 Boundary Lands Ranger removed.
+CR06 [Location] Firemane removed.
+CR09 Power Matters Haste removed.
+CR10 Hearts on Fire removed.
+CR15 Draw removed.
+CR05 Crop Crasher removed.
+CB01 Reckoner Raid removed.
+CR11 Power Based Removal removed.
+CR12 Raze the Smelt removed.
+CU11 Lake's Embrace removed.
+CB15 Draw removed.
+CB05 2-in-1 removed.
+CB02 Burglar Spirit removed.
+CB04 Sanctify Matters removed.
+CB07 Rager removed.
+CB09 Large Flying removed.
+CB11 Corpse Churn removed.
+CB06 Location Ritemaster removed.
+CB08 Strange Reflection removed.
+CW15 Draw removed.
+CW03 Shining Idol removed.
+CW12 Feat of Resistance removed.
+CW04 Incant the Alarm removed.
+CW14 Consuming Radiance removed.
+CW01 Welcoming Stray removed.
+CW11 Life from the Light removed.
+CW08 Modal removed.
+CW13 Pillar of Light removed.
+CW07 Tapper removed.
+CW09 John Spectacle removed.
+CU07 Spectacle removed.
+CG03 Gravefiller removed.
+CG05 removed.
+CG06 Territorial Scythecat removed.
+CG01 removed.
+CG04 removed.
+CG10 Fog removed.
+CG08 removed.
+CG07 Giant Enemy Spider removed.
+CG09 removed.
+CG11 TRICK removed.
+CG12 FIGHT removed.
+CG13 NATURALIZE removed.
+CG15 Regrowth removed.
+CU09 removed.
+CU06 Get In Flying removed.
+CU03 Looter removed.
+CU12 Counterspell removed.
+CU04 Mill Payoff removed.
+CU05 John Blue Man removed.
+CU13 Spectacle removed.
+CU15 Tutor removed.
+CC02 removed.
+CC01 Environmental Sciences 2 removed.
+CC03 removed.
+CC05 Big Dumb Flying removed.
+CC04 removed.
+ARTS I SHOULD USE removed.
+UW05 Angel of Vitality removed.
+UW08 Major Modifier removed.
+UW03 Scientist removed.
+UW07 Angel Aerie Keeper removed.
+UW02 Rides-as-One removed.
+UW10 Ghosts removed.
+UR02 removed.
+UR09 Bedlam Reveler removed.
+UR03 Spell Thief removed.
+UI08 Buttstrike removed.
+UI04 Butt Eater removed.
+UI02 Opus Shimmerer removed.
+UW01 Bodyguard removed.
+UI05 Opus removed.
+UI13 Somewhat Wipe removed.
+UI07 Crop Crasher removed.
+UI12 Two Mana Removal removed.
+UI11 Opus Draw removed.
+UW04 Token Swarm removed.
+UU removed.
+UB12 Therapy removed.
+UR removed.
+UG removed.
+UI01 Opus Ramp removed.
+UU01 Ruin Crab removed.
+UI03 removed.
+UU02 Bad Idea removed.
+UI10 Homesickness removed.
+UG02 Merfolk Branchwalker removed.
+UB removed.
+UI06 Guy Maker removed.
+UI14 Charm removed.
+UI15 Damnatio Memoriae removed.
+UI16 Memory Restored 2 removed.
+UI09 Big Threat removed.
+UW11 Compensation removed.
+UW06 Dawnguard removed.
+UW09 removed.
+UW15 Setup Lethal removed.
+UW14 Combat Trick removed.
+UW13 Removal removed.
+UW12 What am I doing removed.
+
+CG02 Brightpetal Hind
+rules_text: When Brightpetal Hind enters, sanctify the top card of your library. You may put a land card from your sanctum into your hand. If you don't put a +1/+1 counter on Brightpetal Hind. [i](Put it into its owner's sanctum.)[/i] => When this creature enters, sanctify the top card of your library. You may put a land card from your sanctum into your hand. If you don't, put a +1/+1 counter on this creature. [i](Sanctified cards are put into their owner's sanctum.)[/i]
+
+CI13 Immense Soul
+rules_text: Create a 4/4 Fault Reflection land creature token with haste and decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Create a 4/3 Fault Reflection land creature token with haste and decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+CW05 Skycrest Tiger
+rules_text: Skycrest Tiger enters with two lore counters. => Vigilance
+This creature enters with two lore counters.
+pt: 3/3 => 2/3
+
+CR01 Phoenix Chaser
+rules_text: Haste
+When Phoenix Chaser dies, exile a random card from your sanctum. You may play it until the end of your next turn. => Haste
+When this creature dies, exile a random card from your sanctum. You may play it until the end of your next turn.
+
+CW10 Wadelight Angel
+rules_text: Flying
+When Wadelight Angel enters, exile up to one target card in a graveyard. You gain 2 life.
+Incant 7—{4}{W}{W} [i](Skip your next draw phase and exile instant or sorcery cards with total mana value 7 or greater from your graveyard to cast this spell from your sanctum for its incant cost.)[/i] => Flying
+When this creature enters, exile up to one target card in a graveyard. You gain 2 life.
+Incant 7—{4}{W}{W} [i](Skip your next draw phase and exile instant or sorcery cards with total mana value 7 or greater from your graveyard to cast this spell from your sanctum for its incant cost.)[/i]
+
+CW06 Celestial Unicorn
+rules_text: Whenever you gain life, put a +1/+1 counter on Celestial Unicorn. => Whenever you gain life, put a +1/+1 counter on this creature.
+
+CU02 Watcher from the Sea
+rules_text: Whenever Watcher from the Sea deals combat damage to a player, target player mills that many cards.
+Incant 3—{1}{U} [i](Skip your next draw phase and exile instant or sorcery cards with total mana value 3 or greater from your graveyard to cast this spell from your sanctum for its incant cost.)[/i] => When this creature enters, draw a card, then discard a card.
+Incant 4—{1}{U} [i](Skip your next draw phase and exile instant or sorcery cards with total mana value 4 or greater from your graveyard to cast this spell from your sanctum for its incant cost.)[/i]
+
+CR02 Felfire Channeler
+rules_text: Discard a card: Felfire Channeler becomes a 3/3 Demon with menace. Activate only once.
+Incant 4—{1}{R} [i](Skip your next draw phase and exile instant or sorcery cards with total mana value 4 or greater from your graveyard to cast this spell from your sanctum for its incant cost.)[/i] => Discard a card: This creature becomes a 3/3 Demon with menace. Activate only once.
+Incant 4—{1}{R} [i](Skip your next draw phase and exile instant or sorcery cards with total mana value 4 or greater from your graveyard to cast this spell from your sanctum for its incant cost.)[/i]
+
+CI01 Young Pathwader
+type: Creature => Creature — Human Scout
+rules_text: When CI01 Young Pathwader attacks, add {I}. Until your next end step, you don't lose this mana as steps and phases end.
+Incant 4—{1}{I} [i](Skip your next draw phase and exile instant or sorcery cards with total mana value 4 or greater from your graveyard to cast this spell from your sanctum for its incant cost.)[/i] => When this creature attacks, add {I}. Until your next end step, you don't lose this mana as steps and phases end.
+Incant 4—{1}{I} [i](Skip your next draw phase and exile instant or sorcery cards with total mana value 4 or greater from your graveyard to cast this spell from your sanctum for its incant cost.)[/i]
+
+Color Goals
+rules_text: {W}: Counters {I}{B}{R} / Lifegain {U}{G}
+{U}: Unblocked {I}{R} / Mill {B}{G}{W}
+{B}: Sanctify {I}{U}{G} / Enchantments {W}{R}
+{R}: Burn {I}{B}{U} / Power {W}{G}
+{G}: Graveyard {R}{U}{B} / Lands {I}{W}
+{I}: Toughness {W}{U}{R} / Opus {G}{B}
+Mechanics
+• Chronicle
+• Incant
+• Spectacle
+• Modified => {W}: Lifegain & Modified
+{U}: Discard & Unblocked
+{B}: Sanctify & Enchantments
+{R}: Burn & Power
+{G}: Lands & Go Wide
+{I}: Toughness & Spell Expend
+Mechanics
+• Chronicle
+• Incant
+• Consult
+• [i]Erudite[/i]
+
+CB13 Echoing Decay
+
+CB12 Paradoxical Inquiry
+
+
+VERSION 2 CHANGELOG
 ====================
 
 CU01 Gleamingbird added.

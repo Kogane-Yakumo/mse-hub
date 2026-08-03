@@ -1,4 +1,89 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+Drag to Nowhere removed.
+
+The End is Beautiful
+rules_text: At the beginning of each player's upkeep, that player sacrifices a nonland, nontoken permanent. If that player can't, they discard a card, they lose 2 life, you draw a card, you induct, then you sacrifice The End is Beautiful. [i](Create a 0/1 Cleric creature token with “As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can't block.”)[/i] => The End is Beautiful enters with three time counters on it.
+At the beginning of each opponent's upkeep, remove a time counter on The End is Beautiful. Then if it has no time counters on it, that player sacrifices all creatures you control. If no creatures were sacrificed this way, they lose 7 life.
+
+Master of the Wild Hunt
+
+Life, Unending
+rules_text: Pathbound—Sacrifice two Clerics. [i](As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)[/i]
+Double the size of target creature. You gain life equal to its power or toughness, whichever is greater. => Pathbound—Sacrifice two Clerics. [i](As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)[/i]
+Double the size of target creature until end of turn. You gain life equal to its power or toughness, whichever is greater.
+
+Nothing Must be Forgotten
+cost: {5}{U} => {2}{U}
+rules_text: Pathbound—Sacrifice two Clerics. [i](As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)[/i]
+This spell costs {2} less to cast if it targets an instant or sorcery card.
+Exile target card in a graveyard. Copy it. You may cast the copy without paying its mana cost. 
+Exile Nothing Must be Forgotten. => Pathbound—Sacrifice two Clerics. [i](As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)[/i]
+Return to your hand all cards in your graveyard that you sacrificed this turn.
+
+Vespera in Flames
+rules_text: Wipe deals 5 damage to each creature and each planeswalker. If a creature or planeswalker an opponent controls would die this turn, exile it instead. => Vespera in Flames deals 5 damage to each creature and each planeswalker. If a creature or planeswalker an opponent controls would die this turn, exile it instead.
+
+Maid-in-the-Mirror
+rules_text: Creatures you control enter from exile with an additional +1/+1 counter on them.
+Foretell {WU} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i] => Maid-in-the-Mirror and other creatures you control that entered or were cast from exile enter with an additional +1/+1 counter on them.
+Foretell {WU} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]
+
+Cyprian Heretic
+rules_text: Whenever a Sanctuary you control enters, create a token that's a copy of it. Untap that token. Exile it at the beginning of the next end step. => Whenever a nontoken Sanctuary you control enters, create a token that's a copy of it. Untap that token. Exile it at the beginning of the next end step.
+
+Fall of the Axe
+rules_text: Destroy target nonland permanent if it has no abilities or is colorless.
+You gain 2 life. => Destroy target nonartifact, nonland permanent if it has no abilities or is colorless.
+You gain 2 life.
+
+Possibilities Unseen
+rules_text: Reveal up to four cards from your sanctum. An opponent chooses two of those card. Put the chosen cards into your graveyard and the rest into your hand. => Reveal up to four cards from your sanctum. An opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand.
+
+Fruiting Devoured
+rules_text: Flash
+Ward {1}
+Whenever an opponent searches their library, put a +1/+1 counter on Fruiting Devoured and you gain 1 life. => Flash
+Whenever an opponent searches their library, put a +1/+1 counter on Fruiting Devoured and you gain 1 life.
+
+Ossivus Scavengers
+rules_text: Haste
+Whenever Ossivus Scavengers attacks or becomes the target of a spell, create a treasure token.
+Whenever you get a Scar, create a treasure token. => Haste
+Whenever Ossivus Scavengers attacks or becomes the target of a spell, create a Treasure token.
+Whenever you get a Scar, create a Treasure token.
+
+Season of Numa
+rules_text: Choose one or both—
+• Target nonland permanent phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i]
+• Put a random card from your sanctum on top of your library. => Choose one or both —
+• Target nonland permanent phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i]
+• Put a random card from your sanctum on top of your library.
+
+Legacy of the Axe
+rules_text: At the beginning of combat, up to one target creature you control gets +2/-2 until end of turn. Then, exchange the sizes of any number of creatures you control. => Whenever you attack, up to one target creature you control gets +2/-2 until end of turn. Then, exchange the sizes of any number of attacking creatures you control.
+
+Unformed Sun-Servant
+rules_text: Flying
+The first card you foretell each turn costs {0}.
+Whenever you cast a spell from exile, Unformed Sun-Servant becomes an enchantment creature until end of turn. => Flying
+The first card you foretell each turn costs {0} to foretell.
+Whenever you cast a spell from exile, Unformed Sun-Servant becomes an enchantment creature until end of turn.
+
+Coelle, Consumed Hunter
+rules_text: When Coelle, Consumed Hunter enters, induct [i](Create a 0/1 Cleric creature token with “As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can't block.”)[/i]
+When Coelle, Consumed Hunter dies, draw three cards if three or more permanents were sacrificed and/or creatures died this turn. => When Coelle, Consumed Hunter enters, induct. [i](Create a 0/1 Cleric creature token with “As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can't block.”)[/i]
+When Coelle, Consumed Hunter dies, draw three cards if three or more permanents were sacrificed and/or creatures died this turn.
+
+Thing in the Wood
+rules_text: Flash
+When Thing in the Wood enters, choose target card in exile that an opponent could play. You can look at and play that card instead. => Flash
+When Thing in the Wood enters, exile target card in exile if it's foretold or an opponent could play it. You foretell that card. Mana of any type can be used to cast that spell.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Living Spore added.

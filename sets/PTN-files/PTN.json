@@ -14,7 +14,7 @@
             "number": 2,
             "color_identity": "C",
             "cost": "{5}",
-            "rules_text": "Trample\nWhen you cast this spell, until your next turn, your life total can't change.",
+            "rules_text": "Trample\nWhen you cast The Horned-Axe, until your next turn, your life total can't change.",
             "flavor_text": "[i]The Lithomachy exposed her to the horrors of extra-planer influence.[/i]",
             "pt": "5/5",
             "special_text": "",
@@ -33,7 +33,7 @@
             "number": 217,
             "color_identity": "UR",
             "cost": "{2}{U}{R}",
-            "rules_text": "{U}{R}, Sacrifice an unblocked attacking creature you control: Put Mother of Ants from your hand onto the battlefield tapped and attacking.\nAt the beginning of each of your postcombat main phases, add {R} for each 2 life your opponents have lost this turn.",
+            "rules_text": "{U}{R}, Sacrifice a creature that dealt combat damage to an opponent this turn: Put Mother of Ants from your hand onto the battlefield tapped.\nAt the beginning of each of your postcombat main phase, add {R} for each 2 life your opponents have lost this turn.",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
@@ -280,7 +280,7 @@
             "loyalty": "",
             "designer": "Kogane",
             "artist": "Katie Red Brooks",
-            "notes": "reprint"
+            "notes": "reprint\n!tag CanonReprint"
         },
         {
             "card_name": "Lessons of Strife",
@@ -774,7 +774,7 @@
             "loyalty": "",
             "designer": "Kogane",
             "artist": "James Zapata",
-            "notes": "reprint"
+            "notes": "!tag CanonReprint\nreprint"
         },
         {
             "card_name": "Bars Across the Sun",
@@ -869,7 +869,7 @@
             "loyalty": "",
             "designer": "Kogane",
             "artist": "SamC-Art",
-            "notes": "reprint"
+            "notes": "!tag CanonReprint\nreprint"
         },
         {
             "card_name": "Legacy of Tides",
@@ -917,7 +917,7 @@
             "number": 42,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "When Subverted Cyprian enters, choose one\u2014\n\u2022 Return target land card from your graveyard to your hand. You gain 2 life.\n\u2022 Put a +1/+1 counter on Subverted Cyprian.",
+            "rules_text": "When Subverted Cyprian enters, choose one \u2014\n\u2022 Return target land card from your graveyard to your hand. You gain 2 life.\n\u2022 Put a +1/+1 counter on Subverted Cyprian.",
             "flavor_text": "[i]From sensation, to change, to light.[/i]",
             "pt": "2/1",
             "special_text": "",
@@ -955,7 +955,7 @@
             "number": 70,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "Create a token that's a copy of target creature you control. If you cast this spell from exile, create two of those tokens instead.\nForetell {2}{U}{U} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]",
+            "rules_text": "Create a token that's a copy of target creature you control. If this spell was cast from exile, create two of those tokens instead.\nForetell {2}{U}{U} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]",
             "flavor_text": "[i]The Twins drowned at sea to ascend through the Painted River.[/i]",
             "pt": "",
             "special_text": "",
@@ -1107,7 +1107,7 @@
             "number": 154,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Subvert the Light deals 3 damage to any target. If you cast this spell from exile, it deals 4 damage instead.\nForetell {R} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]",
+            "rules_text": "Subvert the Light deals 3 damage to any target. If this spell was cast from exile, it deals 4 damage instead.\nForetell {R} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]",
             "flavor_text": "[i]Light becomes heat; Sun falls to the Forge.[/i]",
             "pt": "",
             "special_text": "",
@@ -1154,7 +1154,7 @@
             "loyalty": "",
             "designer": "Kogane",
             "artist": "AyyaSAP",
-            "notes": "reprint"
+            "notes": "!tag CanonReprint\nreprint"
         },
         {
             "card_name": "Life's Legacy",
@@ -1173,7 +1173,7 @@
             "loyalty": "",
             "designer": "Kogane",
             "artist": "Daria Rattik",
-            "notes": "reprint"
+            "notes": "!tag CanonReprint\nreprint"
         },
         {
             "card_name": "Ezeem, the Second Thirstly",
@@ -1259,7 +1259,7 @@
             "number": 19,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Destroy up to one target artifact or enchantment. If you cast this spell from exile, you gain 3 life and draw a card.\nForetell {2}{W} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]",
+            "rules_text": "Destroy up to one target artifact or enchantment. If this spell was cast from exile, you gain 3 life and draw a card.\nForetell {2}{W} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1287,7 +1287,7 @@
             "loyalty": "",
             "designer": "Kogane",
             "artist": "OliverBeck",
-            "notes": ""
+            "notes": "!noscript"
         },
         {
             "card_name": "Lended Light",
@@ -1335,7 +1335,7 @@
             "number": 56,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "When Fucine Translator enters, if you cast it from exile, return target instant or sorcery card from your graveyard to your hand. \nForetell {1}{U} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]",
+            "rules_text": "When Fucine Translator enters, if it was cast from exile, return target instant or sorcery card from your graveyard to your hand. \nForetell {1}{U} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -1373,7 +1373,7 @@
             "number": 79,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "Target creature gets -4/-0 until end of turn. Induct [i](Create a 0/1 Cleric creature token with \u201cAs a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can't block.\u201d)[/i]",
+            "rules_text": "Target creature gets -4/-0 until end of turn. Induct. [i](Create a 0/1 Cleric creature token with \u201cAs a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can't block.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1382,7 +1382,7 @@
             "loyalty": "",
             "designer": "Kogane",
             "artist": "Davide Lazzoni",
-            "notes": ""
+            "notes": "!noscript"
         },
         {
             "card_name": "Ragged Sun's Angel",
@@ -1392,7 +1392,7 @@
             "number": 37,
             "color_identity": "W",
             "cost": "{4}{W}{W}",
-            "rules_text": "Flying\nWhenever you finish exiling one or more cards, you get a Scar if this is the first time this ability has resolved this turn. Otherwise, you gain 1 life. [i](They're boons with \u201cWhen a creature you control dies, you may pay {1}. If you do, draw a card.\u201d)[/i]",
+            "rules_text": "Flying\nWhenever you exile one or more cards, you get a Scar if this is the first time this ability has resolved this turn. Otherwise, you gain 1 life. [i](They're boons with \u201cWhen a creature you control dies, you may pay {1}. If you do, draw a card.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -1411,7 +1411,7 @@
             "number": 43,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "Prevent the next 4 damage that would be dealt to target permanent or player. If you cast this spell from exile, Sun-Scorched Tempering deals damage to any target equal to the damage prevented this way.\nForetell {W} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]",
+            "rules_text": "Prevent the next 4 damage that would be dealt to target permanent or player. If this spell was cast from exile, Sun-Scorched Tempering deals damage to any target equal to the damage prevented this way.\nForetell {W} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1449,7 +1449,7 @@
             "number": 5,
             "color_identity": "C",
             "cost": "{5}",
-            "rules_text": "Menace\nWhen Misguiding Lighthouse enters, destroy target tapped artifact or creature you don't control.",
+            "rules_text": "Menace\nWhen Misguiding Lighthouse enters, destroy target tapped artifact or creature an opponent controls.",
             "flavor_text": "[i]Vessels sailing the seas of Vespera best be wary.[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1563,7 +1563,7 @@
             "number": 113,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "Target creature gets -0/-1 and gains deathtouch until end of turn. When it dies under you control this turn, draw a card.",
+            "rules_text": "Target creature gets -0/-1 and gains deathtouch until end of turn. When it dies under your control this turn, draw a card.",
             "flavor_text": "[i]The assistant is offered to the Mother of Ants. But she knows healing as well as poison, and she may be merciful.[/i]",
             "pt": "",
             "special_text": "",
@@ -1724,7 +1724,7 @@
             "loyalty": "",
             "designer": "Kogane",
             "artist": "Kateryna Vitkovska",
-            "notes": ""
+            "notes": "!noscript"
         },
         {
             "card_name": "Discover the Stone Gods",
@@ -1876,7 +1876,7 @@
             "loyalty": "",
             "designer": "Kogane",
             "artist": "Mike Capprotti",
-            "notes": ""
+            "notes": "!noscript"
         },
         {
             "card_name": "Relic Vial",
@@ -1895,7 +1895,7 @@
             "loyalty": "",
             "designer": "Kogane",
             "artist": "Andrea Butera",
-            "notes": "reprint"
+            "notes": "!tag CanonReprint\nreprint"
         },
         {
             "card_name": "Ritual Daggar",
@@ -1981,7 +1981,7 @@
             "number": 206,
             "color_identity": "RG",
             "cost": "{R}{G}",
-            "rules_text": "At the beginning of your end step, if you attacked, choose one\u2014\n\u2022 If a creature you control died this turn, create a 2/2 green Wolf creature token.\n\u2022 You get a Scar. [i](They're boons with \u201cWhen a creature you control dies, you may pay {1}. If you do, draw a card.\u201d)[/i]",
+            "rules_text": "At the beginning of your end step, if you attacked, choose one \u2014\n\u2022 If a creature you control died this turn, create a 2/2 green Wolf creature token.\n\u2022 You get a Scar. [i](They're boons with \u201cWhen a creature you control dies, you may pay {1}. If you do, draw a card.\u201d)[/i]",
             "flavor_text": "[i]Think of the Corrivality as a fire. My foe and I will burn the world around us so the Wolf may feast.[/i]",
             "pt": "",
             "special_text": "",
@@ -1990,7 +1990,7 @@
             "loyalty": "",
             "designer": "Kogane",
             "artist": "Waking Of Sky Tree",
-            "notes": "!addtoken Scar;1"
+            "notes": "!addtoken Scar;\n!noscript"
         },
         {
             "card_name": "Guided Crusader",
@@ -2000,7 +2000,7 @@
             "number": 28,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
-            "rules_text": "Vigilance\nWhen Guided Crusader enters, if you cast it from exile, create a 2/2 white Angel creature token with flying.\nForetell {4}{W}{W} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]",
+            "rules_text": "Vigilance\nWhen Guided Crusader enters, if it was cast from exile, create a 2/2 white Angel creature token with flying.\nForetell {4}{W}{W} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -2019,7 +2019,7 @@
             "number": 88,
             "color_identity": "B",
             "cost": "{B}{B}",
-            "rules_text": "This spell has flash as long as it's foretold.\nIf you cast this spell from exile, surveil 2. You draw two cards and lose 2 life.\nForetell {1}{B} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]",
+            "rules_text": "This spell has flash as long as it's foretold.\nIf this spell was cast from exile, surveil 2. You draw two cards and lose 2 life.\nForetell {1}{B} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2047,7 +2047,7 @@
             "loyalty": "",
             "designer": "Kogane",
             "artist": "Francois Baranger",
-            "notes": ""
+            "notes": "!noscript"
         },
         {
             "card_name": "Raw Prophet",
@@ -2076,7 +2076,7 @@
             "number": 184,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "Target creature you control gains hexproof until end of turn. If you cast this spell from exile, it gets +3/+3 until end of turn. \nForetell {G} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]",
+            "rules_text": "Target creature you control gains hexproof until end of turn. If this spell was cast from exile, it gets +3/+3 until end of turn. \nForetell {G} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2370,7 +2370,7 @@
             "loyalty": "",
             "designer": "Kogane",
             "artist": "Alessia H. Valastro",
-            "notes": "https://alessiahv.artstation.com/projects/8waYYw\nreprint"
+            "notes": "!tag CanonReprint\nhttps://alessiahv.artstation.com/projects/8waYYw\nreprint"
         },
         {
             "card_name": "Eyes Everywhere",
@@ -2389,7 +2389,7 @@
             "loyalty": "",
             "designer": "Kogane",
             "artist": "Nils Hamm",
-            "notes": "reprint"
+            "notes": "!tag CanonReprint\nreprint"
         },
         {
             "card_name": "Map's Edge Monstrosity",
@@ -2418,7 +2418,7 @@
             "number": 59,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Whenever you draw a card except the first one you draw in each of your draw steps, induct. This ability only triggers twice per turn. [i](Create a 0/1 Cleric creature token with \u201cAs a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can't block.\u201d)[/i]",
+            "rules_text": "Whenever you draw one or more cards except first one you draw in each of your draw steps, induct. This ability only triggers twice per turn. [i](Create a 0/1 Cleric creature token with \u201cAs a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can't block.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2551,7 +2551,7 @@
             "number": 74,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "Seaside Smuggler can't be blocked by creatures with greater power.\n{U}, Exile Seaside Smuggler from your graveyard: Induct. Activate only as sorcery. [i](Create a 0/1 Cleric creature token with \u201cAs a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can't block.\u201d)[/i]",
+            "rules_text": "Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]\n{U}, Exile Seaside Smuggler from your graveyard: Induct. Activate only as sorcery. [i](Create a 0/1 Cleric creature token with \u201cAs a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can't block.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -2560,7 +2560,7 @@
             "loyalty": "",
             "designer": "Kogane",
             "artist": "Jazm\u00edn Labaronnie",
-            "notes": ""
+            "notes": "!noscript"
         },
         {
             "card_name": "Seven-Coil's Scion",
@@ -2655,7 +2655,7 @@
             "loyalty": "",
             "designer": "Kogane",
             "artist": "Tyler James",
-            "notes": "https://www.deviantart.com/artofty/art/Lovecraft-Landscape-875251383"
+            "notes": "https://www.deviantart.com/artofty/art/Lovecraft-Landscape-875251383\n!noscript"
         },
         {
             "card_name": "White Reaper",
@@ -2921,7 +2921,7 @@
             "loyalty": "",
             "designer": "Kogane",
             "artist": "Adam Lunger",
-            "notes": ""
+            "notes": "!noscript"
         },
         {
             "card_name": "Cyprian Sacristan",
@@ -2950,7 +2950,7 @@
             "number": 127,
             "color_identity": "R",
             "cost": "{4}{R}",
-            "rules_text": "Reach\nWhen Enflamed Caligine enters, if you cast it from exile, it gains haste until end of turn.\nForetell {3}{R} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]",
+            "rules_text": "Reach\nWhen Enflamed Caligine enters, if it was cast from exile, it gains haste until end of turn.\nForetell {3}{R} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "5/4",
             "special_text": "",
@@ -3130,7 +3130,7 @@
             "loyalty": "",
             "designer": "Kogane",
             "artist": "Eleonor Piteira",
-            "notes": "reprint"
+            "notes": "!tag CanonReprint\nreprint"
         },
         {
             "card_name": "Carapace Crusader",
@@ -3273,7 +3273,7 @@
             "number": 178,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Until end of turn, target creature gets +3/+3 and gains \u201cWhenever this creature is dealt damage while its tapped, you get a Scar.\u201d [i](They're boons with \u201cWhen a creature you control dies, you may pay {1}. If you do, draw a card.\u201d)[/i]",
+            "rules_text": "Until end of turn, target creature gets +3/+3 and gains \u201cWhenever this creature is dealt damage while it's tapped, you get a Scar.\u201d [i](They're boons with \u201cWhen a creature you control dies, you may pay {1}. If you do, draw a card.\u201d)[/i]",
             "flavor_text": "[i]The old gives way, the skin will shed, and not only once. [/i]",
             "pt": "",
             "special_text": "",
@@ -3281,7 +3281,7 @@
             "set": "PTN",
             "loyalty": "",
             "designer": "Kogane",
-            "artist": "Vanja Eberl",
+            "artist": "Vanya Eberl",
             "notes": "!addtoken Scar;1"
         },
         {
@@ -3320,7 +3320,7 @@
             "loyalty": "",
             "designer": "Kogane",
             "artist": "Byron Hamilton",
-            "notes": ""
+            "notes": "!noscript"
         },
         {
             "card_name": "Thyrsine Hunter",
@@ -3510,7 +3510,7 @@
             "loyalty": "",
             "designer": "Kogane",
             "artist": "Anastasiya Emelyanova",
-            "notes": "reprint"
+            "notes": "!tag CanonReprint\nreprint"
         },
         {
             "card_name": "Malleary Phantasm",
@@ -3643,7 +3643,7 @@
             "loyalty": "",
             "designer": "Kogane",
             "artist": "Tania Rys",
-            "notes": "reprint"
+            "notes": "!tag CanonReprint\nreprint"
         },
         {
             "card_name": "Sanctuary of Mysteries",
@@ -3681,7 +3681,7 @@
             "loyalty": "",
             "designer": "Kogane",
             "artist": "Antonio J. Manzanedo",
-            "notes": "!tokentag God Horror\nGod Horror Token\n!related Monument of Rags;The Red Grail;Cleric;"
+            "notes": "!tokentag God Horror\nGod Horror Token\n!related Monument of Rags;Cleric;"
         },
         {
             "card_name": "Carapace Ancestor",
@@ -3710,8 +3710,8 @@
             "number": 177,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
-            "rules_text": "Haste\nMusician's Remnant can't block.\n{G}, Shuffle Musician's Remnant from your graveyard into your library: Create a token that's a copy of Musician's Remnant. Activate only if you've drawn three or more cards this turn.",
-            "flavor_text": "[i]It was once a man's flayed skin, stabbed into the tree it dwells in.[/i]",
+            "rules_text": "Haste\nMusician's Remnant can't block.\n{8}{G}{G}, Shuffle Musician's Remnant from your graveyard into your library: Create a token that's a copy of Musician's Remnant. This ability costs {2} less to activate for each card you've drawn this turn.",
+            "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
             "shape": "normal",
@@ -3729,7 +3729,7 @@
             "number": 9,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nPut two +1/+1 counters on target non-God creature. It becomes a God in addition to its other types. \nSearch your library for a God card, reveal it, put it into your hand, then shuffle.\nReveal a card in your hand. Target God you control gains the revealed card's abilities.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Target non-God creature becomes a God in addition to its other types. Put two +1/+1 counters on it.\nSearch your library for a God card, reveal it, put it into your hand, then shuffle.\nII \u2014 Reveal a card in your hand. Target God you control gains the revealed card's abilities. [i](This effect lasts indefinitely)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3748,7 +3748,7 @@
             "number": 25,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "Gods and other Clerics you control get +1/+0 and have first strike.\nWhenever Glassgarden Watcheye attacks, induct twice. Tokens created this way enter tapped and attacking. [i](Create a 0/1 Cleric creature token with \u201cAs a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can't block.\u201d)[/i]",
+            "rules_text": "Gods and other Clerics you control get +1/+0 and have first strike.\nWhenever Glassgarden Watcheye attacks, induct twice. Tokens created this way are tapped and attacking. [i](Create a 0/1 Cleric creature token with \u201cAs a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can't block.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
@@ -3786,7 +3786,7 @@
             "number": 66,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Flash\nWhen Ophidian Soul enters, target permanent gains Ophidian Soul abilities until end of turn.\nWhenever Ophidian Soul deals combat damage to a player, draw a card.",
+            "rules_text": "Flash\nWhen Ophidian Soul enters, target permanent gains Ophidian Soul's abilities until end of turn.\nWhenever Ophidian Soul deals combat damage to a player, draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -3833,7 +3833,7 @@
             "loyalty": "",
             "designer": "Kogane",
             "artist": "Marc Simonetti",
-            "notes": ""
+            "notes": "!noscript"
         },
         {
             "card_name": "Legacy of Flint",
@@ -3843,7 +3843,7 @@
             "number": 135,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Whenever you finish exiling one or more cards, Legacy of Flint deals damage to target player equal to the number of spells you've cast from exile this turn.",
+            "rules_text": "At the beginning of your end step, create a tapped land token with \u201c{T}, Sacrifice this land: Add {R}.\u201d\n{2}{R}, Sacrifice a land: Legacy of Flint deals 2 damage to any target.",
             "flavor_text": "[i]In fire are all the treasures of the earth revealed.[/i]",
             "pt": "",
             "special_text": "",
@@ -3862,7 +3862,7 @@
             "number": 138,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Haste\nWhenever Malleary Augmenter or another Cleric you control enters, you may pay {R}. If you do, creatures you control get +1/+0 until end of turn.",
+            "rules_text": "Other Clerics you control get +1/+1.\nAt the beginning of combat on your turn, you may pay {R}. If you do, Clerics and Gods you control gain haste until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -4035,7 +4035,7 @@
             "cost": "{2}{G}{W}",
             "rules_text": "Lifelink\nWhenever The Thunderskin attacks, create an enchantment token named Heartbeat with \u201c{G}{W}, Sacrifice this permanent: Return target card named The Thunderskin from your graveyard to the battlefield tapped.\u201d",
             "flavor_text": "[i]\u201cEndure with the world unceasing.\u201d[/i]",
-            "pt": "4/4",
+            "pt": "3/4",
             "special_text": "",
             "shape": "normal",
             "set": "PTN",
@@ -4052,7 +4052,7 @@
             "number": 169,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "When Dappled Wing-Clippers enters, mill three cards.\n{1}, Sacrifice Dappled Wing-Clippers: Choose one\u2014\n\u2022 Destroy target artifact or enchantment.\n\u2022 Return target land card from your graveyard to the battlefield tapped.",
+            "rules_text": "When Dappled Wing-Clippers enters, mill three cards.\n{1}, Sacrifice Dappled Wing-Clippers: Choose one \u2014\n\u2022 Destroy target artifact or enchantment.\n\u2022 Return target land card from your graveyard to the battlefield tapped.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -4479,7 +4479,7 @@
             "loyalty": "",
             "designer": "Kogane",
             "artist": "Aaron Nakahara",
-            "notes": ""
+            "notes": "!noscript"
         },
         {
             "card_name": "Dyad's Dance",
@@ -4631,7 +4631,7 @@
             "loyalty": "",
             "designer": "Kogane",
             "artist": "Alessia H. Valastro",
-            "notes": "Cleric Token\ninduct"
+            "notes": "Cleric Token\ninduct\n!related God Horror"
         },
         {
             "card_name": "Foretell",
@@ -4669,7 +4669,7 @@
             "loyalty": "",
             "designer": "Kogane",
             "artist": "Samuel Bourguignon",
-            "notes": "Angel Token\n!related Guided Crusader;"
+            "notes": "Angel Token"
         },
         {
             "card_name": "Worm",
@@ -4707,7 +4707,7 @@
             "loyalty": "",
             "designer": "Kogane",
             "artist": "Susante",
-            "notes": "Wolf Token\n!related Smoldering Pack;Wolf-Splinter;Flames of Emnity;"
+            "notes": "Wolf Token"
         },
         {
             "card_name": "Noon Delver Serpent",
@@ -4812,7 +4812,7 @@
             "number": 32,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "At the beginning of your end step, if a permanent you controlled left the battlefield this turn, exile target card from a graveyard, you may have it become foretold. [i](Their foretell costs are their mana costs if they aren't already specified.)[/i]",
+            "rules_text": "At the beginning of your end step, if a permanent you controlled left the battlefield this turn, exile target permanent card from a graveyard, you may have it become foretold. [i](Their foretell costs are their mana costs if they aren't already specified.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4964,7 +4964,7 @@
             "number": 67,
             "color_identity": "U",
             "cost": "{5}{U}",
-            "rules_text": "Flash\nWhen Painted Distorter enters, counter target spell if its a noncreature spell or if you cast Painted Distorter from exile.\nForetell {3}{U}{U} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]",
+            "rules_text": "Flash\nWhen Painted Distorter enters, counter target spell if it's a noncreature spell or if Painted Distorter was cast from exile.\nForetell {3}{U}{U} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -4983,7 +4983,7 @@
             "number": 78,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Counter target permanent spell unless its controller pays {3}. If you cast this spell from exile, instead counter that spell, then surveil 2.\nForetell {1}{U} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]",
+            "rules_text": "Counter target permanent spell unless its controller pays {3}. If this spell was foretold, instead counter that spell, then surveil 2.\nForetell {1}{U} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5021,7 +5021,7 @@
             "number": 89,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
-            "rules_text": "Flying\nAt the beginning of your end step, each player sacrifices a creature. \nWhen you sacrifice Crowned Ghoul, you may search your library for a card named The Crowned Growth exile it. If you do, it becomes foretold. [i](Its foretell cost is its mana cost if it isn't already specified.)[/i]",
+            "rules_text": "Flying\nAt the beginning of your end step, each player sacrifices a creature. \nWhen you sacrifice Crowned Ghoul, you may search your library for a card named The Crowned Growth and exile it. If you do, it becomes foretold. [i](Its foretell cost is its mana cost if it isn't already specified.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -5097,7 +5097,7 @@
             "number": 100,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Reach\nWhen Herald of Loss enters, each opponent discards a card or puts a foretold card they own into their graveyard.",
+            "rules_text": "Reach\nWhen Herald of Loss enters, each opponent puts a foretold card to the graveyard or discards a card.",
             "flavor_text": "[i]The sun has not always been this dim.[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -5144,7 +5144,7 @@
             "loyalty": "",
             "designer": "Kogane",
             "artist": "Travis Anderson",
-            "notes": ""
+            "notes": "!noscript"
         },
         {
             "card_name": "Nowhere Stygian",
@@ -5259,7 +5259,26 @@
             "designer": "Kogane",
             "artist": "Suzanne Helmigh",
             "notes": ""
+        },
+        {
+            "card_name": "Land",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Land",
+            "number": 8,
+            "color_identity": "R",
+            "cost": "",
+            "rules_text": "{T}, Sacrifice this token: Add {R}.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "PTN",
+            "loyalty": "",
+            "designer": "Kogane",
+            "artist": "Andreas Rocha",
+            "notes": ""
         }
     ],
-    "version": 1
+    "version": 2
 }

@@ -17,7 +17,7 @@
     },
     {
         "card_name": "Fruitfulness",
-        "number": 11,
+        "number": 10,
         "shape": "normal",
         "set": "VSB",
         "rotated": false,
@@ -25,7 +25,7 @@
     },
     {
         "card_name": "Conflagration of the Heart",
-        "number": 14,
+        "number": 13,
         "shape": "normal",
         "set": "VSB",
         "rotated": false,
@@ -33,7 +33,7 @@
     },
     {
         "card_name": "Fruiting Devoured",
-        "number": 20,
+        "number": 19,
         "shape": "normal",
         "set": "VSB",
         "rotated": false,
@@ -57,7 +57,7 @@
     },
     {
         "card_name": "Feast of the True Birth",
-        "number": 10,
+        "number": 9,
         "shape": "normal",
         "set": "VSB",
         "rotated": false,
@@ -65,7 +65,7 @@
     },
     {
         "card_name": "Rite of Rebel Striving",
-        "number": 16,
+        "number": 15,
         "shape": "normal",
         "set": "VSB",
         "rotated": false,
@@ -73,7 +73,7 @@
     },
     {
         "card_name": "Life, Unending",
-        "number": 21,
+        "number": 20,
         "shape": "normal",
         "set": "VSB",
         "rotated": false,
@@ -97,7 +97,7 @@
     },
     {
         "card_name": "Isidra's Hunt",
-        "number": 12,
+        "number": 11,
         "shape": "normal",
         "set": "VSB",
         "rotated": false,
@@ -105,7 +105,7 @@
     },
     {
         "card_name": "Vespera in Flames",
-        "number": 18,
+        "number": 17,
         "shape": "normal",
         "set": "VSB",
         "rotated": false,
@@ -113,7 +113,7 @@
     },
     {
         "card_name": "Master of the Wild Hunt",
-        "number": 22,
+        "number": 21,
         "shape": "normal",
         "set": "VSB",
         "rotated": false,
@@ -136,8 +136,8 @@
         "position": ""
     },
     {
-        "card_name": "Drag to Nowhere",
-        "number": 9,
+        "card_name": "Silent Servant",
+        "number": 12,
         "shape": "normal",
         "set": "VSB",
         "rotated": false,
@@ -145,7 +145,7 @@
     },
     {
         "card_name": "The World Anew",
-        "number": 19,
+        "number": 18,
         "shape": "normal",
         "set": "VSB",
         "rotated": false,
@@ -153,7 +153,7 @@
     },
     {
         "card_name": "Woodlodged Risen",
-        "number": 23,
+        "number": 22,
         "shape": "normal",
         "set": "VSB",
         "rotated": false,
@@ -166,16 +166,11 @@
         "card_name": "e"
     },
     {
-        "card_name": "Silent Servant",
-        "number": 13,
-        "shape": "normal",
-        "set": "VSB",
-        "rotated": false,
-        "position": ""
+        "card_name": "e"
     },
     {
         "card_name": "Novice to Unmaking",
-        "number": 15,
+        "number": 14,
         "shape": "normal",
         "set": "VSB",
         "rotated": false,
@@ -195,7 +190,7 @@
     },
     {
         "card_name": "Skaptodon",
-        "number": 17,
+        "number": 16,
         "shape": "normal",
         "set": "VSB",
         "rotated": false,
@@ -219,7 +214,7 @@
     "a->gold",
     {
         "card_name": "Teferi, Destroyer of Planes",
-        "number": 54,
+        "number": 53,
         "shape": "planeswalker",
         "set": "VSB",
         "rotated": false,
@@ -227,7 +222,7 @@
     },
     {
         "card_name": "The End is Beautiful",
-        "number": 46,
+        "number": 45,
         "shape": "normal",
         "set": "VSB",
         "rotated": false,
@@ -238,7 +233,7 @@
     },
     {
         "card_name": "Ossivus Scavengers",
-        "number": 51,
+        "number": 50,
         "shape": "normal",
         "set": "VSB",
         "rotated": false,
@@ -249,7 +244,7 @@
     },
     {
         "card_name": "Maid-in-the-Mirror",
-        "number": 49,
+        "number": 48,
         "shape": "normal",
         "set": "VSB",
         "rotated": false,
@@ -257,7 +252,7 @@
     },
     {
         "card_name": "Thing in the Wood",
-        "number": 55,
+        "number": 54,
         "shape": "normal",
         "set": "VSB",
         "rotated": false,
@@ -268,7 +263,7 @@
     },
     {
         "card_name": "Abandon the Church",
-        "number": 43,
+        "number": 42,
         "shape": "normal",
         "set": "VSB",
         "rotated": false,
@@ -294,7 +289,7 @@
     },
     {
         "card_name": "The Conquering Growth",
-        "number": 44,
+        "number": 43,
         "shape": "normal",
         "set": "VSB",
         "rotated": false,
@@ -302,7 +297,7 @@
     },
     {
         "card_name": "Dr. Arun Peel",
-        "number": 45,
+        "number": 44,
         "shape": "normal",
         "set": "VSB",
         "rotated": false,
@@ -310,7 +305,7 @@
     },
     {
         "card_name": "Ghirbi, Freed Wallbreaker",
-        "number": 48,
+        "number": 47,
         "shape": "planeswalker",
         "set": "VSB",
         "rotated": false,
@@ -318,14 +313,6 @@
     },
     {
         "card_name": "Season of Numa",
-        "number": 53,
-        "shape": "normal",
-        "set": "VSB",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Painted Hunger",
         "number": 52,
         "shape": "normal",
         "set": "VSB",
@@ -333,8 +320,16 @@
         "position": ""
     },
     {
+        "card_name": "Painted Hunger",
+        "number": 51,
+        "shape": "normal",
+        "set": "VSB",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "Vesperan Exodus",
-        "number": 56,
+        "number": 55,
         "shape": "normal",
         "set": "VSB",
         "rotated": false,
@@ -342,7 +337,7 @@
     },
     {
         "card_name": "Omnipresent Ultimatum",
-        "number": 50,
+        "number": 49,
         "shape": "normal",
         "set": "VSB",
         "rotated": false,
@@ -350,7 +345,7 @@
     },
     {
         "card_name": "Fall of the Axe",
-        "number": 47,
+        "number": 46,
         "shape": "normal",
         "set": "VSB",
         "rotated": false,
@@ -379,7 +374,7 @@
     },
     {
         "card_name": "The Tricuspid Gate",
-        "number": 57,
+        "number": 56,
         "shape": "normal",
         "set": "VSB",
         "rotated": false,
@@ -387,7 +382,7 @@
     },
     {
         "card_name": "Sanctuary of Journeys",
-        "number": 58,
+        "number": 57,
         "shape": "normal",
         "set": "VSB",
         "rotated": false,
@@ -395,7 +390,7 @@
     },
     {
         "card_name": "Sanctuary of Moonlight",
-        "number": 59,
+        "number": 58,
         "shape": "normal",
         "set": "VSB",
         "rotated": false,
@@ -403,7 +398,7 @@
     },
     {
         "card_name": "Sanctuary of Nectars",
-        "number": 60,
+        "number": 59,
         "shape": "normal",
         "set": "VSB",
         "rotated": false,
@@ -411,7 +406,7 @@
     },
     {
         "card_name": "Sanctuary of Resonance",
-        "number": 61,
+        "number": 60,
         "shape": "normal",
         "set": "VSB",
         "rotated": false,
@@ -419,7 +414,7 @@
     },
     {
         "card_name": "Sanctuary of Scales",
-        "number": 62,
+        "number": 61,
         "shape": "normal",
         "set": "VSB",
         "rotated": false,
@@ -454,7 +449,7 @@
     },
     {
         "card_name": "Fault",
-        "number": 30,
+        "number": 29,
         "shape": "normal",
         "set": "VSB",
         "rotated": false,
