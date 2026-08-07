@@ -1,4 +1,123 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+CU01 Bird added.
+Fault Reflection added.
+
+Color Goals removed.
+CU01 [Bird] removed.
+
+CI13 Immense Soul
+rules_text: Create a 4/3 Fault Reflection land creature token with haste and decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Create a 4/3 silver Fault Reflection land creature token with haste and decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+CR01 Phoenix Chaser
+type: Creature => Creature — Human Scout
+
+CW15 Crystalline Gateway
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Up to one target creature gets +1/+1 and gains healing 2 until your next turn. [i](Damage dealt by this creature also causes you to gain 2 life.)[/i]
+If you have more life than an opponent, draw a card.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Up to one target creature gets +1/+1 and gains healing 2 until your next turn. [i](Damage dealt by this creature also causes you to gain 2 life.)[/i]
+If you have more life than an opponent, draw a card.
+​
+
+CR15 [NAME THIS]
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Target creature you control deals damage equal to its power to another target creature.
+II, III — Up to one target creature gains menace until end of turn.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Target creature you control deals damage equal to its power to another target creature.
+Up to one target creature gains menace until end of turn.
+​
+
+CR07 [Turret Ogre]
+type: Creature => Creature — Skeleton
+
+CR03 [Ardor Blossom Moth]
+type: Creature — Instant => Creature — Insect
+
+CG15 [Something] Memorial
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Sift 1. Draw a card. [i](To sift 1, look at the top card of your library. You may put it into your sanctum.)[/i]
+You may play an additional land this turn.
+II — Put a +1/+1 counter on up to one target creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Sift 1. Draw a card. [i](To sift 1, look at the top card of your library. You may put it into your sanctum.)[/i]
+You may play an additional land this turn.
+Put a +1/+1 counter on up to one target creature.
+
+CB01 Allure of Darkness
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each opponent loses 1 life and you gain 1 life.
+III — Create a 1/1 black Spirit enchantment creature token. Put a +1/+1 counter and a menace counter on it.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Each opponent loses 1 life and you gain 1 life.
+Create a 1/1 black Spirit enchantment creature token. Put a +1/+1 counter and a menace counter on it.
+​
+
+CI15 One with the Pathwade
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Target nonland permanent loses all abilities until this Saga leaves the battlefield.
+II — Sift 1. [i](Look at the top card of your library. You may put it into your sanctum.)[/i]
+III — Destroy up to one target enchantment or nonland permanent with no abilities. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Target nonland permanent loses all abilities until this Saga leaves the battlefield.
+Sift 1. [i](Look at the top card of your library. You may put it into your sanctum.)[/i]
+Destroy up to one target enchantment or nonland permanent with no abilities.
+
+Bird
+pt:  => 3/3
+
+CI07 Crystal Magus
+type: Creature — Human Wizard => Creature — Human Wizard Mystic
+
+CG12 [Windstorm]
+
+CU11 Wonder the Waves
+rules_text: Draw a card. Surveil 1 [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+Incant 4—{1}{U} [i](Skip your next draw phase and exile instant or sorcery cards with total mana value 4 or greater from your graveyard to cast this spell from your sanctum for its incant cost.)[/i] => Draw a card. Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+Incant 4—{1}{U} [i](Skip your next draw phase and exile instant or sorcery cards with total mana value 4 or greater from your graveyard to cast this spell from your sanctum for its incant cost.)[/i]
+
+CI02 Antiquimancy Student
+type: Creature — Human Wizard => Creature — Human Wizard Mystic
+
+CB02 Corvid Bowmasters
+
+CB15 Dead Memory
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Each player sanctifies the top card of their library. [i](Sanctified cards are put into their owner's sanctum.)[/i]
+II — Put two random cards from your sanctum into your hand.
+III — You lose 2 life. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Each player sanctifies the top card of their library. [i](Sanctified cards are put into their owner's sanctum.)[/i]
+Put two random cards from your sanctum into your hand.
+You lose 2 life.
+
+Spirit
+pt:  => 1/1
+
+CW11 Shining Spark
+rules_text: Healing 2 [i](Damage this spell deals also causes you to gain 2 life.)[/i]
+Shining Spark deals 3 damage to target creature. => Healing 2 [i](Damage this spell deals also causes you to gain 2 life.)[/i]
+Shining Spark deals 3 damage to target tapped creature.
+
+CU07 [Something] Skywhale
+
+CG08 [Wooden Dragon]
+rules_text: When this creature enters, target creature you control gain vigilance and gets +2/+2 until end of turn. If you control four or more creature, choose two target creatures instead. => When this creature enters, target creature you control gain vigilance and gets +2/+2 until end of turn. If you control four or more creatures, choose two target creatures instead.
+
+CU15 The Voyage
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Target creature can't be blocked this turn.
+II, III — Draw a card, then discard a card.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Target creature can't be blocked this turn.
+Draw a card, then discard a card.
+​
+
+CR08 [Scholar of Combustion]
+type: Creature => Creature — Human Knight
+
+
+VERSION 3 CHANGELOG
 ====================
 
 CI03 Riftborn Sprite added.
