@@ -499,7 +499,7 @@
 		{
 			"name": "CI01",
 			"rarity": "common",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Creature",
 			"collector_number": "175",
 			"image_uris": {
@@ -509,7 +509,7 @@
 		{
 			"name": "CI02",
 			"rarity": "common",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Creature",
 			"collector_number": "176",
 			"back": {
@@ -526,7 +526,7 @@
 		{
 			"name": "CI03 Amberglow Moths",
 			"rarity": "common",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Creature — Insect",
 			"collector_number": "177",
 			"back": {
@@ -543,7 +543,7 @@
 		{
 			"name": "CI04",
 			"rarity": "common",
-			"mana_cost": "{2}{I}",
+			"mana_cost": "{2}{C}",
 			"type": "Creature",
 			"collector_number": "178",
 			"back": {
@@ -560,7 +560,7 @@
 		{
 			"name": "CI05",
 			"rarity": "common",
-			"mana_cost": "{1}{I}{I}",
+			"mana_cost": "{1}{C}{C}",
 			"type": "Creature",
 			"collector_number": "179",
 			"image_uris": {
@@ -570,7 +570,7 @@
 		{
 			"name": "CI06 Summoner of the Inner Self",
 			"rarity": "common",
-			"mana_cost": "{3}{I}",
+			"mana_cost": "{3}{C}",
 			"type": "Creature — Human Mystic",
 			"collector_number": "180",
 			"image_uris": {
@@ -580,7 +580,7 @@
 		{
 			"name": "CI07",
 			"rarity": "common",
-			"mana_cost": "{4}{I}",
+			"mana_cost": "{4}{C}",
 			"type": "Creature",
 			"collector_number": "181",
 			"image_uris": {
@@ -590,7 +590,7 @@
 		{
 			"name": "CI09",
 			"rarity": "common",
-			"mana_cost": "{5}{I}",
+			"mana_cost": "{5}{C}",
 			"type": "Creature",
 			"collector_number": "183",
 			"image_uris": {
@@ -600,7 +600,7 @@
 		{
 			"name": "CI08",
 			"rarity": "common",
-			"mana_cost": "{4}{I}",
+			"mana_cost": "{4}{C}",
 			"type": "Creature",
 			"collector_number": "182",
 			"image_uris": {
@@ -610,7 +610,7 @@
 		{
 			"name": "CI10 Flowstone",
 			"rarity": "common",
-			"mana_cost": "{I}",
+			"mana_cost": "{C}",
 			"type": "Instant",
 			"collector_number": "184",
 			"image_uris": {
@@ -620,7 +620,7 @@
 		{
 			"name": "CI11 Counterspell",
 			"rarity": "common",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Instant",
 			"collector_number": "185",
 			"image_uris": {
@@ -630,7 +630,7 @@
 		{
 			"name": "CI12 Blank",
 			"rarity": "common",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Instant",
 			"collector_number": "186",
 			"image_uris": {
@@ -640,7 +640,7 @@
 		{
 			"name": "CI13",
 			"rarity": "common",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Sorcery",
 			"collector_number": "187",
 			"image_uris": {
@@ -650,7 +650,7 @@
 		{
 			"name": "CI14",
 			"rarity": "common",
-			"mana_cost": "{I}",
+			"mana_cost": "{C}",
 			"type": "Sorcery",
 			"collector_number": "188",
 			"image_uris": {
@@ -660,7 +660,7 @@
 		{
 			"name": "CI15 Serum Extraction",
 			"rarity": "common",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Sorcery",
 			"collector_number": "189",
 			"image_uris": {
@@ -697,7 +697,7 @@
 		{
 			"name": "CI16",
 			"rarity": "common",
-			"mana_cost": "{3}{I}",
+			"mana_cost": "{3}{C}",
 			"type": "Creature",
 			"collector_number": "190",
 			"back": {
@@ -2070,7 +2070,7 @@
 		{
 			"name": "UI02 Blank",
 			"rarity": "uncommon",
-			"mana_cost": "{I}",
+			"mana_cost": "{C}",
 			"type": "Instant",
 			"collector_number": "194",
 			"back": {
@@ -2087,7 +2087,7 @@
 		{
 			"name": "UI01 Blank",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Instant",
 			"collector_number": "193",
 			"image_uris": {
@@ -2097,7 +2097,7 @@
 		{
 			"name": "UI03 Blank Ixidrike",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{I}{I}",
+			"mana_cost": "{2}{C}{C}",
 			"type": "Creature",
 			"collector_number": "195",
 			"image_uris": {
@@ -2107,7 +2107,7 @@
 		{
 			"name": "UI05 Clue",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{I}",
+			"mana_cost": "{2}{C}",
 			"type": "Creature",
 			"collector_number": "197",
 			"image_uris": {
@@ -2117,7 +2117,7 @@
 		{
 			"name": "UI06 Clue",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{I}{I}",
+			"mana_cost": "{3}{C}{C}",
 			"type": "Creature",
 			"collector_number": "198",
 			"image_uris": {
@@ -2127,7 +2127,7 @@
 		{
 			"name": "UI04 Discard Clue Spiritweaver",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{I}",
+			"mana_cost": "{3}{C}",
 			"type": "Creature — Elf Mystic",
 			"collector_number": "196",
 			"image_uris": {
@@ -2137,7 +2137,7 @@
 		{
 			"name": "UI08 Discard Trick",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Instant",
 			"collector_number": "200",
 			"image_uris": {
@@ -2147,7 +2147,7 @@
 		{
 			"name": "UI07 Discard Furyblade Vampire 2",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Creature",
 			"collector_number": "199",
 			"image_uris": {
@@ -2157,7 +2157,7 @@
 		{
 			"name": "UI10 Goodstuff Removal",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{I}",
+			"mana_cost": "{2}{C}",
 			"type": "Enchantment — Aura",
 			"collector_number": "202",
 			"image_uris": {
@@ -2167,7 +2167,7 @@
 		{
 			"name": "UI09 Goodstuff GY",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Creature",
 			"collector_number": "201",
 			"image_uris": {
@@ -2177,7 +2177,7 @@
 		{
 			"name": "UI11 Incant Ramp",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Sorcery",
 			"collector_number": "203",
 			"image_uris": {
@@ -2187,7 +2187,7 @@
 		{
 			"name": "UI12 Incant Sift",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Sorcery",
 			"collector_number": "204",
 			"image_uris": {
@@ -2197,7 +2197,7 @@
 		{
 			"name": "UI14 Lifegain",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{I}",
+			"mana_cost": "{2}{C}",
 			"type": "Creature",
 			"collector_number": "206",
 			"back": {
@@ -2214,7 +2214,7 @@
 		{
 			"name": "UI15 Lifegain",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Creature",
 			"collector_number": "207",
 			"image_uris": {
@@ -2224,7 +2224,7 @@
 		{
 			"name": "UI13 Lifegain",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Enchantment",
 			"collector_number": "205",
 			"image_uris": {
@@ -2234,7 +2234,7 @@
 		{
 			"name": "UI16 Lifegain Ramp Target",
 			"rarity": "uncommon",
-			"mana_cost": "{5}{I}",
+			"mana_cost": "{5}{C}",
 			"type": "Creature",
 			"collector_number": "208",
 			"image_uris": {
@@ -2244,7 +2244,7 @@
 		{
 			"name": "UI17 Lifegain Remand",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Instant",
 			"collector_number": "209",
 			"image_uris": {
@@ -2254,7 +2254,7 @@
 		{
 			"name": "UI18 Removal",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{I}",
+			"mana_cost": "{3}{C}",
 			"type": "Instant",
 			"collector_number": "210",
 			"image_uris": {
@@ -2264,7 +2264,7 @@
 		{
 			"name": "UM12 Blank",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{I}{U}",
+			"mana_cost": "{2}{C}{U}",
 			"type": "Legendary Creature",
 			"collector_number": "226",
 			"image_uris": {
@@ -2274,7 +2274,7 @@
 		{
 			"name": "UM13 Clue Control",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{I}{B}",
+			"mana_cost": "{1}{C}{B}",
 			"type": "Legendary Creature",
 			"collector_number": "227",
 			"image_uris": {
@@ -2284,7 +2284,7 @@
 		{
 			"name": "UM14 Discard",
 			"rarity": "uncommon",
-			"mana_cost": "{I}{R}",
+			"mana_cost": "{C}{R}",
 			"type": "Creature",
 			"collector_number": "228",
 			"image_uris": {
@@ -2344,7 +2344,7 @@
 		{
 			"name": "UM11 Lifegain",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{I}{W}",
+			"mana_cost": "{1}{C}{W}",
 			"type": "Enchantment",
 			"collector_number": "225",
 			"image_uris": {
@@ -2384,7 +2384,7 @@
 		{
 			"name": "UM15 Ramp",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{I}{G}",
+			"mana_cost": "{1}{C}{G}",
 			"type": "Creature",
 			"collector_number": "229",
 			"image_uris": {
@@ -2641,7 +2641,7 @@
 		{
 			"name": "RI Saccharine Command",
 			"rarity": "rare",
-			"mana_cost": "{1}{I}",
+			"mana_cost": "{1}{C}",
 			"type": "Instant",
 			"collector_number": "192",
 			"image_uris": {
@@ -2661,7 +2661,7 @@
 		{
 			"name": "RM Blank Walker",
 			"rarity": "mythic",
-			"mana_cost": "{2}{I}{U}",
+			"mana_cost": "{2}{C}{U}",
 			"type": "Planeswalker",
 			"collector_number": "213",
 			"image_uris": {
@@ -2715,7 +2715,7 @@
 		{
 			"name": "RI",
 			"rarity": "rare",
-			"mana_cost": "{I}",
+			"mana_cost": "{C}",
 			"type": "",
 			"collector_number": "191",
 			"back": {

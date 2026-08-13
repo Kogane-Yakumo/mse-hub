@@ -1,0 +1,5371 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>RFA</name>
+			<longname>Rites of Foveaana</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-08-13</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>CW02</name>
+			<text>Prowess
+Incant 2 (If you&apos;re not in a dungeon, enter the Incantation.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/4_CW02.jpg" num="4">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW03</name>
+			<text>Healing 2 (Damage dealt by this creature also causes you to gain 2 life.)
+{W}, {T}: Tap target creature.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/5_CW03.jpg" num="5">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW04</name>
+			<text>When CW04 enters, if it was cast from exile, destroy target noncreature artifact or enchantment.
+Foretell {W} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/6_CW04.jpg" num="6">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW05</name>
+			<text>Flash
+Flying
+When CW05 enters, you gain 2 life.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/7_CW05.jpg" num="7">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW08</name>
+			<text>Flying
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/10_CW08.jpg" num="10">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW07</name>
+			<text>Vigilance
+Whenever CW07 attacks, target attacking creature you control gains prowess until end of turn. (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/9_CW07.jpg" num="9">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW06</name>
+			<text>CW06 has first strike as long as it&apos;s your turn. 
+Disturb {W} (You may cast this card from your graveyard transformed for its disturb cost.)
+---
+(Back): Desperate Defense</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/8_CW06_front.jpg" num="8a">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Desperate Defense</related>
+		</card>
+		<card>
+			<name>Desperate Defense</name>
+			<text>Creatures you control get +1/+1 until end of turn.
+Exile Desperate Defense.
+---
+(Front): CW06</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/8_CW06_back.jpg" num="8b">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">CW06</related>
+		</card>
+		<card>
+			<name>CW09</name>
+			<text>Create three 1/1 white Spirit enchantment creature tokens.
+Foretell {1}{W} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/11_CW09.jpg" num="11">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CW10</name>
+			<text>When CW10 enters, tap up to one target creature. Put a stun counter on it.
+Incant 4 (If you&apos;re not in a dungeon, enter the Incantation.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/12_CW10.jpg" num="12">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW11</name>
+			<text>Flying
+Foretell {3}{W} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/13_CW11.jpg" num="13">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW12 Combat Removal</name>
+			<text>Combat Removal deals 2 damage to target attacking or blocking creature. If this spell was foretold, it deals 5 instead.
+Foretell {W} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/14_CW12 Combat Removal.jpg" num="14">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CW15 Removal</name>
+			<text>Exile target nonland permanent if it&apos;s a tapped creature or this spell was foretold.
+Foretell {1}{W}{W} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/17_CW15 Removal.jpg" num="17">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CW14 Trick</name>
+			<text>Target creature gets +2/+2 until end of turn. If you control an enchantment, create a 1/1 white Spirit enchantment creature token.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/16_CW14 Trick.jpg" num="16">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CW13</name>
+			<text>Exile target creature card with mana value 3 or less from your graveyard. It becomes foretold. Its foretell cost is {0}.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/15_CW13.jpg" num="15">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR01</name>
+			<text>Haste
+{2}{R}: CR01 gets +2/+0 until end of turn.
+Disturb {R} (You may cast this card from your graveyard transformed for its disturb cost.)
+---
+(Back):</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/107_CR01_front.jpg" num="107a">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform"></related>
+		</card>
+		<card>
+			<name></name>
+			<text>Discard a card.
+Draw a card.
+Exile CARDNAME.
+---
+(Front): CR01</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/107_CR01_back.jpg" num="107b">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">CR01</related>
+		</card>
+		<card>
+			<name>CR02 Firefist Warrior</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Firefist Warrior can&apos;t block.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/108_CR02 Firefist Warrior.jpg" num="108">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR03 Partnered Pyromancers</name>
+			<text>Prowess, prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn. Each instance triggers separately)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/109_CR03 Partnered Pyromancers.jpg" num="109">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR05</name>
+			<text>As long as CR05 entered this turn, creatures you control have haste.
+CR05 has +0/+2, as long as you exiled a card this turn.
+Disturb {1}{R} (You may cast this card from your graveyard transformed for its disturb cost.)
+---
+(Back): Harness Rage</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/111_CR05_front.jpg" num="111a">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Harness Rage</related>
+		</card>
+		<card>
+			<name>Harness Rage</name>
+			<text>Target creature gets +1/+0 and gains haste until end of turn.
+Exile Harness Rage.
+---
+(Front): CR05</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/111_CR05_back.jpg" num="111b">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">CR05</related>
+		</card>
+		<card>
+			<name>CR04 Felfire Channeler</name>
+			<text>Discard a card: Felfire Channeler becomes a 3/3 Demon with menace. Activate only once.
+Incant 2 (If you&apos;re not in a dungeon, enter the Incantation.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/110_CR04 Felfire Channeler.jpg" num="110">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior Mystic</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR06 Acolyte of the Inferno</name>
+			<text>Spectacle {1}{R} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
+Ward—Pay 1 life.
+Whenever this creature becomes blocked by a creature, it deals 2 damage to that creature.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/112_CR06 Acolyte of the Inferno.jpg" num="112">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR07</name>
+			<text>Trample
+Disturb {3}{R}{R} (You may cast this card from your graveyard transformed for its disturb cost.)
+---
+(Back):</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/113_CR07_front.jpg" num="113a">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform"></related>
+		</card>
+		<card>
+			<name></name>
+			<text>Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
+Exile CARDNAME.
+---
+(Front): CR07</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/113_CR07_back.jpg" num="113b">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">CR07</related>
+		</card>
+		<card>
+			<name>CR08</name>
+			<text>Create a 0/0 red Elemental creature token. Put X +1/+1 counters on it, where X is one plus the total number of instant and sorcery cards or cards with disturb you own in exile and in your graveyard.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/114_CR08.jpg" num="114">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR09</name>
+			<text>Reach
+Ward—Pay 2 life.
+When CR09 enters, it deals damage to target creature equal to the number of cards you own in exile.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/115_CR09.jpg" num="115">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR10 Magma Spray</name>
+			<text>Magma Spray deals 2 damage to target creature. If that creature would die this turn, exile it instead.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/116_CR10 Magma Spray.jpg" num="116">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR13 Shatter</name>
+			<text>Destroy up to one target artifact. Up to one target creature with base power 2 or less can&apos;t be blocked this turn.
+Incant 3 (If you&apos;re not in a dungeon, enter the Incantation.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/119_CR13 Shatter.jpg" num="119">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR12 Read the Flame</name>
+			<text>As an additional cost to cast this spell, discard a card.
+Draw two cards.
+Disturb {2}{R}{R} (You may cast this card from your graveyard transformed for its disturb cost.)
+---
+(Back): Understand Unreason</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/118_CR12 Read the Flame_front.jpg" num="118a">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">Understand Unreason</related>
+		</card>
+		<card>
+			<name>Understand Unreason</name>
+			<text>Draw two cards, then discard two cards.
+Exile Understand Unreason.
+---
+(Front): CR12 Read the Flame</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/118_CR12 Read the Flame_back.jpg" num="118b">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">CR12 Read the Flame</related>
+		</card>
+		<card>
+			<name>CR11 Fight for the Fallen</name>
+			<text>Choose one. If you&apos;ve exiled a card this turn, you may choose both.
+• Target creature gains first strike until end of turn.
+• Target creature gets +2/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/117_CR11 Fight for the Fallen.jpg" num="117">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR14 Skewer the Critics</name>
+			<text>Spectacle {R} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
+Skewer the Critics deals 3 damage to any target.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/120_CR14 Skewer the Critics.jpg" num="120">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR15 Fireball</name>
+			<text>Fireball deals 5 damage to target creature or planeswalker.
+When you discard this card, you may pay {R}. When you do, it deals 2 damage to each opponent.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/121_CR15 Fireball.jpg" num="121">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG01</name>
+			<text>{T}: Add {G}.
+Disturb {3}{G} (You may cast this card from your graveyard transformed for its disturb cost.)
+---
+(Back):</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/141_CG01_front.jpg" num="141a">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform"></related>
+		</card>
+		<card>
+			<name></name>
+			<text>Search your library for a land card, put onto the battlefield tapped, then shuffle.
+Exile CARDNAME.
+---
+(Front): CG01</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/141_CG01_back.jpg" num="141b">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">CG01</related>
+		</card>
+		<card>
+			<name>CG02</name>
+			<text>Reach
+When CG02 enters, if it was foretold, create a token that&apos;s a copy of it, put a +1/+1 counter on that token.
+Foretell {4}{G} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/142_CG02.jpg" num="142">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG03</name>
+			<text>{1}{G}: CG03 gets +1/+1 until end of turn for each card type among permanents you control. Activate only once each turn.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/143_CG03.jpg" num="143">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG04</name>
+			<text>Foretell {4}{G}{G} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)
+When CG04 enters, if it was foretold, it enters with three +1/+1 counter on it.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/144_CG04.jpg" num="144">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG14 Better Root Out</name>
+			<text>Destroy target artifact or enchantment. Create a Clue token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/154_CG14 Better Root Out.jpg" num="154">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG08</name>
+			<text>Trample
+CG08 enters with a +1/+1 counter on it if you exiled a card this turn.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/148_CG08.jpg" num="148">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG07</name>
+			<text>When CG07 enters, create a 1/1 white Spirit enchantment creature token.
+Incant 2 (If you&apos;re not in a dungeon, enter the Incantation.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/147_CG07.jpg" num="147">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG09</name>
+			<text>Reach
+Whenever CG09 attacks, if you exiled a card this turn, create a 1/2 green Forest Dryad land creature token.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/149_CG09.jpg" num="149">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG06</name>
+			<text>Vigilance
+When CG06 enters, target creature gets +2/+2 until end of turn.
+Disturb {G} (You may cast this card from your graveyard transformed for its disturb cost.)
+---
+(Back):</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/146_CG06_front.jpg" num="146a">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform"></related>
+		</card>
+		<card>
+			<name></name>
+			<text>Exile a card from you hand face down. It becomes foretold. (Its foretell cost is its mana cost if it isn&apos;t already specified.)
+Exile CARDNAME.
+---
+(Front): CG06</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/146_CG06_back.jpg" num="146b">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">CG06</related>
+		</card>
+		<card>
+			<name>CG10</name>
+			<text>Reach, trample
+When CG10 enters, you gain 5 life.
+Disturb {2}{G} (You may cast this card from your graveyard transformed for its disturb cost.)
+---
+(Back):</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/150_CG10_front.jpg" num="150a">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>6G</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>7/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform"></related>
+		</card>
+		<card>
+			<name></name>
+			<text>You gain 5 life.
+---
+(Front): CG10</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/150_CG10_back.jpg" num="150b">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">CG10</related>
+		</card>
+		<card>
+			<name>CG11 Bite</name>
+			<text>Target creature you control gets +1/+0 if there are four or more card types among cards in your graveyard. It deals damage equal to its power to target creature or planeswalker you don&apos;t control.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/151_CG11 Bite.jpg" num="151">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG12</name>
+			<text>Choose one —
+• Create a 1/1 Snake creature token with deathtouch.
+• Create a 1/2 green Forest Dryad land creature token.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/152_CG12.jpg" num="152">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG13 Trick</name>
+			<text>Target creature gets +3/+3 until end of turn. If you&apos;ve exiled a card this turn, that creature gets +5/+5 until end of turn instead.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/153_CG13 Trick.jpg" num="153">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG05</name>
+			<text>When CG05 enters, create a 1/1 white Spirit enchantment creature token, then attach CG05 to it.
+Equipped creature gets +1/+2 and has reach
+Equip {3}</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/145_CG05.jpg" num="145">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG15 Selection</name>
+			<text>Mill three cards, then you may return a creature or land card from your graveyard to your hand.
+Incant 3 (If you&apos;re not in a dungeon, enter the Incantation.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/155_CG15 Selection.jpg" num="155">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CI01</name>
+			<text>When CI01 dies, add {I}. Until your next end step, you don&apos;t lose this mana as steps and phases end.
+Incant 2 (If you&apos;re not in a dungeon, enter the Incantation.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/175_CI01.jpg" num="175">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CI02</name>
+			<text>Discard a card: CI02 gets +2/-2 until end of turn.
+Disturb {1}{I} (You may cast this card from your graveyard transformed for its disturb cost.)
+---
+(Back):</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/176_CI02_front.jpg" num="176a">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform"></related>
+		</card>
+		<card>
+			<name></name>
+			<text>Target creature gains first strike until end of turn.
+Exile CARDNAME.
+---
+(Front): CI02</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/176_CI02_back.jpg" num="176b">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">CI02</related>
+		</card>
+		<card>
+			<name>CI03 Amberglow Moths</name>
+			<text>Flying, healing 1 (Damage dealt by this creature also causes you to gain 1 life.)
+Disturb {1}{I} (You may cast this card from your graveyard transformed for its disturb cost.)
+---
+(Back): Moth-made Monument</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/177_CI03 Amberglow Moths_front.jpg" num="177a">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Moth-made Monument</related>
+		</card>
+		<card>
+			<name>Moth-made Monument</name>
+			<text>Choose one—
+• You gain 2 life
+• Each player loses 2 life.
+Exile Moth-made Monument.
+---
+(Front): CI03 Amberglow Moths</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/177_CI03 Amberglow Moths_back.jpg" num="177b">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">CI03 Amberglow Moths</related>
+		</card>
+		<card>
+			<name>CI04</name>
+			<text>When CI04 enters, create a Clue token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Draw a card.&quot;)
+Disturb {2}{I}{I} (You may cast this card from your graveyard transformed for its disturb cost.)
+---
+(Back):</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/178_CI04_front.jpg" num="178a">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2I</manacost>
+				<cmc>3</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform"></related>
+		</card>
+		<card>
+			<name></name>
+			<text>As an additional cost to cast this spell, sacrifice a token.
+Draw two cards. Each player loses 2 life.
+---
+(Front): CI04</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/178_CI04_back.jpg" num="178b">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">CI04</related>
+		</card>
+		<card>
+			<name>CI05</name>
+			<text>Whenever CI05 deals damage to a player, if your sanctum has fewer cards than defending player, draw a card from your sanctum.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/179_CI05.jpg" num="179">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1II</manacost>
+				<cmc>3</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CI06 Summoner of the Inner Self</name>
+			<text>Menace
+When you discard this card, you may exile a creature card from your sanctum. You may cast it.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/180_CI06 Summoner of the Inner Self.jpg" num="180">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Mystic</type>
+				<maintype>Creature</maintype>
+				<manacost>3I</manacost>
+				<cmc>4</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CI07</name>
+			<text>Discard a card: Draw a card. Activate only once during each of your turns.
+When you discard this card, you may pay {I}. When you do, sift 3 (Look at the top three cards of your library, then put any number of them into your sanctum and the rest on top of your library in any order.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/181_CI07.jpg" num="181">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4I</manacost>
+				<cmc>5</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CI09</name>
+			<text>Double strike
+When CI09 enters, target nonland permanent loses all abilities for as long as you control CI09.
+Whenever CI09 attacks, put a stun counter on target permanent with no abilities.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/183_CI09.jpg" num="183">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>5I</manacost>
+				<cmc>6</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CI08</name>
+			<text>Flying
+When CI08 enters, Each opponent loses 3 life and you gain 3 life.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/182_CI08.jpg" num="182">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4I</manacost>
+				<cmc>5</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CI10 Flowstone</name>
+			<text>Target creature gets +2/-2. If that creature had no abilities, sanctify it instead. (Put it into its owner&apos;s sanctum.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/184_CI10 Flowstone.jpg" num="184">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>I</manacost>
+				<cmc>1</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CI11 Counterspell</name>
+			<text>Counter target spell with mana value 4 or greater.
+{3}{I}, Discard CI11 Counterspell: Create a tapped Fault basic land token.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/185_CI11 Counterspell.jpg" num="185">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CI12 Blank</name>
+			<text>Put a void counter on target nonland permanent. It loses all abilities. 
+You gain 2 life.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/186_CI12 Blank.jpg" num="186">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CI13</name>
+			<text>Target creature loses all abilities.
+Incant 4 (If you&apos;re not in a dungeon, enter the Incantation.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/187_CI13.jpg" num="187">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CI14</name>
+			<text>When you cast this spell, copy it if you gained 3 or more life this turn.
+Create a Clue token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/188_CI14.jpg" num="188">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>I</manacost>
+				<cmc>1</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CI15 Serum Extraction</name>
+			<text>Draw a card.
+Put up to two cards from your hand on the bottom of your library. Draw that many cards.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/189_CI15 Serum Extraction.jpg" num="189">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mechanics RFA</name>
+			<text>{I}{W}{U}{B}{R}{G}: Disturb
+{I}{W}{U}{B}{R}{G}: Incant
+{W}{U}: Foretell
+{R}{W}: Prowess
+{I}{G}: Renown
+{U}{B}: Mill
+{I}{W}: Lifegain
+{I}{R}: Discard
+{B}{G}: Multi-type
+{R}{G}: Exile</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/2t_Mechanics.jpg" num="2">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUBRGI</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>CW01</name>
+			<text>Disturb {2} (You may cast this card from your graveyard transformed for its disturb cost.)
+---
+(Back):</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/3_CW01_front.jpg" num="3a">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform"></related>
+		</card>
+		<card>
+			<name></name>
+			<text>Draw a card.
+Exile CARDNAME.
+---
+(Front): CW01</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/3_CW01_back.jpg" num="3b">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">CW01</related>
+		</card>
+		<card>
+			<name>CI16</name>
+			<text>Flying
+Disturb {1}{I} (You may cast this card from your graveyard transformed for its disturb cost.)
+---
+(Back):</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/190_CI16_front.jpg" num="190a">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3I</manacost>
+				<cmc>4</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform"></related>
+		</card>
+		<card>
+			<name></name>
+			<text>Destroy target noncreature artifact or enchantment.
+Exile CARDNAME.
+---
+(Front): CI16</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/190_CI16_back.jpg" num="190b">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">CI16</related>
+		</card>
+		<card>
+			<name>CA01</name>
+			<text>When CA01 enters, you may discard a card. If you do, put a basic land from your sanctum into your hand.
+Incant 1 (If you&apos;re not in a dungeon, enter the Incantation.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/1_CA01.jpg" num="1">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CA04</name>
+			<text>Equipped creature gets +2/+0
+{1}, Sacrifice CA04: It deals 2 damage to target tapped creature.
+Equip {2}</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/232_CA04.jpg" num="232">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CA02</name>
+			<text>Flying
+Disturb {2} (You may cast this card from your graveyard transformed for its disturb cost.)
+---
+(Back):</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/230_CA02_front.jpg" num="230a">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Artifact Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform"></related>
+		</card>
+		<card>
+			<name></name>
+			<text>Target creature gains flying until end of turn.
+Exile CARDNAME.
+---
+(Front): CA02</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/230_CA02_back.jpg" num="230b">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">CA02</related>
+		</card>
+		<card>
+			<name>CA03</name>
+			<text>{2}, Exile an instant or sorcery card from your graveyard: Create a clue token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/231_CA03.jpg" num="231">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CA06</name>
+			<text>When CA06 enters and when you sacrifice it, exile target card from a graveyard.
+{2}, Sacrifice CA06: Draw a card.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/233_CA06.jpg" num="233">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Clue</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CA05</name>
+			<text>Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Put a +1/+1 counter on up to two target creatures.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/2_CA05.jpg" num="2">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>RU Startled Awake</name>
+			<text>Target opponent mills ten cards.
+Disturb {2}{U}{U} (You may cast this card from your graveyard transformed for its disturb cost.)
+---
+(Back): Persistent Nightmare</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/RFA-files/img/55_RU Startled Awake_front.jpg" num="55a">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">Persistent Nightmare</related>
+		</card>
+		<card>
+			<name>Persistent Nightmare</name>
+			<text>Flying
+When Persistent Nightmare deals combat damage to a player, return it to its owner&apos;s hand.
+---
+(Front): RU Startled Awake</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/RFA-files/img/55_RU Startled Awake_back.jpg" num="55b">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">RU Startled Awake</related>
+		</card>
+		<card>
+			<name>Themes RFA</name>
+			<text>{W}{U}: Foretell
+{U}{B}: Mill
+{B}{R}: Nonmana Ward
+{R}{G}: Exile
+{G}{W}: Enchantment Tokens
+{W}{B}: Wide
+{B}{G}: Multi Type
+{G}{U}: Kicker Foretell
+{U}{R}: Spectacle
+{R}{W}: Spells Aggro
+{I}{W}: Lifegain
+{I}{U}: Blanking
+{I}{B}: Clue Control
+{I}{R}: Discard
+{I}{G}: Ramp</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/3t_Themes.jpg" num="3">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUBRGI</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>CU01 Spectacle Blank</name>
+			<text>Flash
+Flying
+{U}, Sacrifice Spectacle Blank: Target creature loses all abilities until end of turn.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/37_CU01 Spectacle Blank.jpg" num="37">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU02 Mill</name>
+			<text>{T}: Target player draws a card, then discards a card.
+Disturb {1}{U} (You may cast this card from your graveyard transformed for its disturb cost.)
+---
+(Back):</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/38_CU02 Mill_front.jpg" num="38a">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform"></related>
+		</card>
+		<card>
+			<name></name>
+			<text>Target player mills five cards.
+Exile CARDNAME.
+---
+(Front): CU02 Mill</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/38_CU02 Mill_back.jpg" num="38b">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">CU02 Mill</related>
+		</card>
+		<card>
+			<name>CU03 Mill Incant</name>
+			<text>Flying
+Whenever Mill Incant attacks, target player mills a card.
+Incant 2 (If you&apos;re not in a dungeon, enter the Incantation.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/39_CU03 Mill Incant.jpg" num="39">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU04 Foretell Kick</name>
+			<text>Flying
+When Foretell Kick enters, if it was foretold, it enters with two +1/+1 counters on it.
+Foretell {3}{U}{U} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/40_CU04 Foretell Kick.jpg" num="40">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU05 Goodstuff</name>
+			<text>Disturb {U} (You may cast this card from your graveyard transformed for its disturb cost.)
+---
+(Back):</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/41_CU05 Goodstuff_front.jpg" num="41a">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform"></related>
+		</card>
+		<card>
+			<name></name>
+			<text>Tap target creature. Put a stun counter on it.
+Exile CARDNAME.
+---
+(Front): CU05 Goodstuff</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/41_CU05 Goodstuff_back.jpg" num="41b">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">CU05 Goodstuff</related>
+		</card>
+		<card>
+			<name>CU06 Mill</name>
+			<text>Defender
+As long as there are six or more cards in a graveyard, Mill can attack as though it didn&apos;t have defender.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/42_CU06 Mill.jpg" num="42">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU07 Spectacle</name>
+			<text>Spectacle {2}{U} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
+When Spectacle enters, return target creature to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/43_CU07 Spectacle.jpg" num="43">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU08 Spectacle Large</name>
+			<text>Spectacle {1}{U}{U}{U} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
+Flying; ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/44_CU08 Spectacle Large.jpg" num="44">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU09 Protection/Stall</name>
+			<text>Target creature phases out. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/45_CU09 Protection/Stall.jpg" num="45">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU10 Unsubstantiate</name>
+			<text>Return target spell or creature to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/46_CU10 Unsubstantiate.jpg" num="46">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU11 Cantrip</name>
+			<text>This spell costs {2} more to cast from your sanctum.
+Draw a card, then surveil 1.
+Incant 3 (If you&apos;re not in a dungeon, enter the Incantation.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/47_CU11 Cantrip.jpg" num="47">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU12 Spectacle</name>
+			<text>Spectacle {1}{U} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
+Draw two cards.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/48_CU12 Spectacle.jpg" num="48">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU13 Aura Blank Removal</name>
+			<text>Enchant creaturet
+Enchanted permanent is a 0/3 Clue Construct artifact creature and loses all abilities.
+{2}: Destroy enchanted creature. When you do, its controller draws a card. Only your opponents may activate this ability.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/49_CU13 Aura Blank Removal.jpg" num="49">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU14 Foretell</name>
+			<text>Target creature&apos;s size becomes your choice of 1/1 or 4/4 until end of turn. If this spell was foretold, another target creature becomes the unchosen size.
+Foretell {1}{U} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/50_CU14 Foretell.jpg" num="50">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>UI</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU15 Foretell Kick</name>
+			<text>Choose one. If you cast this spell from exile, you may choose both instead.
+• Counter target spell unless its controller pays {4}.
+• Surveil 3, then draw a card.
+Foretell {1}{U}{U} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/51_CU15 Foretell Kick.jpg" num="51">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB01 Good Wide Types</name>
+			<text>When this artifact enters and when you sacrifice it, create a 1/1 white Spirit enchantment creature token.
+{2}{B}, {T}, Sacrifice Good Wide Types: Return target creature card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/73_CB01 Good Wide Types.jpg" num="73">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB02 Ward</name>
+			<text>Deathtouch
+Ward—Pay 1 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 1 life.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/74_CB02 Ward.jpg" num="74">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB03 Clue</name>
+			<text>Incant 2. (If you&apos;re not in a dungeon, enter the Incantation.)
+Disturb {3}{B} (You may cast this card from your graveyard transformed for its disturb cost.)
+---
+(Back):</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/75_CB03 Clue_front.jpg" num="75a">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform"></related>
+		</card>
+		<card>
+			<name></name>
+			<text>Create two Clue tokens. You lose 1 life. (They&apos;re artifacts with &quot;{2}, {T}, Sacrifice this artifact: Draw a card.&quot;)
+Exile CARDNAME.
+---
+(Front): CB03 Clue</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/75_CB03 Clue_back.jpg" num="75b">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">CB03 Clue</related>
+		</card>
+		<card>
+			<name>CB07 Multi Type</name>
+			<text>Menace
+Whenever Multi Type attacks, up to one target artifact creature and up to one enchantment creature get +1/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/79_CB07 Multi Type.jpg" num="79">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB05 Goodstuff</name>
+			<text>Choose two
+• Create a 2/1 black Skeleton artifact creature token.
+• Creatures you control gain menace.
+• Each player sacrifices a creature.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/77_CB05 Goodstuff.jpg" num="77">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB06 Goodstuff</name>
+			<text>Flying
+{1}{B}: Goodstuff gets +1/+1 until end of turn.
+Disturb {1}{B} (You may cast this card from your graveyard transformed for its disturb cost.)
+---
+(Back):</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/78_CB06 Goodstuff_front.jpg" num="78a">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform"></related>
+		</card>
+		<card>
+			<name></name>
+			<text>Target opponent reveals their hand. You choose a card from it. That player discards that card.
+Exile CARDNAME.
+---
+(Front): CB06 Goodstuff</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/78_CB06 Goodstuff_back.jpg" num="78b">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">CB06 Goodstuff</related>
+		</card>
+		<card>
+			<name>CB04 Goodstuff</name>
+			<text>When Goodstuff enters, target player mills three cards. If an instant or sorcery card was milled this way, target opponent loses 2 life and you gain 2 life.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/76_CB04 Goodstuff.jpg" num="76">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB08 Wide Types</name>
+			<text>Healing 2 (Damage dealt by this creature also causes you to gain 2 life.)
+When Wide Types dies, create a 2/1 black Skeleton artifact creature token and a 1/1 white Spirit enchantment creature token.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/80_CB08 Wide Types.jpg" num="80">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB09 Ward</name>
+			<text>Ward—Discard a card. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player discards a card.)
+Disturb {B} (You may cast this card from your graveyard transformed for its disturb cost.)
+---
+(Back):</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/81_CB09 Ward_front.jpg" num="81a">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform"></related>
+		</card>
+		<card>
+			<name></name>
+			<text>Choose a permanent with ward you control. Target player pays the ward cost of that permanent. If they can&apos;t, you draw a card.
+Exile CARDNAME.
+---
+(Front): CB09 Ward</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/81_CB09 Ward_back.jpg" num="81b">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">CB09 Ward</related>
+		</card>
+		<card>
+			<name>CB10 Weak Removal Clue Types</name>
+			<text>Destroy target creature that was dealt damage this turn.
+Create a 1/1 white Spirit enchantment creature token and a Clue token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/82_CB10 Weak Removal Clue Types.jpg" num="82">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB11 Clue Trick</name>
+			<text>Create a Clue token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Draw a card.&quot;)
+Target creature you control gets +1/+1 for each Clue you control.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/83_CB11 Clue Trick.jpg" num="83">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB12 Draw</name>
+			<text>Sift 2, then draw two cards. You lose 2 life. (To sift 2, look at the top two cards of your library, then put any number of them into your sanctum and the rest on top of your library in any order.)
+Incant 4 (If you&apos;re not in a dungeon, enter the Incantation.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/84_CB12 Draw.jpg" num="84">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB13 Multi Type</name>
+			<text>Lifelink
+At the beginning of your upkeep, Multi Type deals 1 damage to each opponent.
+{2}{B}, {T}, Sacrifice up to three permanents: If there were three or more card types among the sacrificed permanents, Multi Type deals 4 damage to each opponent.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/85_CB13 Multi Type.jpg" num="85">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB14 Demonic Feeding</name>
+			<text>As an additional cost to cast this spell, you may sacrifice an artifact, enchantment, or token as you cast this spell.
+Target creature gets -2/-2 until end of turn. If this spell&apos;s additional cost was paid, that creature gets -5/-5 until end of turn instead.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/86_CB14 Demonic Feeding.jpg" num="86">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB15 Crushing Doubt</name>
+			<text>Exile target creature or planeswalker. You gain 2 life.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/87_CB15 Crushing Doubt.jpg" num="87">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UW02 Enchantment</name>
+			<text>Enchantment&apos;s power and toughness is equal to the number of enchantments you control.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/21_UW02 Enchantment.jpg" num="21">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UW01 Enchantment</name>
+			<text>First strike
+Whenever an enchantment you control enters, up to one target creature gains double strike until end of turn.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/20_UW01 Enchantment.jpg" num="20">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UW03 Enchantment Dungeoneer</name>
+			<text>Enchant creature
+Enchanted creature gets +1/+1 for each enchantment you control, has first strike, and &quot;Whenever Enchantment Dungeoneer attacks, venture into the Incantation.&quot; (Enter the first room or advance to the next room.)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/22_UW03 Enchantment Dungeoneer.jpg" num="22">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UW04 Foretell</name>
+			<text>When Foretell enters, if it was foretold, create a 2/2 white Angel creature token with flying.
+Whenever you cast a foretold spell, create a 2/2 white Angel creature token with flying.
+Foretell {1}{W} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/23_UW04 Foretell.jpg" num="23">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UW05 Foretell Removal</name>
+			<text>Choose one. If this spell was foretold, choose any number instead.
+• Destroy target artifact or enchantment.
+• Destroy target creature with power 4 or greater.
+• You gain 4 life.
+Foretell {2}{W} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/24_UW05 Foretell Removal.jpg" num="24">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UW06 Foretell Topend</name>
+			<text>This spell costs {2} less to cast for each foretold card you own in exile.
+Double strike
+Foretell {6}{W} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/25_UW06 Foretell Topend.jpg" num="25">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>5WW</manacost>
+				<cmc>7</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UW07 Foretell-Wide Wisp-Reader Angel</name>
+			<text>Flying
+When Foretell-Wide Wisp-Reader Angel enters. if it was foretold, create two 1/1 white Spirit enchantment creature tokens.
+Foretell {1}{W}{W} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/26_UW07 Foretell-Wide Wisp-Reader Angel.jpg" num="26">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UW08 Gift of Estates</name>
+			<text>If an opponent controls more lands than you, search your library for up to three Plains cards, reveal them, put them into your hand, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/27_UW08 Gift of Estates.jpg" num="27">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UW09 Goodstuff Removal</name>
+			<text>Destroy target nonland permanent. Its controller creates a 1/1 white Spirit enchantment creature token.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/28_UW09 Goodstuff Removal.jpg" num="28">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UW10 Incant Nevermore</name>
+			<text>Vigilance
+As Incant Nevermore enters, choose a card name.
+Spells with the chosen card name can&apos;t be cast.
+Incant 4 (If you&apos;re not in a dungeon, enter the Incantation.)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/29_UW10 Incant Nevermore.jpg" num="29">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UW12 Lifegain Enabler</name>
+			<text>Whenever another creature you control enters, you gain 1 life.
+Disturb {W} (You may cast this card from your graveyard transformed for its disturb cost.)
+---
+(Back): Escape</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/31_UW12 Lifegain Enabler_front.jpg" num="31a">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Escape</related>
+		</card>
+		<card>
+			<name>Escape</name>
+			<text>As an additional cost to cast this spell, exile two cards from your graveyard.
+Target creature gets +1/+1 and gains healing 1, until end of turn. (Damage dealt by this creature also causes you to gain 1 life.)
+---
+(Front): UW12 Lifegain Enabler</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/31_UW12 Lifegain Enabler_back.jpg" num="31b">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">UW12 Lifegain Enabler</related>
+		</card>
+		<card>
+			<name>UW13 Lifegain Fog</name>
+			<text>Cast this spell only during an opponent&apos;s turn.
+You gain life equal to the life you&apos;ve lost this turn.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/32_UW13 Lifegain Fog.jpg" num="32">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UW11 Lifegain Angel of Vitality</name>
+			<text>Flying
+If you would gain life, you gain that much life plus 1 instead.
+Lifegain Angel of Vitality gets +2/+2 as long as you have 25 or more life.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/30_UW11 Lifegain Angel of Vitality.jpg" num="30">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UW14 Spells Incant Charge</name>
+			<text>Creatures you control gain prowess until end of turn. The next instant or sorcery spell you cast this turn costs {1} less to cast.
+Incant 4 (If you&apos;re not in a dungeon, enter the Incantation.)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/33_UW14 Spells Incant Charge.jpg" num="33">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UW15 Spells Threat</name>
+			<text>Whenever you cast an instant or sorcery spell, if Spells Threat is tapped, exile up to one target card from a graveyard.
+As long as there are four or more cards exiled with Spells Threat, it gets +2/+2 and ward {2}.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/34_UW15 Spells Threat.jpg" num="34">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UW17 Wide</name>
+			<text>When Wide enters, put a +1/+1 counter on up to two other target creatures.
+Disturb {2}{W}{W} (You may cast this card from your graveyard transformed for its disturb cost.)
+---
+(Back): Pascifism</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/36_UW17 Wide_front.jpg" num="36a">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Pascifism</related>
+		</card>
+		<card>
+			<name>Pascifism</name>
+			<text>Enchant creature
+Enchanted creature can&apos;t attack or block.
+If Pascifism would be put into a graveyard from anywhere, exile it instead.
+---
+(Front): UW17 Wide</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/36_UW17 Wide_back.jpg" num="36b">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">UW17 Wide</related>
+		</card>
+		<card>
+			<name>UW16 Wide</name>
+			<text>{3}{W}, {T}: Creatures you control get +1/+1 until end of turn. This ability costs {2} less to activate if you&apos;ve cast an instant or sorcery spell this turn.
+Disturb {1}{W}{W} (You may cast this card from your graveyard transformed for its disturb cost.)
+---
+(Back): Disturb</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/35_UW16 Wide_front.jpg" num="35a">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Disturb</related>
+		</card>
+		<card>
+			<name>Disturb</name>
+			<text>Create two 1/1 white Spirit enchantment creature tokens.
+Exile Disturb.
+---
+(Front): UW16 Wide</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/35_UW16 Wide_back.jpg" num="35b">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">UW16 Wide</related>
+		</card>
+		<card>
+			<name>UU01 Annoying Incant</name>
+			<text>Whenever an opponent attacks you, put a stun counter on target attacking creature.
+Incant 4 (If you&apos;re not in a dungeon, enter the Incantation.)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/56_UU01 Annoying Incant.jpg" num="56">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU02 Blank</name>
+			<text>Flying
+Whenever Blank attacks, target creatures defending player controls loses all abilities until end of turn.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/57_UU02 Blank.jpg" num="57">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU03 Blank Control</name>
+			<text>This spell costs {3} less to cast if it targets a creature without abilities.
+Enchant creature
+You control enchanted creature.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/58_UU03 Blank Control.jpg" num="58">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU04 Blank Novice Mind-Binder</name>
+			<text>When Blank Novice Mind-Binder enters, tap up to one target creature, put a stun counter on it. It loses all abilities for as long as it remains tapped.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/59_UU04 Blank Novice Mind-Binder.jpg" num="59">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU05 Flusterstorm but no storm</name>
+			<text>Counter target instant or sorcery spell unless they pay {1} for each spell cast this turn.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/60_UU05 Flusterstorm but no storm.jpg" num="60">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UU06 Foretell Evasive</name>
+			<text>Whenever you foretell a card from your hand, Foretell Evasive gets +1/+1 until end of turn and can&apos;t be blocked this turn.
+Foretell {U} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/61_UU06 Foretell Evasive.jpg" num="61">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU07 Foretell Inspiration</name>
+			<text>When you cast this spell, copy it if it was foretold. You may choose a new target for the copy.
+Mill three cards, then return an instant or sorcery card from your graveyard to your hand.
+Foretell {2}{U}{U}{U} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/62_UU07 Foretell Inspiration.jpg" num="62">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UU08 Goodstuff</name>
+			<text>When Goodstuff enters, sift 2 then draw a card. (To sift 2, look at the top two cards of your library, then put any number of them into your sanctum and the rest on top of your library in any order.)
+Disturb {1}{U} (You may cast this card from your graveyard transformed for its disturb cost.)
+---
+(Back): Escape Blank</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/63_UU08 Goodstuff_front.jpg" num="63a">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Escape Blank</related>
+		</card>
+		<card>
+			<name>Escape Blank</name>
+			<text>As an additional cost to cast this spell, exile three cards from your graveyard.
+Target creature loses all abilities until end of turn.
+---
+(Front): UU08 Goodstuff</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/63_UU08 Goodstuff_back.jpg" num="63b">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">UU08 Goodstuff</related>
+		</card>
+		<card>
+			<name>UU09 Goodstuff Counter</name>
+			<text>Sanctify target spell unless its controller pays {X}. Surveil 1. (Put it into its owner&apos;s sanctum. To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/64_UU09 Goodstuff Counter.jpg" num="64">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XU</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UU10 Goodstuff Removal</name>
+			<text>Return target artifact or creature you don&apos;t control to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/65_UU10 Goodstuff Removal.jpg" num="65">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UU11 Goodstuff Thirst for Mastery</name>
+			<text>Draw three cards. Then discard two cards unless you discard a sorcery card.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/66_UU11 Goodstuff Thirst for Mastery.jpg" num="66">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UU12 Incant Curiosity</name>
+			<text>Enchant permanent
+Whenever enchanted permanent deals combat damage to an opponent, you may draw a card.
+Incant 3 (If you&apos;re not in a dungeon, enter the Incantation.)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/67_UU12 Incant Curiosity.jpg" num="67">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU14 Mill Sphinx</name>
+			<text>Flying
+Whenever you draw a card, target opponent mills two cards. If those cards shared a color, repeat this process.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/69_UU14 Mill Sphinx.jpg" num="69">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Sphinx</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU13 Mill Dream Crab</name>
+			<text>Landfall — Whenever a land enters under you control, each opponent mills three cards.
+Disturb {2}{U}{U} (You may cast this card from your graveyard transformed for its disturb cost.)
+---
+(Back): Disturb</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/68_UU13 Mill Dream Crab_front.jpg" num="68a">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Crab</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Disturb</related>
+		</card>
+		<card>
+			<name>Disturb</name>
+			<text>Target player mills four cards. You shuffle up to four cards from your graveyard into your library.
+Exile Disturb.
+---
+(Front): UU13 Mill Dream Crab</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/68_UU13 Mill Dream Crab_back.jpg" num="68b">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">UU13 Mill Dream Crab</related>
+		</card>
+		<card>
+			<name>UU15 Spectacle Clone</name>
+			<text>Spectacle {2}{U} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
+Create a token that&apos;s a copy of target creature.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/70_UU15 Spectacle Clone.jpg" num="70">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UU16 Spectacle Removal</name>
+			<text>Spectacle {2}{U}{U} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
+Return up to two target creatures to their owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/71_UU16 Spectacle Removal.jpg" num="71">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UU17 Spell Dungeoneer</name>
+			<text>Flying
+Whenever you cast an instant or sorcery spell, venture into the Incantation. (Enter the first room or advance to the next room.)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/72_UU17 Spell Dungeoneer.jpg" num="72">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UB01 Clue Mill/Kill Payoff</name>
+			<text>Whenever a creature card is put into an opponent&apos;s graveyard from anywhere, create a Clue token. This ability triggers only once each turn. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Draw a card.&quot;)
+{2}{B}, Sacrifice three Clues: Return target creature card from a graveyard to the battlefield under you control.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/90_UB01 Clue Mill/Kill Payoff.jpg" num="90">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UB02 Clue Removal</name>
+			<text>Reach
+When Clue Removal enters, create a Clue token, then target creature gets -2/-2 until end of turn for each each Clue you control. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/91_UB02 Clue Removal.jpg" num="91">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UB03 Clue Wide</name>
+			<text>When Clue Wide dies, create two 1/1 white Spirit enchantment creature tokens.
+{2}, {T}, Sacrifice Clue Wide: Draw a card.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/92_UB03 Clue Wide.jpg" num="92">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Clue</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UB04 Goodstuff Mental Sewage</name>
+			<text>When Goodstuff Mental Sewage enters, if you cast it, all creatures get -2/-2 until end of turn.
+Whenever a creature you control dies, you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/93_UB04 Goodstuff Mental Sewage.jpg" num="93">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UB05 Goodstuff Withering Torment</name>
+			<text>Destroy target creature or enchantment, You lose 2 life.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/94_UB05 Goodstuff Withering Torment.jpg" num="94">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UB06 Incant Hate</name>
+			<text>Look at each opponent&apos;s sanctum. Choose up to one card with incant or pathbound and exile it. 
+If this spell was cast from your hand, draw a card.
+Incant 2 (If you&apos;re not in a dungeon, enter the Incantation.)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/95_UB06 Incant Hate.jpg" num="95">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UB07 Incant Zombify</name>
+			<text>This spell costs {2} more to cast from your sanctum.
+Return target creature card from your graveyard to the battlefield.
+Incant 4 (If you&apos;re not in a dungeon, enter the Incantation.)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/96_UB07 Incant Zombify.jpg" num="96">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UB08 Mill</name>
+			<text>When Mill enters, each player mills three cards.
+Disturb {3}{B}{B} (You may cast this card from your graveyard transformed for its disturb cost.)
+---
+(Back): Build a Board</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/97_UB08 Mill_front.jpg" num="97a">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Build a Board</related>
+		</card>
+		<card>
+			<name>Build a Board</name>
+			<text>Create a 1/1 white Spirit enchantment creature token for each creature card in target player&apos;s graveyard.
+Exile Build a Board.
+---
+(Front): UB08 Mill</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/97_UB08 Mill_back.jpg" num="97b">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">UB08 Mill</related>
+		</card>
+		<card>
+			<name>UB09 Mill Demise</name>
+			<text>Destroy target creature if its toughness is less than or equal to the number of cards in its controllers graveyard.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/98_UB09 Mill Demise.jpg" num="98">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UB10 Multi Type</name>
+			<text>Menace
+Multi Type&apos;s power is equal to the number of card types among permanents you control.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/99_UB10 Multi Type.jpg" num="99">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>*/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UB11 Multi Type Plumb</name>
+			<text>As an additional cost to cast this spell, sacrifice up to three permanents.
+Draw cards equal to number of different card types among sacrificed permanents and create a Clue token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/100_UB11 Multi Type Plumb.jpg" num="100">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UB12 Sacrifice Dungeoneer</name>
+			<text>Sacrifice another creature or artifact: Venture into the Incantation. Activate only during your turn. (Enter the first room or advance to the next room.)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/101_UB12 Sacrifice Dungeoneer.jpg" num="101">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UB13 Ward</name>
+			<text>Flying
+When Ward enters, choose a permanent with ward you control. Target player pays the ward cost of that permanent. If they can&apos;t, up to one target creature gets -2/-2 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/102_UB13 Ward.jpg" num="102">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UB14 Ward Fegnit Dedth</name>
+			<text>Until end of turn, target creature you control gains &quot;When this creature dies, return it to the battlefield tapped under its owner&apos;s control, then, target player pays the ward cost of that permanent or loses 2 life.&quot;</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/103_UB14 Ward Fegnit Dedth.jpg" num="103">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UB15 Ward Vicious Gossip</name>
+			<text>Ward—Pay 1 life, Discard a card, Mill a card. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 1 life, discards a card, mills a card.)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/104_UB15 Ward Vicious Gossip.jpg" num="104">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UB16 Wide</name>
+			<text>Deathtouch
+When Wide dies, create a 1/1 white Spirit enchantment creature token.
+Disturb {2}{B} (You may cast this card from your graveyard transformed for its disturb cost.)
+---
+(Back): Escape Burn</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/105_UB16 Wide_front.jpg" num="105a">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Escape Burn</related>
+		</card>
+		<card>
+			<name>Escape Burn</name>
+			<text>As an additional cost to cast this spell, exile three cards from your graveyard.
+Target player loses 2 life.
+---
+(Front): UB16 Wide</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/105_UB16 Wide_back.jpg" num="105b">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">UB16 Wide</related>
+		</card>
+		<card>
+			<name>UB17 Wide Clues</name>
+			<text>Creatures you control get +1/+0.
+Whenever a creature you control deals damage to a player, you lose 1 life and create a Clue token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/106_UB17 Wide Clues.jpg" num="106">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UR01 Discard</name>
+			<text>Gain control of target creature until end of turn. Untap it. It gains haste until end of turn.
+When you discard this card you may pay {1}{R}. If you do, copy it. You may cast the copy without paying its mana cost.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/124_UR01 Discard.jpg" num="124">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UR02 Discard</name>
+			<text>Whenever you discard a card, if you have one or fewer cards in hand, Discard gets +3/+0 and trample.
+Disturb {2}{R} (You may cast this card from your graveyard transformed for its disturb cost.)
+---
+(Back): Escape</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/125_UR02 Discard_front.jpg" num="125a">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Escape</related>
+		</card>
+		<card>
+			<name>Escape</name>
+			<text>As an additional cost to cast this spell, exile three cards from your graveyard.
+Discard a card. If you do, draw a card.
+---
+(Front): UR02 Discard</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/125_UR02 Discard_back.jpg" num="125b">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">UR02 Discard</related>
+		</card>
+		<card>
+			<name>UR03 Discard Engine</name>
+			<text>Whenever Discard Engine attacks, each player may discard their hand and draw two cards.
+Disturb {1}{R} (You may cast this card from your graveyard transformed for its disturb cost.)
+---
+(Back): Sabateurs</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/126_UR03 Discard Engine_front.jpg" num="126a">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Sabateurs</related>
+		</card>
+		<card>
+			<name>Sabateurs</name>
+			<text>Until end of turn, creatures you control have first strike and &quot;Whenever this creature deals combat damage to a player, put a +1/+1 counter it.&quot;
+Exile Sabateurs.
+---
+(Front): UR03 Discard Engine</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/126_UR03 Discard Engine_back.jpg" num="126b">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">UR03 Discard Engine</related>
+		</card>
+		<card>
+			<name>UR04 Discard Lightning Axe</name>
+			<text>As an additional cost to cast this spell, discard a card or pay {5}.
+Discard Lightning Axe deals 5 damage to target creature.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/127_UR04 Discard Lightning Axe.jpg" num="127">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UR05 Exile</name>
+			<text>When this creature enters, if you exiled a card this turn, exile up to one target instant or sorcery card with mana value 2 or less from your graveyard. Copy it. You may cast the copy without paying its mana cost.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/128_UR05 Exile.jpg" num="128">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UR06 Exile Dungeoneer w Ward</name>
+			<text>Reach; ward—Pay 3 life
+Whenever you finish exiling one or more cards, if you&apos;re in a dungeon, venture into the Incantation. (Enter the first room or advance to the next room.)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/129_UR06 Exile Dungeoneer w Ward.jpg" num="129">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UR07 Goodstuff Hammer</name>
+			<text>Choose one—
+• Goodstuff Hammer deals 1 damage to each creature you don&apos;t control.
+• Goodstuff Hammer deals 3 damage to target creature.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/130_UR07 Goodstuff Hammer.jpg" num="130">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UR08 Goodstuff Magic Thief</name>
+			<text>When Thief enters, exile target instant or sorcery card from an opponent&apos;s graveyard. Copy it. You may cast the copy this turn, and mana of any type can be spent to cast that spell.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/131_UR08 Goodstuff Magic Thief.jpg" num="131">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UR09 Goodstuff Wipe</name>
+			<text>Choose one —
+• Goodstuff Wipe deals 2 damage to each creature.
+• Destroy up to two target artifacts.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/132_UR09 Goodstuff Wipe.jpg" num="132">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UR10 Incant Discard Phoenix</name>
+			<text>Flying, haste
+When Incant Discard Phoenix dies or you discard it, sanctify it. (Put it into its owner&apos;s sanctum.)
+Incant 3 (If you&apos;re not in a dungeon, enter the Incantation.)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/133_UR10 Incant Discard Phoenix.jpg" num="133">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UR11 Incant Finisher</name>
+			<text>This spell costs {2} more to cast from your sanctum.
+Incant Finisher deals 3 damage to target player or planeswalker.
+Incant 4 (If you&apos;re not in a dungeon, enter the Incantation.)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/134_UR11 Incant Finisher.jpg" num="134">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UR12 Spectacle Flametounge</name>
+			<text>Spectacle {R}{R} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
+When Spectacle Flametounge enters, it deals 3 damage to target creature.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/135_UR12 Spectacle Flametounge.jpg" num="135">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UR13 Spectacle Light Up the Stage</name>
+			<text>Spectacle {R} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
+Exile the top two cards of your library. Until the end of your next turn, you may play those cards.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/136_UR13 Spectacle Light Up the Stage.jpg" num="136">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UR15 Spell Aggro</name>
+			<text>Flying, haste
+Whenever you cast an instant or sorcery spell, Spell Aggro gets +2/+0 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/138_UR15 Spell Aggro.jpg" num="138">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UR16 Spell Aggro Burn</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever Spell Aggro Burn attacks, it deals damage to its power to defending player.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/139_UR16 Spell Aggro Burn.jpg" num="139">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UR14 Ward</name>
+			<text>Ward—Pay 1 life.
+At the beginning of combat on your turn, choose a permanent with ward you control. Target player pays the ward cost of that permanent. If they can&apos;t, Ward gets +1/+1 and first strike until end of turn.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/137_UR14 Ward.jpg" num="137">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UR17 Ward Pump</name>
+			<text>Target creature gets +3/+1 until end of turn. You may pay that creature&apos;s ward cost. If you do, that creature gains trample and haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/140_UR17 Ward Pump.jpg" num="140">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UG01 Bushwhack but worse</name>
+			<text>Choose one —
+• Search your sanctum for a basic land card, reveal it, put it into your hand, then shuffle.
+• Target creature you control fights target creature you don&apos;t control.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/158_UG01 Bushwhack but worse.jpg" num="158">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UG02 Enchantment</name>
+			<text>Whenever this creature enters or attacks, create a 1/1 white Spirit enchantment creature token.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/159_UG02 Enchantment.jpg" num="159">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UG03 Enchantment Incant Buff</name>
+			<text>Until end of turn, target creature gets +3/+0, gains trample, and must be blocked if able.
+Whenever an enchantment enters under your control you may sanctify Enchantment Bait from your graveyard. (Put it into its owner&apos;s sanctum.)
+Incant 2 (If you&apos;re not in a dungeon, enter the Incantation.)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/160_UG03 Enchantment Incant Buff.jpg" num="160">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UG06 Exile</name>
+			<text>Reach
+Whenever you finish exiling one or more cards, untap up to one target creature.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/163_UG06 Exile.jpg" num="163">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UG04 Exile</name>
+			<text>Exile can&apos;t be blocked by creatures with power 2 or less.
+Exile has haste as long as you exiled a card this turn.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/161_UG04 Exile.jpg" num="161">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UG05 Exile</name>
+			<text>Exile gets +2/+2 as long as you exiled a card this turn.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/162_UG05 Exile.jpg" num="162">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UG08 Foretell</name>
+			<text>Deathtouch
+When Foretell enters, if it was foretold, destroy target noncreature permanent.
+Foretell {2}{G}{G} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/165_UG08 Foretell.jpg" num="165">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UG07 Foretell</name>
+			<text>Whenever a creature you control enters, if you didn&apos;t cast it from your hand, it gets +1/+1 and gains haste until end of turn.
+Foretell {G} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/164_UG07 Foretell.jpg" num="164">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UG10 Foretell Ramp</name>
+			<text>{T}: Add {G}.
+{T}: Add {G}{G}. Spend this mana only to cast spells from exile.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/167_UG10 Foretell Ramp.jpg" num="167">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UG09 Foretell Ramp</name>
+			<text>Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle. 
+If you cast this spell from exile, you may play an additional land this turn.
+Foretell {2}{G} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/166_UG09 Foretell Ramp.jpg" num="166">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UG11 Goodstuff</name>
+			<text>Creature with power less than Goodstuff&apos;s power can&apos;t block it.
+Disturb {2}{G}{G} (You may cast this card from your graveyard transformed for its disturb cost.)
+---
+(Back): Escape</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/168_UG11 Goodstuff_front.jpg" num="168a">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Escape</related>
+		</card>
+		<card>
+			<name>Escape</name>
+			<text>As an additional cost to cast, exile five cards from your graveyard.
+Create a 1/1 white Spirit enchantment creature token. Put three +1/+1 counters on it.
+---
+(Front): UG11 Goodstuff</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/168_UG11 Goodstuff_back.jpg" num="168b">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">UG11 Goodstuff</related>
+		</card>
+		<card>
+			<name>UG12 Goodstuff Spinning Wheel Kick</name>
+			<text>Target creature you control deals damage equal to its power to each of X target creatures and/or planeswalkers.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/169_UG12 Goodstuff Spinning Wheel Kick.jpg" num="169">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XXGG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UG13 Incant Regrowth</name>
+			<text>This spell casts {1} more to cast from your sanctum.
+Return target green card from your graveyard to your hand.
+Incant 4 (If you&apos;re not in a dungeon, enter the Incantation.)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/170_UG13 Incant Regrowth.jpg" num="170">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UG14 Landfall Dungeoner</name>
+			<text>Landfall — Whenever a land you control enters, venture into the Incantation. (Enter the first room or advance to the next room.)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/171_UG14 Landfall Dungeoner.jpg" num="171">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UG15 Multi Type</name>
+			<text>Reveal the top five cards of your library. Put any number of permanent cards with different types from among them into your hand. Put the rest on the bottom of your library in a random order.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/172_UG15 Multi Type.jpg" num="172">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UG16 Multi Type Enchantments</name>
+			<text>Other artifact and enchantment creatures you control get +1/+1.
+Disturb {1}{G} (You may cast this card from your graveyard transformed for its disturb cost.)
+---
+(Back): Disturb</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/173_UG16 Multi Type Enchantments_front.jpg" num="173a">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Disturb</related>
+		</card>
+		<card>
+			<name>Disturb</name>
+			<text>This spell can&apos;t be countered.
+The next creature spell you cast this turn can be cast as though it had flash. That spell can&apos;t be countered. That creature enters with an additional +1/+1 counter on it.
+Exile Disturb.
+---
+(Front): UG16 Multi Type Enchantments</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/173_UG16 Multi Type Enchantments_back.jpg" num="173b">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">UG16 Multi Type Enchantments</related>
+		</card>
+		<card>
+			<name>UG17 Multi Type Ramp Target</name>
+			<text>Multi Type Ramp Target gets +1/+0 for each card type among permanents you control.
+When Multi Type Ramp Target enters, you may have it fight target creature. (Each deals damage equal to its power to the other.)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/174_UG17 Multi Type Ramp Target.jpg" num="174">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UI02 Blank</name>
+			<text>Target nonland permanent loses all abilities until end of turn.
+Disturb {1}{I} (You may cast this card from your graveyard transformed for its disturb cost.)
+---
+(Back): Escape</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/194_UI02 Blank_front.jpg" num="194a">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>I</manacost>
+				<cmc>1</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">Escape</related>
+		</card>
+		<card>
+			<name>Escape</name>
+			<text>As an additional cost to cast, exile two cards from your graveyard.
+Each player loses 1 life for each permanent they control with no abilities.
+---
+(Front): UI02 Blank</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/194_UI02 Blank_back.jpg" num="194b">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">UI02 Blank</related>
+		</card>
+		<card>
+			<name>UI01 Blank</name>
+			<text>Target nonland permanent loses all abilities. Put a blank counter and a stun counter on it.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/193_UI01 Blank.jpg" num="193">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UI03 Blank Ixidrike</name>
+			<text>As UI03 Blank Ixidrike enters, choose a creature.
+The chosen creature has size 2/2 and has no abilities.
+UI03 Blank Ixidrike gets +1/+1 for each creature on the battlefield without abilities.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/195_UI03 Blank Ixidrike.jpg" num="195">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2II</manacost>
+				<cmc>4</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UI05 Clue</name>
+			<text>When UI05 Clue enters, create a Clue token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Draw a card.&quot;)
+Whenever you sacrifice a Clue, tap target creature.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/197_UI05 Clue.jpg" num="197">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2I</manacost>
+				<cmc>3</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UI06 Clue</name>
+			<text>Flying, first strike
+Whenever UI06 Clue deals combat damage to a player, create a Clue token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/198_UI06 Clue.jpg" num="198">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3II</manacost>
+				<cmc>5</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UI04 Discard Clue Spiritweaver</name>
+			<text>When UI04 Discard Clue Spiritweaver enters you may discard a card. If you do, you gain 2 life.
+Whenever you discard a card, create a Clue token. This ability triggers only once each turn. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/196_UI04 Discard Clue Spiritweaver.jpg" num="196">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Mystic</type>
+				<maintype>Creature</maintype>
+				<manacost>3I</manacost>
+				<cmc>4</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UI08 Discard Trick</name>
+			<text>Target creature gains double strike until end of turn.
+When you discard this card you may pay {I}. If you do, create a Clue token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/200_UI08 Discard Trick.jpg" num="200">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UI07 Discard Furyblade Vampire 2</name>
+			<text>Trample
+At the beginning of combat on your turn, you may discard a card. If you do, this creature gets +3/+0 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/199_UI07 Discard Furyblade Vampire 2.jpg" num="199">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UI10 Goodstuff Removal</name>
+			<text>Enchant permanent
+Enchanted permanent is a colorless Fault land.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/202_UI10 Goodstuff Removal.jpg" num="202">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2I</manacost>
+				<cmc>3</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UI09 Goodstuff GY</name>
+			<text>Flash
+When UI09 Goodstuff GY enters, sanctify target card in a graveyard. (Put it into its owner&apos;s sanctum.)
+{T}: You and target opponent each draw a card from their sanctum.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/201_UI09 Goodstuff GY.jpg" num="201">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UI11 Incant Ramp</name>
+			<text>Exile three cards from your sanctum. You may put a land card exiled this way onto the battlefield tapped.
+Incant 2 (If you&apos;re not in a dungeon, enter the Incantation.)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/203_UI11 Incant Ramp.jpg" num="203">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UI12 Incant Sift</name>
+			<text>This spell costs {1} more to cast from your sanctum.
+Sift 4, then draw a card. (To sift 4, look at the top four cards of your library, then put any number of them into your sanctum and the rest on top of your library in any order.)
+Incant 3 (If you&apos;re not in a dungeon, enter the Incantation.)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/204_UI12 Incant Sift.jpg" num="204">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UI14 Lifegain</name>
+			<text>Instant and sorcery spells you control have healing 2. (Damage dealt by that spell also causes you to gain 2 life.)
+Disturb {1}{I} (You may cast this card from your graveyard transformed for its disturb cost.)
+---
+(Back): Disturb</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/206_UI14 Lifegain_front.jpg" num="206a">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2I</manacost>
+				<cmc>3</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Disturb</related>
+		</card>
+		<card>
+			<name>Disturb</name>
+			<text>Disturb deals 1 damage to target player. Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+Exile Disturb.
+---
+(Front): UI14 Lifegain</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/206_UI14 Lifegain_back.jpg" num="206b">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">UI14 Lifegain</related>
+		</card>
+		<card>
+			<name>UI15 Lifegain</name>
+			<text>Flying, healing 1 (Damage dealt by this creature also causes you to gain 1 life.)
+UI15 Lifegain can block only creatures with flying.
+Whenever you gain life, each opponent loses 1 life.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/207_UI15 Lifegain.jpg" num="207">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UI13 Lifegain</name>
+			<text>At the beginning of each end step, if you gained 3 or more life this turn, you may exile two cards from your sanctum face down. If you do, draw a card.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/205_UI13 Lifegain.jpg" num="205">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UI16 Lifegain Ramp Target</name>
+			<text>When UI16 Lifegain Ramp Target enters, each opponent loses 4 life. You gain life equal to the life lost this way.
+{1}{I}: UI16 Lifegain Ramp Target gets +2/-2 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/208_UI16 Lifegain Ramp Target.jpg" num="208">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>5I</manacost>
+				<cmc>6</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UI17 Lifegain Remand</name>
+			<text>Return up to one target spell to its owner&apos;s hand. You gain 2 life.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/209_UI17 Lifegain Remand.jpg" num="209">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UI18 Removal</name>
+			<text>Two target creatures exchange sizes, then give one of them +2/-2 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/210_UI18 Removal.jpg" num="210">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3I</manacost>
+				<cmc>4</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UM12 Blank</name>
+			<text>When Blank enters, target creature loses all abilities for as long as you control Blank.
+Whenever a creature with no abilities an opponent controls attacks, you draw a card.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/226_UM12 Blank.jpg" num="226">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2IU</manacost>
+				<cmc>4</cmc>
+				<colors>UI</colors>
+				<coloridentity>UI</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM13 Clue Control</name>
+			<text>If one or more tokens would be created under your control, those tokens plus an additional Clue token are created instead. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/227_UM13 Clue Control.jpg" num="227">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1IB</manacost>
+				<cmc>3</cmc>
+				<colors>BI</colors>
+				<coloridentity>BI</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM14 Discard</name>
+			<text>Whenever you discard an instant or sorcery card, you may exile it. If you do, you may cast it this turn. Do this only once during each of your turns.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/228_UM14 Discard.jpg" num="228">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>IR</manacost>
+				<cmc>2</cmc>
+				<colors>RI</colors>
+				<coloridentity>RI</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM05 Enchantments</name>
+			<text>Whenever Enchantments or another enchantment you control enters, up to one target creature gains your choice of flying or trample until end of turn.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/219_UM05 Enchantments.jpg" num="219">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM04 Exile</name>
+			<text>Trample
+Whenever you finish exiling one or more cards, double Exile&apos;s power until end of turn.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/218_UM04 Exile.jpg" num="218">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM01 Foretell</name>
+			<text>Whenever you foretell a card from your hand, draw a card, then exile a card from your hand face down. It becomes foretold. (Its foretell cost is its mana cost if it isn&apos;t already specified.)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/215_UM01 Foretell.jpg" num="215">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM08 Foretell Ramp</name>
+			<text>When Foretell Ramp enters, if it was foretold it becomes a 6/6 Elder Giant creature.
+Whenever you spend five or more mana to cast a spell, you may search your library for a Forest or Island card, put it onto the battlefield tapped, then shuffle.
+Foretell {G}{G}{U}{U} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/222_UM08 Foretell Ramp.jpg" num="222">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM06 Go Wide</name>
+			<text>Whenever Go Wide attacks you may sacrifice a creature or Clue. If you do, put a +1/+1 counter on each creature you control.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/220_UM06 Go Wide.jpg" num="220">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM11 Lifegain</name>
+			<text>If you would gain life, you gain that much life plus 2 instead.
+Pay 15 life: Lifegain deals 8 damage to any target.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/225_UM11 Lifegain.jpg" num="225">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1IW</manacost>
+				<cmc>3</cmc>
+				<colors>WI</colors>
+				<coloridentity>WI</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UM02 Mill</name>
+			<text>Choose one —
+• Whenever a card is put into an opponent&apos;s graveyard from anywhere this turn, that player loses that much life.
+• Target opponent mills three cards and you draw a card.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/216_UM02 Mill.jpg" num="216">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UM07 Multi Type</name>
+			<text>Multi Type costs {1} less to cast for each card type among permanents you control.
+Exile target nonbasic permanent.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/221_UM07 Multi Type.jpg" num="221">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4BG</manacost>
+				<cmc>6</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UM10 Prowess Aggro</name>
+			<text>Flying
+Whenever you cast an instant or sorcery spell, creatures you control get +1/+0 until end of turn.
+Whenever you cast an instant or sorcery spell from your sanctum, return Prowess Aggro from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/224_UM10 Prowess Aggro.jpg" num="224">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM15 Ramp</name>
+			<text>When Ramp enters, you may reveal a card with mana value 5 or greater from your sanctum and put it into your hand.
+{T}: Add {I} or {G}.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/229_UM15 Ramp.jpg" num="229">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1IG</manacost>
+				<cmc>3</cmc>
+				<colors>GI</colors>
+				<coloridentity>GI</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UM09 Spectacle</name>
+			<text>Spectacle {U}{R} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
+Spectacle deals 2 damage to each opponent. At the beginning of the next upkeep, if you payed this spell&apos;s spectacle cost, return Spectacle to its owner&apos;s hand. Otherwise draw a card.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/223_UM09 Spectacle.jpg" num="223">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UM03 Ward</name>
+			<text>Ward—Sacrifice a creature (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player sacrifices a creature.)
+Whenever an opponent pays a ward cost of a permanent you control, put a +1/+1 counter on Ward.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/217_UM03 Ward.jpg" num="217">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UA01 Generic Large Flying</name>
+			<text>Flying
+Disturb {2} (You may cast this card from your graveyard transformed for its disturb cost.)
+---
+(Back):</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/234_UA01 Generic Large Flying_front.jpg" num="234a">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Artifact Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform"></related>
+		</card>
+		<card>
+			<name></name>
+			<text>Sanctify target card in a graveyard. Add one mana of any color. (Put it into its owner&apos;s sanctum.)
+Exile CARDNAME.
+---
+(Front): UA01 Generic Large Flying</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/234_UA01 Generic Large Flying_back.jpg" num="234b">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">UA01 Generic Large Flying</related>
+		</card>
+		<card>
+			<name>UA02 Incant without Spells</name>
+			<text>Flying, healing 1 (Damage dealt by this creature also causes you to gain 1 life.)
+Ward {2}
+Sacrifice Incant without Spells: Incant without Spells deals 3 damage to each opponent and you draw a card. Activate only if you&apos;ve completed a dungeon.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/235_UA02 Incant without Spells.jpg" num="235">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UA03 Manalith</name>
+			<text>{T}: Choose one —
+• Add one mana of any color.
+• Venture into the Incantation. (Enter the first room or advance to the next room.)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/236_UA03 Manalith.jpg" num="236">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UA04 Toxic Spells</name>
+			<text>Whenever an instant or sorcery spell you control deals damage to a player, that player gets a poison counter.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/237_UA04 Toxic Spells.jpg" num="237">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UL02 River of Tears</name>
+			<text>{T}: Add {U}. If you played a land this turn, add {B} instead.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/240_UL02 River of Tears.jpg" num="240">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UL15</name>
+			<text>{T}: Add {I}. If you played a land this turn, add {G} instead.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/253_UL15.jpg" num="253">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>GI</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UL14</name>
+			<text>{T}: Add {I}. If you played a land this turn, add {R} instead.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/252_UL14.jpg" num="252">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RI</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UL09</name>
+			<text>{T}: Add {U}. If you played a land this turn, add {R} instead.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/247_UL09.jpg" num="247">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UL10</name>
+			<text>{T}: Add {R}. If you played a land this turn, add {W} instead.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/248_UL10.jpg" num="248">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UL08</name>
+			<text>{T}: Add {G}. If you played a land this turn, add {U} instead.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/246_UL08.jpg" num="246">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UL03</name>
+			<text>{T}: Add {B}. If you played a land this turn, add {R} instead.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/241_UL03.jpg" num="241">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UL01</name>
+			<text>{T}: Add {W}. If you played a land this turn, add {U} instead.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/239_UL01.jpg" num="239">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UL06</name>
+			<text>{T}: Add {W}. If you played a land this turn, add {B} instead.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/244_UL06.jpg" num="244">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UL05</name>
+			<text>{T}: Add {G}. If you played a land this turn, add {W} instead.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/243_UL05.jpg" num="243">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UL07</name>
+			<text>{T}: Add {B}. If you played a land this turn, add {G} instead.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/245_UL07.jpg" num="245">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UL04</name>
+			<text>{T}: Add {R}. If you played a land this turn, add {G} instead.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/242_UL04.jpg" num="242">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UL11</name>
+			<text>{T}: Add {I}. If you played a land this turn, add {W} instead.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/249_UL11.jpg" num="249">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WI</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UL12</name>
+			<text>{T}: Add {I}. If you played a land this turn, add {U} instead.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/250_UL12.jpg" num="250">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UI</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>UL13</name>
+			<text>{T}: Add {I}. If you played a land this turn, add {B} instead.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/RFA-files/img/251_UL13.jpg" num="251">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BI</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>RM Anti Lifegain</name>
+			<text>Menace; ward—Pay 1 life.
+Players can&apos;t gain life.
+{T}, Sacrifice another creature: Choose a permanent with ward you control. Target player pays the ward cost of that permanent. If they can&apos;t, put two +1/+1 counters on RM Anti Lifegain.</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/RFA-files/img/211_RM Anti Lifegain.jpg" num="211">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2B/R</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Incantation RFA</name>
+			<text>You may cast a spell with incant 1 or less from your sanctum this turn. If you do, return the start of the Incantation.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/RFA-files/img/1t_The Incantation.jpg" num="1">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>RW The Most Uninspired Card</name>
+			<text>Other creatures you control get +1/+0.</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/RFA-files/img/19_RW The Most Uninspired Card.jpg" num="19">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RI Saccharine Command</name>
+			<text>Choose two —
+• You gain 2 life.
+• Counter target triggered ability of a creature.
+• RI Saccharine Command deals 1 damage to any target.
+• Sanctify target card a graveyard. (Put it into its owner&apos;s sanctum.)</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/RFA-files/img/192_RI Saccharine Command.jpg" num="192">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>RM Pawn Off</name>
+			<text>Target player gains control of target permanent you control. 
+Draw a card.</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/RFA-files/img/214_RM Pawn Off.jpg" num="214">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3U/R</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>RM Blank Walker</name>
+			<text>[+1]: Up to one target creature loses all abilities for as long as you control RM Blank Walker.
+[-2]: Draw a card for each creature with no abilities target opponent controls.
+[-6]: Draw six cards. You have no maximum hand size for the rest of the game.</text>
+			<set rarity="mythic" picurl="https://mse-hub/sets/RFA-files/img/213_RM Blank Walker.jpg" num="213">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Planeswalker</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2IU</manacost>
+				<cmc>4</cmc>
+				<colors>UI</colors>
+				<coloridentity>UI</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RW</name>
+			<text>Disturb {1}{W} (You may cast this card from your graveyard transformed for its disturb cost.)
+---
+(Back):</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/RFA-files/img/18_RW_front.jpg" num="18a">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform"></related>
+		</card>
+		<card>
+			<name></name>
+			<text>Healing 2 (Damage dealt by this creature also causes you to gain 2 life.)
+CARDNAME can&apos;t block.
+Whenever CARDNAME and at least two other creatures attack, you may return CARDNAME to its owner&apos;s hand.
+---
+(Front): RW</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/RFA-files/img/18_RW_back.jpg" num="18b">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">RW</related>
+		</card>
+		<card>
+			<name>RU Gravecast</name>
+			<text>Flying
+When RU Gravecast enters, exile up to one target instant or sorcery card from your graveyard. Copy it. You may cast the copy without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/RFA-files/img/53_RU Gravecast.jpg" num="53">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RB</name>
+			<text>You lose 2 life and draw a card.
+Disturb {2}{B}{B} (You may cast this card from your graveyard transformed for its disturb cost.)
+---
+(Back):</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/RFA-files/img/88_RB_front.jpg" num="88a">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform"></related>
+		</card>
+		<card>
+			<name></name>
+			<text>Flying
+At the beginning of each combat, any opponent may sacrifice a creature. If a player does, return CARDNAME to its owner&apos;s hand.
+---
+(Front): RB</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/RFA-files/img/88_RB_back.jpg" num="88b">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">RB</related>
+		</card>
+		<card>
+			<name>RI</name>
+			<text>Disturb {I} (You may cast this card from your graveyard transformed for its disturb cost.)
+---
+(Back):</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/RFA-files/img/191_RI_front.jpg" num="191a">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>I</manacost>
+				<cmc>1</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform"></related>
+		</card>
+		<card>
+			<name></name>
+			<text>---
+(Front): RI</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/RFA-files/img/191_RI_back.jpg" num="191b">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">RI</related>
+		</card>
+		<card>
+			<name>RB</name>
+			<text>Artifact and enchantment creatures you control get +1/+1.
+When RB enters, create two 2/1 black Skeleton artifact creature tokens.</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/RFA-files/img/89_RB.jpg" num="89">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RR</name>
+			<text>Exile the top two cards of your library, you may play those cards this turn.
+Disturb {2}{R} (You may cast this card from your graveyard transformed for its disturb cost.)
+---
+(Back):</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/RFA-files/img/123_RR_front.jpg" num="123a">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform"></related>
+		</card>
+		<card>
+			<name></name>
+			<text>CARDNAME can&apos;t block
+Whenever you discard a card, you may return CARDNAME to its owner&apos;s hand.
+---
+(Front): RR</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/RFA-files/img/123_RR_back.jpg" num="123b">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">RR</related>
+		</card>
+		<card>
+			<name>RG</name>
+			<text>Exile target artifact or enchantment.
+Disturb {3}{G}{G} (You may cast this card from your graveyard transformed for its disturb cost.)
+---
+(Back):</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/RFA-files/img/157_RG_front.jpg" num="157a">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform"></related>
+		</card>
+		<card>
+			<name></name>
+			<text>Reach
+Whenever an opponent casts a noncreature spell, you may return CARDNAME to its owner&apos;s hand.
+---
+(Front): RG</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/RFA-files/img/157_RG_back.jpg" num="157b">RFA</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">RG</related>
+		</card>
+		<card>
+			<name>RR</name>
+			<text>RR has first strike as long as its your turn.
+All artifacts have &quot;At the beginning of your upkeep, sacrifice this artifact unless you pay 1 life.&quot;</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/RFA-files/img/122_RR.jpg" num="122">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>MG 8 Line Mythic</name>
+			<text>Whenever you cast an instant or sorcery spell, you may have MG 8 Line Mythic deal damage equal to the mana value of that spell divided as you choose among any number of target creatures your opponents control. Each of those creatures deals damage equal to its power to MG 8 Line Mythic. Do this only once each turn.</text>
+			<set rarity="mythic" picurl="https://mse-hub/sets/RFA-files/img/156_MG 8 Line Mythic.jpg" num="156">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RM Baba Yaga</name>
+			<text>{T}, Sacrifice up to three permanents: If there were three or more card types among the sacrificed permanents, each opponent loses 3 life, you gain 3 life, and you draw three cards.</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/RFA-files/img/212_RM Baba Yaga.jpg" num="212">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RU</name>
+			<text>Return all nonland permanents to their owner&apos;s hands.</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/RFA-files/img/52_RU.jpg" num="52">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>RU Obstructionist</name>
+			<text>Flying
+{2}{U}, Exile RU Obstructionist: Counter target activated or triggered ability from a nonland source. This card becomes foretold. (Its foretell cost is its mana cost if it isn&apos;t already specified.)</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/RFA-files/img/54_RU Obstructionist.jpg" num="54">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>ML</name>
+			<text>{T}: Add {C}
+{T}: Exile a card from your hand face down. It becomes foretold. (Its foretell cost is its mana cost if it isn&apos;t already specified.)</text>
+			<set rarity="mythic" picurl="https://mse-hub/sets/RFA-files/img/238_ML.jpg" num="238">RFA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

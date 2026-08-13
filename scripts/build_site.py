@@ -6,7 +6,7 @@ import glob
 import re
 
 import list_to_list
-# import print_cockatrice_file
+import print_cockatrice_file
 import print_draft_file
 import print_html_for_index
 import print_html_for_search

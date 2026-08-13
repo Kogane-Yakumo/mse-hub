@@ -1,0 +1,1580 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>CFV2</name>
+			<longname>Cardfight Vanguard Nickel Horizon</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-08-13</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name></name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/1_.jpg" num="1">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW05 Bellringer Angel</name>
+			<text>Flying, healing 1 (Damage dealt by this creature also causes you to gain 1 life.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/6_CW05 Bellringer Angel.jpg" num="6">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/19_CU.jpg" num="19">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/49_CR.jpg" num="49">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/68_CG.jpg" num="68">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CI</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/81_CI.jpg" num="81">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>I</manacost>
+				<cmc>1</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW03 Apprentice Exorcist</name>
+			<text>At the beginning of combat on your turn, check. (Look at the top card of your library. You can reveal it.)
+Whenever your check reveals a creature card, Apprentice Exorcist gains first strike until end of turn.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/4_CW03 Apprentice Exorcist.jpg" num="4">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW10 Crimson Mediblade</name>
+			<text>Flying
+Legion (As this creature attacks, you may remove another attacking creature from combat to add its power to this creature this combat.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/11_CW10 Crimson Mediblade.jpg" num="11">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel Doctor Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW04 Knight of Harp</name>
+			<text>Generation Stride—Knight {3}{W}{W} (You may cast this spell from your sanctum. If you do, put it over a Knight you control until end of turn.)
+When Knight of Harp strides, tap up to one target creature and put a stun counter on it.
+{2}{W}, {T}: Tap target creature.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/5_CW04 Knight of Harp.jpg" num="5">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW14 Overwhelming Light</name>
+			<text>Choose two —
+• Exile target tapped creature.
+• Destroy target noncreature artifact or enchantment.
+• You gain 2 life.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/15_CW14 Overwhelming Light.jpg" num="15">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CW02 Murakumo Snow Guardian</name>
+			<text>Vigilance
+Legion (As this creature attacks, you may remove another attacking creature from combat to add its power to this creature this combat.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/3_CW02 Murakumo Snow Guardian.jpg" num="3">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW08 Guardian Shisa</name>
+			<text>Generation Stride—Robot or Dog {W} (You may cast this spell from your sanctum. If you do, put it over a Robot or Dog you control until end of turn.)
+Whenever Guardian Shisa becomes tapped, you may pay {W}{W}. If you do, creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/9_CW08 Guardian Shisa.jpg" num="9">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot Cat Dog</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW06 Barcgal</name>
+			<text>Whenever Barcgal and at least two other creatures attack, put a +1/+1 counter on Barcgal.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/7_CW06 Barcgal.jpg" num="7">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot Dog Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW11 Love Machine Gun</name>
+			<text>Love Machine Gun deals 4 damage to target tapped creature. 
+You gain 2 life if you control three or more tapped creatures.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/12_CW11 Love Machine Gun.jpg" num="12">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/35_CB.jpg" num="35">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW09 Enthusiastic Battle Sister</name>
+			<text>When Enthusiastic Battle Sister enters, choose one —
+• Return target artifact card from your graveyard to your hand.
+• Sift 3 (Look at the top three cards of your library, then put any number of them into your sanctum and the rest on top of your library in any order.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/10_CW09 Enthusiastic Battle Sister.jpg" num="10">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW07 Fife and Drum Corp</name>
+			<text>When Fife and Drum Corp dies, create two 1/1 white Knight creature tokens.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/8_CW07 Fife and Drum Corp.jpg" num="8">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW13 Heavy Break Slam</name>
+			<text>Target creature gets +2/+2 until end of turn. It that card is in legion, it gains first strike until end of turn.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/14_CW13 Heavy Break Slam.jpg" num="14">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CW01 Flogal</name>
+			<text>{2}: Put a random card from your sanctum into your hand. Activate only once and only if your check revealed a creature card this turn.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/2_CW01 Flogal.jpg" num="2">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dog Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW12 Dimensional Cuffs</name>
+			<text>When Dimensional Cuffs enters, sanctify target nonland permanent. (Put it into its owner&apos;s sanctum.)
+When Dimensional Cuffs leaves the battlefield, target opponent puts a random card from their sanctum into their hand.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/13_CW12 Dimensional Cuffs.jpg" num="13">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Color Goals CFV2</name>
+			<text>{W}: Go Wide, Check (Look at the top card of your library. You can reveal it.)
+{U}: Check, Nondraw (Look at the top card of your library. You can reveal it.)
+{B}: Sacrifice, Sanctum
+{R}: Morbid, Power
+{G}: Power, Sacrifice
+{I}: Mana value,</text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/1t_Color Goals.jpg" num="1">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUBRGI</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>CW15 Marine Intelligence</name>
+			<text>Exile target spell. 
+Its controller draws a card.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/16_CW15 Marine Intelligence.jpg" num="16">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/23_CU.jpg" num="23">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/36_CB.jpg" num="36">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/50_CR.jpg" num="50">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/69_CG.jpg" num="69">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UI Luquier, Dragon Tamer</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/CFV2-files/img/94_UI Luquier, Dragon Tamer.jpg" num="94">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>I</manacost>
+				<cmc>1</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/26_CU.jpg" num="26">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/38_CB.jpg" num="38">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/52_CR.jpg" num="52">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/70_CG.jpg" num="70">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CI</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/80_CI.jpg" num="80">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>I</manacost>
+				<cmc>1</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU01 Godhawk of the Moon</name>
+			<text>Flying
+{2}{U}: Check. If your check revealed a God card. Put it into your hand. Otherwise, you may put it into your graveyard. (Look at the top card of your library. You can reveal it.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/29_CU01 Godhawk of the Moon.jpg" num="29">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird God</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/40_CB.jpg" num="40">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/53_CR.jpg" num="53">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/64_CG.jpg" num="64">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CI16 Magical Hat</name>
+			<text>You may cast a creature card from your sanctum with mana value X or less, where X is the number of cards in your sanctum minus five.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/93_CI16 Magical Hat.jpg" num="93">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>I</manacost>
+				<cmc>1</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/24_CU.jpg" num="24">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/44_CB.jpg" num="44">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/60_CR.jpg" num="60">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/67_CG.jpg" num="67">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CI</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/84_CI.jpg" num="84">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>I</manacost>
+				<cmc>1</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU04 Jet Dolphin</name>
+			<text>Whenever Jet Dolphin attacks, if a card was put into your hand and wasn&apos;t drawn, it gains flying until end of turn.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/30_CU04 Jet Dolphin.jpg" num="30">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Whale</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/41_CB.jpg" num="41">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/58_CR.jpg" num="58">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG01 Combat Squirrel</name>
+			<text>Reach
+Whenever Combat Squirrel blocks a creature with flying, it gets +2/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/76_CG01 Combat Squirrel.jpg" num="76">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Squirrel Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CI</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/82_CI.jpg" num="82">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>I</manacost>
+				<cmc>1</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/22_CU.jpg" num="22">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/45_CB.jpg" num="45">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/55_CR.jpg" num="55">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/71_CG.jpg" num="71">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CI</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/86_CI.jpg" num="86">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>I</manacost>
+				<cmc>1</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/21_CU.jpg" num="21">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB04 Ruin Shade</name>
+			<text>When Ruin Shade enters, mill three cards and check. (Look at the top card of your library. You can reveal it.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/47_CB04 Ruin Shade.jpg" num="47">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shade Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/57_CR.jpg" num="57">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/73_CG.jpg" num="73">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CI07 Evil-Eye Channeler</name>
+			<text>Generation Stride—Mystic or Shaman {1}{I} (You may cast this spell from your sanctum. If you do, put it over a Mystic or Shaman you control until end of turn.)
+When CI07 Evil-Eye Channeler strides, you may activate the following ability without paying its costs.
+{2}{I}: Target creature you don&apos;t control becomes an enchantment until end of turn.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/91_CI07 Evil-Eye Channeler.jpg" num="91">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon Mystic</type>
+				<maintype>Creature</maintype>
+				<manacost>3I</manacost>
+				<cmc>4</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/20_CU.jpg" num="20">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/34_CB.jpg" num="34">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/51_CR.jpg" num="51">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/74_CG.jpg" num="74">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CI</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/79_CI.jpg" num="79">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>I</manacost>
+				<cmc>1</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/28_CU.jpg" num="28">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/39_CB.jpg" num="39">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/59_CR.jpg" num="59">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG14 Druidic Revelation</name>
+			<text>When you cast this spell, if you control a creature with power 4 or greater, copy it.
+Look at the top three cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/77_CG14 Druidic Revelation.jpg" num="77">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CI</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/87_CI.jpg" num="87">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>I</manacost>
+				<cmc>1</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/27_CU.jpg" num="27">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/43_CB.jpg" num="43">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/56_CR.jpg" num="56">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/65_CG.jpg" num="65">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CI</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/83_CI.jpg" num="83">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>I</manacost>
+				<cmc>1</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU15 Heartfelt Song</name>
+			<text>This spell costs {2} less to cast if a card was put into your hand and wasn&apos;t drawn this turn.
+Draw three cards, then discard a card.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/33_CU15 Heartfelt Song.jpg" num="33">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/42_CB.jpg" num="42">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/54_CR.jpg" num="54">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/66_CG.jpg" num="66">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CI02 Purple Trapezist</name>
+			<text>CI02 Purple Trapezist can&apos;t be blocked unless each attacking creature with mana value 4 or greater is also blocked.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/90_CI02 Purple Trapezist.jpg" num="90">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/25_CU.jpg" num="25">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB07 Decay Dragon</name>
+			<text>At the beginning of combat, you may have Decay Dragon gain flying and decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/48_CB07 Decay Dragon.jpg" num="48">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR02 Flame of Victory</name>
+			<text>Whenever you attack, if a creature died this turn, target creature gains first strike until end of turn.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/63_CR02 Flame of Victory.jpg" num="63">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG15 Season of Plenty</name>
+			<text>Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your sanctum.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/78_CG15 Season of Plenty.jpg" num="78">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CI13 Card Trick</name>
+			<text>Reveal a random card from your sanctum and put it into your hand. Up to one target creature gets +2/-2 until end of turn.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/92_CI13 Card Trick.jpg" num="92">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU05 Battle Siren Cadet</name>
+			<text>Vigilance
+Legion (As this creature attacks, you may remove another attacking creature from combat to add its power to this creature this combat.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/31_CU05 Battle Siren Cadet.jpg" num="31">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/37_CB.jpg" num="37">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/61_CR.jpg" num="61">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/72_CG.jpg" num="72">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CI</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/85_CI.jpg" num="85">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>I</manacost>
+				<cmc>1</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU10 Impulse but Sanctum</name>
+			<text>Look at four random cards from your sanctum. Put one of them into your hand.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/32_CU10 Impulse but Sanctum.jpg" num="32">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB02 Banshee of Ripples</name>
+			<text>When Banshee of Ripples enters, sift 2. You may have target opponent choose a creature card from your sanctum. You put it into your graveyard. (To sift 2, look at the top two cards of your library, then put any number of them into your sanctum and the rest on top of your library in any order.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/46_CB02 Banshee of Ripples.jpg" num="46">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR01 Energetic Dragon Dancer</name>
+			<text>Haste
+{T}: Target Dragon or creature with power 2 or less gains haste until end of turn.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/62_CR01 Energetic Dragon Dancer.jpg" num="62">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/75_CG.jpg" num="75">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CI</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/88_CI.jpg" num="88">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>I</manacost>
+				<cmc>1</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CI</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/CFV2-files/img/89_CI.jpg" num="89">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost>I</manacost>
+				<cmc>1</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UW</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/CFV2-files/img/17_UW.jpg" num="17">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UW Million Ray Pegasus</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/CFV2-files/img/18_UW Million Ray Pegasus.jpg" num="18">CFV2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

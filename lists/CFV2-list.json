@@ -25,7 +25,7 @@
     },
     {
         "card_name": "CR",
-        "number": 61,
+        "number": 55,
         "shape": "normal",
         "set": "CFV2",
         "rotated": false,
@@ -64,8 +64,8 @@
         "position": ""
     },
     {
-        "card_name": "CR01 Energetic Dragon Dancer",
-        "number": 62,
+        "card_name": "CR",
+        "number": 61,
         "shape": "normal",
         "set": "CFV2",
         "rotated": false,
@@ -104,8 +104,8 @@
         "position": ""
     },
     {
-        "card_name": "CR02 Flame of Victory",
-        "number": 63,
+        "card_name": "CR01 Energetic Dragon Dancer",
+        "number": 62,
         "shape": "normal",
         "set": "CFV2",
         "rotated": false,
@@ -144,7 +144,12 @@
         "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "CR02 Flame of Victory",
+        "number": 63,
+        "shape": "normal",
+        "set": "CFV2",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "CG15 Season of Plenty",

@@ -1,0 +1,1086 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>VSB</name>
+			<longname>Vespera: Breached</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-08-13</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>The End is Beautiful</name>
+			<text>The End is Beautiful enters with three time counters on it.
+At the beginning of each opponent&apos;s upkeep, remove a time counter on The End is Beautiful. Then if it has no time counters on it, that player sacrifices all creatures you control. If no creatures were sacrificed this way, they lose 7 life.</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/VSB-files/img/45_The End is Beautiful.jpg" num="45">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Master of the Wild Hunt</name>
+			<text>At the beginning of your upkeep, create a 2/2 green Wolf creature token.
+{T}: Tap all untapped Wolf creatures you control. Each Wolf tapped this way deals damage equal to its power to target creature. That creature deals damage equal to its power divided as its controller chooses among any number of those Wolves.</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/VSB-files/img/21_Master of the Wild Hunt.jpg" num="21">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Solar Pilgrimage</name>
+			<text>Flash
+When Solar Pilgrimage enters, if it was foretold, create a 2/2 white Angel creature token with flying.
+Whenever you cast a foretold spell, create a 2/2 white Angel creature token with flying.
+Foretell {1}{W} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/VSB-files/img/3_Solar Pilgrimage.jpg" num="3">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Tricuspid Gate</name>
+			<text>{T}: Add {C}.
+{T}: Exile a card from your hand face down. It becomes foretold. (Its foretell cost is its mana cost if it isn&apos;t already specified.)</text>
+			<set rarity="mythic" picurl="https://mse-hub/sets/VSB-files/img/56_The Tricuspid Gate.jpg" num="56">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Sanctuary of Journeys</name>
+			<text>This land enters tapped.
+{T}: Add {I} or {R}.
+{4}, Sacrifice a Sanctuary: Target non-God creature becomes a God in addition to its other types. Put two +1/+1 counters on it. Activate only as a Sorcery.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/VSB-files/img/57_Sanctuary of Journeys.jpg" num="57">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Sanctuary</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RI</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Sanctuary of Moonlight</name>
+			<text>This land enters tapped.
+{T}: Add {I} or {U}.
+{4}, Sacrifice a Sanctuary: Target non-God creature becomes a God in addition to its other types. Put two +1/+1 counters on it. Activate only as a Sorcery.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/VSB-files/img/58_Sanctuary of Moonlight.jpg" num="58">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Sanctuary</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UI</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Sanctuary of Nectars</name>
+			<text>This land enters tapped.
+{T}: Add {I} or {G}.
+{4}, Sacrifice a Sanctuary: Target non-God creature becomes a God in addition to its other types. Put two +1/+1 counters on it. Activate only as a Sorcery.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/VSB-files/img/59_Sanctuary of Nectars.jpg" num="59">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Sanctuary</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>GI</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Sanctuary of Resonance</name>
+			<text>This land enters tapped.
+{T}: Add {I} or {W}.
+{4}, Sacrifice a Sanctuary: Target non-God creature becomes a God in addition to its other types. Put two +1/+1 counters on it. Activate only as a Sorcery.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/VSB-files/img/60_Sanctuary of Resonance.jpg" num="60">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Sanctuary</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WI</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Sanctuary of Scales</name>
+			<text>This land enters tapped.
+{T}: Add {I} or {B}.
+{4}, Sacrifice a Sanctuary: Target non-God creature becomes a God in addition to its other types. Put two +1/+1 counters on it. Activate only as a Sorcery.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/VSB-files/img/61_Sanctuary of Scales.jpg" num="61">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Sanctuary</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BI</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Isidra&apos;s Hunt</name>
+			<text>When Isidra&apos;s Hunt enters, target opponent creates a blue Teferi planeswalker token named &quot;Signs of Teferi&quot; and put 2 loyalty counters on it.
+Whenever a planeswalker an opponent controls dies, its controller reveals their hand. You choose a nonland card from it. That player discards that card.</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/VSB-files/img/11_Isidra&apos;s Hunt.jpg" num="11">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Woods&apos; Procession</name>
+			<text>Whenever one or more creatures you control lose toughness, induct. This ability only triggers twice per turn. (Create a 0/1 Cleric creature token with &quot;As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can&apos;t block.&quot;)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/VSB-files/img/41_Woods&apos; Procession.jpg" num="41">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Incursus</name>
+			<text>Pathbound—Sacrifice two Clerics. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
+Look at the top seven cards of your library. Put up to two permanent cards with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/VSB-files/img/2_The Incursus.jpg" num="2">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2WWW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>In the Arms of the Mother</name>
+			<text>Pathbound—Sacrifice two Clerics. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
+As an additional cost to cast this spell, sacrifice a creature.
+Put a creature card from your sanctum with mana value X or less onto the battlefield, where X is 1 plus the sacrificed creature&apos;s mana value.</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/VSB-files/img/31_In the Arms of the Mother.jpg" num="31">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Conflagration of the Heart</name>
+			<text>Pathbound—Sacrifice two Clerics. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
+Create a token that&apos;s a copy of target creature you control. It gains haste until end of turn and deals damage to you equal to twice its mana value. Exile it at the beginning of the next end step.</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/VSB-files/img/13_Conflagration of the Heart.jpg" num="13">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Life, Unending</name>
+			<text>Pathbound—Sacrifice two Clerics. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
+Double the size of target creature until end of turn. You gain life equal to its power or toughness, whichever is greater.</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/VSB-files/img/20_Life, Unending.jpg" num="20">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Feast of the True Birth</name>
+			<text>Pathbound—Sacrifice two Clerics. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
+Search target opponent&apos;s library for a card and exile it. That player shuffles. You foretell that card. Its foretell cost is equal to its mana cost reduced by {2}. Mana of any type can be spent to cast that spell.</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/VSB-files/img/9_Feast of the True Birth.jpg" num="9">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Nothing Must be Forgotten</name>
+			<text>Pathbound—Sacrifice two Clerics. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
+Return to your hand all cards in your graveyard that you sacrificed this turn.</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/VSB-files/img/6_Nothing Must be Forgotten.jpg" num="6">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Silent Servant</name>
+			<text>Reach
+Other Angels you control get +1/+1.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/VSB-files/img/12_Silent Servant.jpg" num="12">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Novice to Unmaking</name>
+			<text>Trample
+Whenever another creature enters under your control, Novice to Unmaking deals 1 damage to it and gets +1/+0 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/VSB-files/img/14_Novice to Unmaking.jpg" num="14">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Skaptodon</name>
+			<text>Whenever Skaptodon is dealt damage, exile the top card of your library. You may play it this turn.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/VSB-files/img/16_Skaptodon.jpg" num="16">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Obscure Existence</name>
+			<text>Return target nonland permanent you don&apos;t control to its owner&apos;s hand if it&apos;s a creature or you cast this spell from exile.
+Foretell {U} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/VSB-files/img/7_Obscure Existence.jpg" num="7">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Abandon the Church</name>
+			<text>As an additional cost to cast this spell you may sacrifice a Sanctuary.
+Abandon the Church deals X damage to each creature, where X is the number of Sanctuaries you control.
+If this spell&apos;s additional cost was paid, Abandon the Church deals twice that damage instead.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/VSB-files/img/42_Abandon the Church.jpg" num="42">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ghirbi, Freed Wallbreaker</name>
+			<text>Creatures you control can attack as if they didn&apos;t have defender.
+[+1]: Until your next turn, all creatures must attack if able.
+[-2]: Target creature gets +3/-2 until end of turn.</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/VSB-files/img/47_Ghirbi, Freed Wallbreaker.jpg" num="47">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Ghirbi</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1IR</manacost>
+				<cmc>3</cmc>
+				<colors>RI</colors>
+				<coloridentity>RI</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Vespera in Flames</name>
+			<text>Vespera in Flames deals 5 damage to each creature and each planeswalker. If a creature or planeswalker an opponent controls would die this turn, exile it instead.</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/VSB-files/img/17_Vespera in Flames.jpg" num="17">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Glassgarden Wanderer</name>
+			<text>When Glassgarden Wanderer enters, if it was foretold, you get a boon with &quot;When a foretold permanent you control enters, create a token that&apos;s a copy of that permanent.&quot;
+Foretell {W} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+			<set rarity="mythic" picurl="https://mse-hub/sets/VSB-files/img/1_Glassgarden Wanderer.jpg" num="1">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Maid-in-the-Mirror</name>
+			<text>Maid-in-the-Mirror and other creatures you control that entered or were cast from exile enter with an additional +1/+1 counter on them.
+Foretell {WU} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/VSB-files/img/48_Maid-in-the-Mirror.jpg" num="48">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fragment of the Stag Door</name>
+			<text>Defender
+{2}{I}: Target creature loses all abilities until end of turn. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/VSB-files/img/30_Fragment of the Stag Door.jpg" num="30">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk Wall</type>
+				<maintype>Creature</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>4/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Carapace Awakener</name>
+			<text>Haste
+Whenever Carapace Awakener attacks, any number of target creatures you control have size 3/2 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/VSB-files/img/26_Carapace Awakener.jpg" num="26">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>3II</manacost>
+				<cmc>5</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unopened Door</name>
+			<text>Flying
+Whenever Unopened Door attacks, induct. (Create a 0/1 Cleric creature token with &quot;As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can&apos;t block.&quot;)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/VSB-files/img/39_Unopened Door.jpg" num="39">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2I</manacost>
+				<cmc>3</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cyprian Heretic</name>
+			<text>Whenever a nontoken Sanctuary you control enters, create a token that&apos;s a copy of it. Untap that token. Exile it at the beginning of the next end step.</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/VSB-files/img/27_Cyprian Heretic.jpg" num="27">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dr. Arun Peel</name>
+			<text>Haste, menace
+Whenever a creature you control deals combat damage to a player, if that creature entered this turn, draw a card.</text>
+			<set rarity="mythic" picurl="https://mse-hub/sets/VSB-files/img/44_Dr. Arun Peel.jpg" num="44">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Serpent Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1I/GI/G</manacost>
+				<cmc>3</cmc>
+				<colors>GI</colors>
+				<coloridentity>GI</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Conquering Growth</name>
+			<text>Deathtouch
+Whenever The Conquering Growth enters, creatures target player controls get +2/-2 until end of turn.
+Whenever a creature an opponent controls dies, that player gets a poison counter.</text>
+			<set rarity="mythic" picurl="https://mse-hub/sets/VSB-files/img/43_The Conquering Growth.jpg" num="43">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Fungus God</type>
+				<maintype>Creature</maintype>
+				<manacost>3IBB</manacost>
+				<cmc>6</cmc>
+				<colors>BI</colors>
+				<coloridentity>BI</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fall of the Axe</name>
+			<text>Destroy target nonartifact, nonland permanent if it has no abilities or is colorless.
+You gain 2 life.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/VSB-files/img/46_Fall of the Axe.jpg" num="46">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>I/UI/B</manacost>
+				<cmc>2</cmc>
+				<colors>UBI</colors>
+				<coloridentity>UBI</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Matthias, Imago&apos;s Beloved</name>
+			<text>Flying, haste
+Whenever Matthias, Imago&apos;s Beloved attacks, you may pay {1}{I}. If you do, target creature gets +2/-2 until end of turn.</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/VSB-files/img/34_Matthias, Imago&apos;s Beloved.jpg" num="34">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Human</type>
+				<maintype>Creature</maintype>
+				<manacost>4I</manacost>
+				<cmc>5</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Action from the Hours</name>
+			<text>When Action from the Hours enters, induct. (Create a 0/1 Cleric creature token with &quot;As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can&apos;t block.&quot;)
+Whenever a permanent you control transforms into a God or a God you control enters, you may pay {1}. If you do, scry 1, then draw a card.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/VSB-files/img/23_Action from the Hours.jpg" num="23">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fruitfulness</name>
+			<text>You may play lands and cast spells from your graveyard.
+Whenever one or more cards are put into your graveyard from anywhere, exile those cards and you get a poison counter.
+At the beginning of the end step, sacrifice Fruitfulness or you get two poison counters.</text>
+			<set rarity="mythic" picurl="https://mse-hub/sets/VSB-files/img/10_Fruitfulness.jpg" num="10">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rite of Rebel Striving</name>
+			<text>Choose three. You may choose the same mode more than once.
+• Destroy target artifact.
+• Exile the top card of your library. Until the end of your next turn you may play that card.
+• Choose two target creatures controlled by different players. Rite of Rebel Striving deals 2 damage to those creatures.</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/VSB-files/img/15_Rite of Rebel Striving.jpg" num="15">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Omnipresent Ultimatum</name>
+			<text>Choose one or more —
+• Return target creature card from your graveyard to the battlefield.
+• Put a creature card from your hand onto the battlefield.
+• Put a creature card from your sanctum onto the battlefield.</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/VSB-files/img/49_Omnipresent Ultimatum.jpg" num="49">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>BBIIIGG</manacost>
+				<cmc>7</cmc>
+				<colors>BGI</colors>
+				<coloridentity>BGI</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Nowhere Cavalry</name>
+			<text>Flying
+Whenever a land you control with a nonbasic land type enters, up to one target nonland permanent loses all abilities for as long as you control Nowhere Cavalry.</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/VSB-files/img/36_Nowhere Cavalry.jpg" num="36">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2II</manacost>
+				<cmc>4</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Memory from Another History</name>
+			<text>Flash
+Flying
+When Memory from Another History enters, if it was foretold, counter target activated or triggered ability from a nonland source.
+Foretell {1}{I} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/VSB-files/img/35_Memory from Another History.jpg" num="35">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2I</manacost>
+				<cmc>3</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Possibilities Unseen</name>
+			<text>Reveal up to four cards from your sanctum. An opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand.</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/VSB-files/img/37_Possibilities Unseen.jpg" num="37">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3I</manacost>
+				<cmc>4</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Resume the Rites</name>
+			<text>Whenever another nontoken enchantment is put into your graveyard from the battlefield, return that card to your hand unless target opponent pays 3 life.</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/VSB-files/img/38_Resume the Rites.jpg" num="38">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2I</manacost>
+				<cmc>3</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The World Anew</name>
+			<text>Each land card in your hand has &quot;{R}, Discard this card: Exile the top card of your library face down. It becomes foretold.&quot; (Its foretell cost is its mana cost if it isn&apos;t already specified.)</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/VSB-files/img/18_The World Anew.jpg" num="18">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fruiting Devoured</name>
+			<text>Flash
+Whenever an opponent searches their library, put a +1/+1 counter on Fruiting Devoured and you gain 1 life.</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/VSB-files/img/19_Fruiting Devoured.jpg" num="19">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fungus</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Things with Wings</name>
+			<text>If this spell was foretold, induct. (Create a 0/1 Cleric creature token with &quot;As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can&apos;t block.&quot;)
+Counter target spell unless its controller pays {1} for each creature you control.
+Foretell {U}</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/VSB-files/img/8_Things with Wings.jpg" num="8">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ossivus Scavengers</name>
+			<text>Haste
+Whenever Ossivus Scavengers attacks or becomes the target of a spell, create a Treasure token.
+Whenever you get a Scar, create a Treasure token.</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/VSB-files/img/50_Ossivus Scavengers.jpg" num="50">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wolf Rat</type>
+				<maintype>Creature</maintype>
+				<manacost>3RG</manacost>
+				<cmc>5</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Woodlodged Risen</name>
+			<text>When Woodlodged Risen enters, you get a Scar. (They&apos;re boons with &quot;When a creature you control dies, you may pay {1}. If you do, draw a card.&quot;)
+Whenever you spend mana on a triggered ability of a boon, you gain 3 life.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/VSB-files/img/22_Woodlodged Risen.jpg" num="22">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Teferi, Destroyer of Planes</name>
+			<text>Each opponent can cast spells only any time they could cast a sorcery.
+[+1]: Until your next turn, you may cast sorcery spells as though they had flash.
+[-6]: Return a creature you control to its owner&apos;s hand, then destroy all creatures.</text>
+			<set rarity="mythic" picurl="https://mse-hub/sets/VSB-files/img/53_Teferi, Destroyer of Planes.jpg" num="53">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Teferi Ashiok</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Beachcomber</name>
+			<text>Flying, lifelink
+Whenever you spend mana on a triggered ability of a boon, The Beachcomber deals 1 damage to any target.
+{2}{I}: You get a Scar. (They&apos;re boons with &quot;When a creature you control dies, you may pay {1}. If you do, draw a card.&quot;)</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/VSB-files/img/24_The Beachcomber.jpg" num="24">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Bird God</type>
+				<maintype>Creature</maintype>
+				<manacost>2I</manacost>
+				<cmc>3</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vesperan Exodus</name>
+			<text>Create X 1/1 silver Sanctuary Cleric land creature tokens with &quot;{T}: Add one mana of any color&quot;.</text>
+			<set rarity="mythic" picurl="https://mse-hub/sets/VSB-files/img/55_Vesperan Exodus.jpg" num="55">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XI/GI/WG/W</manacost>
+				<cmc>3</cmc>
+				<colors>WGI</colors>
+				<coloridentity>WGI</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Season of Numa</name>
+			<text>Choose one or both —
+• Target nonland permanent phases out. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)
+• Put a random card from your sanctum on top of your library.</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/VSB-files/img/52_Season of Numa.jpg" num="52">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>IU</manacost>
+				<cmc>2</cmc>
+				<colors>UI</colors>
+				<coloridentity>UI</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Verse Wonder</name>
+			<text>Sift 1, then draw a card. (To sift 1, look at the top card of your library. You may put it into your sanctum.)
+As long as you control a God and Verse Wonder is in your graveyard, it has flashback {I}. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/VSB-files/img/40_Verse Wonder.jpg" num="40">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>I</manacost>
+				<cmc>1</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Legacy of the Axe</name>
+			<text>Whenever you attack, up to one target creature you control gets +2/-2 until end of turn. Then, exchange the sizes of any number of attacking creatures you control.</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/VSB-files/img/32_Legacy of the Axe.jpg" num="32">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Enchantment — God</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2I</manacost>
+				<cmc>3</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Painted Hunger</name>
+			<text>Whenever this creature&apos;s toughness decreases, you get a Scar. (They&apos;re boons with &quot;When a creature you control dies, you may pay {1}. If you do, draw a card.&quot;)</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/VSB-files/img/51_Painted Hunger.jpg" num="51">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1I/U</manacost>
+				<cmc>2</cmc>
+				<colors>UI</colors>
+				<coloridentity>UI</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Living Spore</name>
+			<text>Living Spore&apos;s power and toughness are each equal to the number of Fungus you control.
+{2}{I}, Discard a card: Create a token that&apos;s a copy of Living Spore.</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/VSB-files/img/33_Living Spore.jpg" num="33">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fungus</type>
+				<maintype>Creature</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>An Extraplanar Visitor</name>
+			<text>Play with the top card of your library revealed.
+As long as the top card of your library is a permanent card, An Extraplanar Visitor has all activated and triggered abilities of that card.</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/VSB-files/img/28_An Extraplanar Visitor.jpg" num="28">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Eye Reflection</type>
+				<maintype>Creature</maintype>
+				<manacost>2I</manacost>
+				<cmc>3</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unformed Sun-Servant</name>
+			<text>Flying
+The first card you foretell each turn costs {0} to foretell.
+Whenever you cast a spell from exile, Unformed Sun-Servant becomes an enchantment creature until end of turn.</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/VSB-files/img/4_Unformed Sun-Servant.jpg" num="4">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Enchantment — Angel Entity</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Being Fracture</name>
+			<text>As an additional cost to cast this spell, you may reveal any number of cards named Being Fracture from your sanctum.
+Being Fracture deals 2 damage to target player. For each card revealed this way, Being Fracture deals an additional 2 damage to that player.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/VSB-files/img/25_Being Fracture.jpg" num="25">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>I</manacost>
+				<cmc>1</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Coelle, Consumed Hunter</name>
+			<text>When Coelle, Consumed Hunter enters, induct. (Create a 0/1 Cleric creature token with &quot;As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can&apos;t block.&quot;)
+When Coelle, Consumed Hunter dies, draw three cards if three or more permanents were sacrificed and/or creatures died this turn.</text>
+			<set rarity="rare" picurl="https://mse-hub/sets/VSB-files/img/5_Coelle, Consumed Hunter.jpg" num="5">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Wolf Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thing in the Wood</name>
+			<text>Flash
+When Thing in the Wood enters, exile target card in exile if it&apos;s foretold or an opponent could play it. You foretell that card. Mana of any type can be used to cast that spell.</text>
+			<set rarity="uncommon" picurl="https://mse-hub/sets/VSB-files/img/54_Thing in the Wood.jpg" num="54">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3U/B</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fault</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/VSB-files/img/29_Fault.jpg" num="29">VSB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Fault</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

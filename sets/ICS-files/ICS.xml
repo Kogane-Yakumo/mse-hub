@@ -1,0 +1,1785 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>ICS</name>
+			<longname>Incant Set</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-08-13</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>CG02 Brightpetal Hind</name>
+			<text>When this creature enters, sanctify the top card of your library. You may put a land card from your sanctum into your hand. If you don&apos;t, put a +1/+1 counter on this creature. (Sanctified cards are put into their owner&apos;s sanctum.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/65_CG02 Brightpetal Hind.jpg" num="65">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CI03 Riftborn Sprite</name>
+			<text>Menace
+Whenever this creature&apos;s toughness decreases, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/81_CI03 Riftborn Sprite.jpg" num="81">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Icon Elk</type>
+				<maintype>Creature</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CI13 Immense Soul</name>
+			<text>Create a 4/3 silver Fault Reflection land creature token with haste and decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/91_CI13 Immense Soul.jpg" num="91">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2I</manacost>
+				<cmc>3</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CW05 Skycrest Tiger // r1: Radiance</name>
+			<text>Vigilance
+This creature enters with two lore counters.
+
+---
+
+Put a +1/+1 counter on target creature. Scry 1. (Remove a lore counter to cast this spell.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/8_CW05 Skycrest Tiger.jpg" num="8">ICS</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Cat // Sorcery — Chronicle</type>
+				<maintype>Creature</maintype>
+				<manacost>2W // 1W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU08 Consult Payoff</name>
+			<text>Consult {3}{U} (You may cast this spell for its consult cost if you control a creature that attacked this turn.)
+When this creature enters, return target creature to its owner&apos;s hand. If its consult cost was paid, tap this creature and put two stun counters on it.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/26_CU08 Consult Payoff.jpg" num="26">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU12 Consult the Stars</name>
+			<text>Reveal the top five cards of your library. Put up to two instant and/or sorcery cards from among them into your hand and sanctify the rest. (Sanctified cards are put into their owner&apos;s sanctum.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/30_CU12 Consult the Stars.jpg" num="30">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR14 Joy of Destruction</name>
+			<text>Trample (This spell can deal excess damage to its target&apos;s controller.)
+Joy of Destruction deals 5 damage to target creature.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/62_CR14 Joy of Destruction.jpg" num="62">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR01 Phoenix Chaser</name>
+			<text>Haste
+When this creature dies, exile a random card from your sanctum. You may play it until the end of your next turn.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/49_CR01 Phoenix Chaser.jpg" num="49">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB06 [Location] Ritemaster</name>
+			<text>Healing 1 (Damage dealt by this creature also causes you to gain 1 life.)
+When this creature enters, if your sanctum has fewer cards than target opponent&apos;s sanctum, it deals 2 damage to that opponent.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/39_CB06 [Location] Ritemaster.jpg" num="39">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW10 Wadelight Angel</name>
+			<text>Flying
+When this creature enters, exile up to one target card in a graveyard. You gain 2 life.
+Incant 7—{4}{W}{W} (Skip your next draw phase and exile instant or sorcery cards with total mana value 7 or greater from your graveyard to cast this spell from your sanctum for its incant cost.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/13_CW10 Wadelight Angel.jpg" num="13">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU10 Unplanned Pathwade</name>
+			<text>Choose one —
+• Counter target creature spell unless its controller pays {4}.
+• Tap target creature and put two stun counters on it.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/28_CU10 Unplanned Pathwade.jpg" num="28">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CC02 [Random Ghost]</name>
+			<text>Erudite — This creature gets +1/+1 as long as you&apos;ve cast an instant, sorcery, or Saga spell this turn.
+This creature has flying as long as you&apos;ve cast a Chronicle spell this turn.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/2_CC02 [Random Ghost].jpg" num="2">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW08 [Deity]&apos;s Blessing</name>
+			<text>Choose one —
+• Create a 3/3 silver Bird creature token with flying.
+• Put a +1/+1 counter on each creature you control.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/11_CW08 [Deity]&apos;s Blessing.jpg" num="11">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CW09 [Something] Voyager</name>
+			<text>When this creature enters, sanctify up to one permanent card in a graveyard, then put a random card from your sanctum into your hand. (Sanctified cards are put into their owner&apos;s sanctum.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/12_CW09 [Something] Voyager.jpg" num="12">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW01 Wade-Fleece Shepherd</name>
+			<text>Erudite — When this creature enters, if you&apos;ve cast an instant, sorcery, or Saga spell, you gain 3 life.
+{2}, Sacrifice this creature: Destroy target artifact or enchantment.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/4_CW01 Wade-Fleece Shepherd.jpg" num="4">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW06 Celestial Unicorn</name>
+			<text>Whenever you gain life, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/9_CW06 Celestial Unicorn.jpg" num="9">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Unicorn</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW13 Consuming Radiance</name>
+			<text>Sanctify target enchantment or tapped creature. (Sanctified cards are put into their owner&apos;s sanctum.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/16_CW13 Consuming Radiance.jpg" num="16">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CW14 Fiberous Bindings</name>
+			<text>Enchant creature
+Enchanted creature can&apos;t attack or block.
+Erudite — {3}, Sacrifice this enchantment: Exile enchanted creature. Activate only if you&apos;ve cast an instant, sorcery or Saga spell this turn.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/17_CW14 Fiberous Bindings.jpg" num="17">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW15 Crystalline Gateway</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Up to one target creature gets +1/+1 and gains healing 2 until your next turn. (Damage dealt by this creature also causes you to gain 2 life.)
+If you have more life than an opponent, draw a card.
+​</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/18_CW15 Crystalline Gateway.jpg" num="18">ICS</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CU03 Gleamingbird</name>
+			<text>Flying
+Erudite — This creature gets +1/+1 as long as you&apos;ve cast an instant, sorcery, or Saga spell this turn.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/21_CU03 Gleamingbird.jpg" num="21">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU02 Watcher from the Sea</name>
+			<text>When this creature enters, draw a card, then discard a card.
+Incant 4—{1}{U} (Skip your next draw phase and exile instant or sorcery cards with total mana value 4 or greater from your graveyard to cast this spell from your sanctum for its incant cost.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/20_CU02 Watcher from the Sea.jpg" num="20">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU09 Lake&apos;s Embrace</name>
+			<text>Target creature you control gets +0/+2 and gains hexproof until end of turn. Untap it.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/27_CU09 Lake&apos;s Embrace.jpg" num="27">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU13 Unsubstantiate</name>
+			<text>Return target spell or creature to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/31_CU13 Unsubstantiate.jpg" num="31">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB11 Profane Awakening</name>
+			<text>Return up to one target creature card from your graveyard to your hand.
+Put a lore counter on up to one target permanent.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/44_CB11 Profane Awakening.jpg" num="44">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB08 Tenth Life Caretaker</name>
+			<text>Erudite — At the beginning of your end step, if you&apos;ve cast an instant, sorcery, or Saga spell this turn, you may sanctify a creature card in a graveyard. If you do, create a 1/1 black Spirit enchantment creature token. (Sanctified cards are put into their owner&apos;s sanctum.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/41_CB08 Tenth Life Caretaker.jpg" num="41">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB05 Strange Reflection</name>
+			<text>Healing 1 (Damage dealt by this creature also causes you to gain 1 life.)
+{2}{B}, Sacrifice a creature or Saga: This creature gains deathtouch until end of turn, then draw a card.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/38_CB05 Strange Reflection.jpg" num="38">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Reflection Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR15 [NAME THIS]</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Target creature you control deals damage equal to its power to another target creature.
+Up to one target creature gains menace until end of turn.
+​</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/63_CR15 [NAME THIS].jpg" num="63">ICS</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR04 Sandmaker Weird</name>
+			<text>Erudite — At the beginning of combat on your turn, if you&apos;ve cast an instant, sorcery, or Saga spell this turn, you may pay {1}. If you do, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/52_CR04 Sandmaker Weird.jpg" num="52">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Weird</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR07 [Turret Ogre]</name>
+			<text>Trample
+When this creature enters, if you control another creature with power 4 or greater, this creature deals 2 damage to each opponent.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/55_CR07 [Turret Ogre].jpg" num="55">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR03 [Ardor Blossom Moth] // r3: Ardor Bloom</name>
+			<text>Flying
+Whenever this creature attacks or you cast an instant, sorcery, or Saga spell, put a lore counter on it.
+
+---
+
+Ardor Bloom deals 3 damage to target opponent. (Remove three lore counters to cast this spell.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/51_CR03 [Ardor Blossom Moth].jpg" num="51">ICS</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Insect // Instant — Chronicle</type>
+				<maintype>Creature</maintype>
+				<manacost>1R // R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR02 Felfire Channeler</name>
+			<text>Discard a card: This creature becomes a 3/3 Demon with menace. Activate only once.
+Incant 4—{1}{R} (Skip your next draw phase and exile instant or sorcery cards with total mana value 4 or greater from your graveyard to cast this spell from your sanctum for its incant cost.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/50_CR02 Felfire Channeler.jpg" num="50">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR05 [Power Cat]</name>
+			<text>Reach
+{1}, {T}: This creature deals damage equal to its power to target opponent.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/53_CR05 [Power Cat].jpg" num="53">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG11 Teeth and Technique</name>
+			<text>Erudite — Put a +1/+1 counter on target creature you control if you&apos;ve cast another instant, sorcery, or Saga spell this turn. Then it fights target creature an opponent controls.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/74_CG11 Teeth and Technique.jpg" num="74">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG15 [Something] Memorial</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Sift 1. Draw a card. (To sift 1, look at the top card of your library. You may put it into your sanctum.)
+You may play an additional land this turn.
+Put a +1/+1 counter on up to one target creature.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/78_CG15 [Something] Memorial.jpg" num="78">ICS</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG03 Spiritwyld Pack</name>
+			<text>Whenever this creature attacks, it gets +1/+1 until end of turn. If you control four or more creatures, it gets +2/+2 and gains trample until end of turn instead.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/66_CG03 Spiritwyld Pack.jpg" num="66">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wolf Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG04 [Wooden Mystic]</name>
+			<text>Whenever a Forest you control enters, this creature gets +2/+0 until end of turn.
+Incant 5—{1}{G}{G} (Skip your next draw phase and exile instant or sorcery cards with total mana value 5 or greater from your graveyard to cast this spell from your sanctum for its incant cost.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/67_CG04 [Wooden Mystic].jpg" num="67">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG07 // r2: Grow</name>
+			<text>This creature enters with a lore counter for each land you control.
+
+---
+
+Put a +1/+1 counter on target creature. (Remove two lore counters to cast this spell.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/70_CG07.jpg" num="70">ICS</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Plant // Sorcery — Chronicle</type>
+				<maintype>Creature</maintype>
+				<manacost>3G // 1G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG09 [Multi-Spider]</name>
+			<text>Reach
+When this creature enters, if it was cast, create two tokens that are copies of it, except they have reach and no other abilities.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/72_CG09 [Multi-Spider].jpg" num="72">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG14 Distant Horizons</name>
+			<text>Look at the top three cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+Incant 5—{1}{G} (Skip your next draw phase and exile instant or sorcery cards with total mana value 5 or greater from your graveyard to cast this spell from your sanctum for its incant cost.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/77_CG14 Distant Horizons.jpg" num="77">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CI14 Star Crossing Shot</name>
+			<text>This spell costs {2} less to cast if a creature you control lost toughness this turn.
+Target creature gets -0/-5 until end of turn.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/92_CI14 Star Crossing Shot.jpg" num="92">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4I</manacost>
+				<cmc>5</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CI10 Foraging Necktwister</name>
+			<text>Trample
+When this creature enters, each opponent loses life equal to half the greatest toughness among creatures you control, rounded up. You gain that much life.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/88_CI10 Foraging Necktwister.jpg" num="88">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>4II</manacost>
+				<cmc>6</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CI05 Thundering Nighthound // r2: Charged</name>
+			<text>After your draw step, put a lore counter on this creature.
+
+---
+
+Target creature gets +2/+0 until end of turn. (Remove two lore counters to cast this spell.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/83_CI05 Thundering Nighthound.jpg" num="83">ICS</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Elemental Wolf // Sorcery — Chronicle</type>
+				<maintype>Creature</maintype>
+				<manacost>2I // I</manacost>
+				<cmc>3</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CI01 Young Pathwader</name>
+			<text>When this creature attacks, add {I}. Until your next end step, you don&apos;t lose this mana as steps and phases end.
+Incant 4—{1}{I} (Skip your next draw phase and exile instant or sorcery cards with total mana value 4 or greater from your graveyard to cast this spell from your sanctum for its incant cost.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/79_CI01 Young Pathwader.jpg" num="79">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CI09 Vista Monitor</name>
+			<text>Flying, ward {1}
+Whenever this creature enters or attacks, target creature you control gets +1/-1 until end of turn.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/87_CI09 Vista Monitor.jpg" num="87">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orb</type>
+				<maintype>Creature</maintype>
+				<manacost>4I</manacost>
+				<cmc>5</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CI11 Introductory Spacebending</name>
+			<text>Consult {I} (You may cast this spell for its consult cost if you control a creature that attacked this turn.)
+Sift 2, then draw a card. (To sift 2, look at the top two cards of your library, then put any number of them into your sanctum and the rest on top of your library in any order.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/89_CI11 Introductory Spacebending.jpg" num="89">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CI12 Flux Frequencies</name>
+			<text>Choose one or both —
+• Target creature you control gets +1/-1 until end of turn.
+• Target creature you don&apos;t control gets +2/-2 until end of turn.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/90_CI12 Flux Frequencies.jpg" num="90">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CI16 Explore the Pathwade</name>
+			<text>Look at the top X cards of your library, where X is the number of lands you control. You may reveal a nonartifact card from among them and put it into your hand. If you reveal a land card this way, you may put it onto the battlefield.
+Flashback {4}{I} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/94_CI16 Explore the Pathwade.jpg" num="94">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2I</manacost>
+				<cmc>3</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CI08 Migratory Calling</name>
+			<text>Create a 3/3 silver creature token with flying. Sanctify the top two cards of target player&apos;s library. (Sanctified cards are put into their owner&apos;s sanctum.)
+Incant 7—{3}{I}{I} (Skip your next draw phase and exile instant or sorcery cards with total mana value 7 or greater from your graveyard to cast this spell from your sanctum for its incant cost.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/86_CI08 Migratory Calling.jpg" num="86">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3I</manacost>
+				<cmc>4</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CW03 [Something] Pegasus</name>
+			<text>Flying
+{W}, Exile this card from your graveyard: Target creature gains healing 3 until end of turn. Surveil 1. (Damage dealt by this creature also causes you to gain 3 life.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/6_CW03 [Something] Pegasus.jpg" num="6">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Craeture — Pegasus</type>
+				<maintype>Craeture</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW12 Light&apos;s Embrace</name>
+			<text>Consult {W} (You may cast this spell for its consult cost if you control a creature that attacked this turn.)
+Put a +1/+1 counter on target creature. It gains hexproof from a color of your choice until end of turn.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/15_CW12 Light&apos;s Embrace.jpg" num="15">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR13 [NAME THIS]</name>
+			<text>Choose one —
+• Destroy target artifact.
+• Target creature with power 4 or greater gains first strike and trample until end of turn.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/61_CR13 [NAME THIS].jpg" num="61">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB01 Allure of Darkness</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Each opponent loses 1 life and you gain 1 life.
+Create a 1/1 black Spirit enchantment creature token. Put a +1/+1 counter and a menace counter on it.
+​</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/34_CB01 Allure of Darkness.jpg" num="34">ICS</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW02 [Location] Relicbonder</name>
+			<text>This creature has vigilance as long as its modified. (Equipment, Auras you control, and counters are modifications.)
+Incant 4—{1}{W} (Skip your next draw phase and exile instant or sorcery cards with total mana value 4 or greater from your graveyard to cast this spell from your sanctum for its incant cost.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/5_CW02 [Location] Relicbonder.jpg" num="5">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU04 [NAME THIS]</name>
+			<text>Erudite — At the beginning of combat, if you&apos;ve cast an instant, sorcery, or Saga spell this turn, create a 1/1 black Spirit enchantment creature token.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/22_CU04 [NAME THIS].jpg" num="22">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB14 Haunting Nightmare</name>
+			<text>Consult {1}{B}{B} (You may cast this spell for its consult cost if you control a creature that attacked this turn.)
+Sanctify target creature. If you control an enchantment, surveil 2. (Sanctified cards are put into their owner&apos;s sanctum.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/47_CB14 Haunting Nightmare.jpg" num="47">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CI15 One with the Pathwade</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Target nonland permanent loses all abilities until this Saga leaves the battlefield.
+Sift 1. (Look at the top card of your library. You may put it into your sanctum.)
+Destroy up to one target enchantment or nonland permanent with no abilities.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/93_CI15 One with the Pathwade.jpg" num="93">ICS</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG05 [Aurora Cat] // r2: Auroral Land</name>
+			<text>This creature enters with two lore counters.
+
+---
+
+Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. (Remove two lore counters to cast this spell.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/68_CG05 [Aurora Cat].jpg" num="68">ICS</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Cat // Instant — Chronicle</type>
+				<maintype>Creature</maintype>
+				<manacost>2G // 2</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bird ICS</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/2t_Bird.jpg" num="2">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>I</colors>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>CR12 Induce Visions</name>
+			<text>Mill two cards. You have Induce Visions deal 2 damage to target player. If you didn&apos;t, you may play those cards this turn.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/60_CR12 Induce Visions.jpg" num="60">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CI07 Crystal Magus // r3: Mana Shards</name>
+			<text>Whenever this creature&apos;s toughness decreases, put a lore counter on it.
+
+---
+
+Mana Shards deals 3 damage to target opponent or planeswalker. (Remove three lore counters to cast this spell.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/85_CI07 Crystal Magus.jpg" num="85">ICS</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard Mystic // Instant — Chronicle</type>
+				<maintype>Creature</maintype>
+				<manacost>3I // I</manacost>
+				<cmc>4</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU05 [Summoned Beast]</name>
+			<text>Defender
+This creature can attack as though it didn&apos;t have defender as long as a player discarded a card this turn.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/23_CU05 [Summoned Beast].jpg" num="23">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU14 Oceanic Pull</name>
+			<text>Consult {1}{U} (You may cast this spell for its consult cost if you control a creature that attacked this turn.)
+Target creature&apos;s owner puts it on their choice of the top or bottom of their library.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/32_CU14 Oceanic Pull.jpg" num="32">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG10 [Colossal Landmaw]</name>
+			<text>Trample
+This creature&apos;s power is equal to the number of lands you control.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/73_CG10 [Colossal Landmaw].jpg" num="73">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>*/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU06 [NAME THIS] // r2: Drink</name>
+			<text>Vigilance
+Whenever this creature attacks, put a lore counter on it.
+
+---
+
+Discard two cards, draw two cards.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/24_CU06 [NAME THIS].jpg" num="24">ICS</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Human // Sorcery — Chronicle</type>
+				<maintype>Creature</maintype>
+				<manacost>3U // 1U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR10 Lashing Flames</name>
+			<text>Consult {1}{R}{R} (You may cast this spell for its consult cost if you control a creature that attacked this turn.)
+Lashing Flames deals 2 damage to any target. If this spell&apos;s consult cost was paid, repeat this process.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/58_CR10 Lashing Flames.jpg" num="58">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG12 [Windstorm]</name>
+			<text>Consult {G} (You may cast this spell for its consult cost if you control a creature that attacked this turn.)
+Destroy target artifact, enchantment, or creature with flying.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/75_CG12 [Windstorm].jpg" num="75">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU11 Wonder the Waves</name>
+			<text>Draw a card. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+Incant 4—{1}{U} (Skip your next draw phase and exile instant or sorcery cards with total mana value 4 or greater from your graveyard to cast this spell from your sanctum for its incant cost.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/29_CU11 Wonder the Waves.jpg" num="29">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CI02 Antiquimancy Student</name>
+			<text>Erudite — This creature gets +1/+1 as long as you&apos;ve cast an instant, sorcery, or Saga spell this turn.
+Whenever you spend four or more mana to cast a noncreature spell, this creature gains double strike until end of turn.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/80_CI02 Antiquimancy Student.jpg" num="80">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard Mystic</type>
+				<maintype>Creature</maintype>
+				<manacost>1I</manacost>
+				<cmc>2</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CI04 [Something] Skywhale</name>
+			<text>Flying
+Whenever you spend four or more mana to cast a noncreature spell, switch up to one target creature&apos;s power and toughness until end of turn.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/82_CI04 [Something] Skywhale.jpg" num="82">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Whale</type>
+				<maintype>Creature</maintype>
+				<manacost>2I</manacost>
+				<cmc>3</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CI06 Star Aligner</name>
+			<text>When this creature enters, up to one target creature becomes an enchantment until your next turn. (It&apos;s not a creature.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/84_CI06 Star Aligner.jpg" num="84">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Mystic</type>
+				<maintype>Creature</maintype>
+				<manacost>2I</manacost>
+				<cmc>3</cmc>
+				<colors>I</colors>
+				<coloridentity>I</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW07 [Something] Lightbinder // r1: Goldshine</name>
+			<text>[Something] Lightbinder enters with three lore counters.
+Whenever you cast a Chronicle spell, you may tap target creature. Do this only once each turn.
+
+---
+
+Scry 1. (Remove a lore counter to cast this spell.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/10_CW07 [Something] Lightbinder.jpg" num="10">ICS</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature // Instant — Chronicle</type>
+				<maintype>Creature</maintype>
+				<manacost>2W // 1W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB02 Corvid Bowmasters // r2: Caw</name>
+			<text>Flying
+Whenever you cast a noncreature spell, put a lore counter on this creature.
+
+---
+
+Lifelink
+Caw deals 1 damage to each opponent. (Remove a lore counter to cast this spell.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/35_CB02 Corvid Bowmasters.jpg" num="35">ICS</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Bird Archer // Sorcery — Chronicle</type>
+				<maintype>Creature</maintype>
+				<manacost>1B // B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB03 Speaker of Last Rites</name>
+			<text>Whenever a spell or ability you control puts a card into an opponent&apos;s sanctum, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/36_CB03 Speaker of Last Rites.jpg" num="36">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB04 Twist Dream</name>
+			<text>Target player discards a card.
+Create a 1/1 black Spirit enchantment creature token.
+Incant 4—{2}{B} (Skip your next draw phase and exile instant or sorcery cards with total mana value 4 or greater from your graveyard to cast this spell from your sanctum for its incant cost.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/37_CB04 Twist Dream.jpg" num="37">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB10 Cremation</name>
+			<text>Sanctify target card in a graveyard. Draw a card. (Sanctified cards are put into their owner&apos;s sanctum.)
+Incant 6—{B}{B} (Skip your next draw phase and exile instant or sorcery cards with total mana value 6 or greater from your graveyard to cast this spell from your sanctum for its incant cost.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/43_CB10 Cremation.jpg" num="43">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB15 Dead Memory</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Each player sanctifies the top card of their library. (Sanctified cards are put into their owner&apos;s sanctum.)
+Put two random cards from your sanctum into your hand.
+You lose 2 life.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/48_CB15 Dead Memory.jpg" num="48">ICS</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB09 Perching Harpies // r3: Hunting</name>
+			<text>Flying
+Whenever an enchantment you control is put into a graveyard from the battlefield, put a lore counter on this creature.
+
+---
+
+Target creature gets -2/-2 until end of turn. (Remove three lore counters to cast this spell.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/42_CB09 Perching Harpies.jpg" num="42">ICS</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Harpy // Sorcery — Chronicle</type>
+				<maintype>Creature</maintype>
+				<manacost>4B // 1B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spirit ICS</name>
+			<text></text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/1t_Spirit.jpg" num="1">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Enchantment Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>CB07 [Something] Panther</name>
+			<text>Menace
+When this creature enters, if you control an enchantment, sift 2. (Look at the top two cards of your library, then put any number of them into your sanctum and the rest on top of your library in any order.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/40_CB07 [Something] Panther.jpg" num="40">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB13 Echoing Decay</name>
+			<text>Target creature and all other creatures with the same name as that creature get -2/-2 until end of turn.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/46_CB13 Echoing Decay.jpg" num="46">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB12 Paradoxical Inquiry</name>
+			<text>Choose one —
+• Target player sacrifices a creature.
+• Target player sacrifices an enchantment.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/45_CB12 Paradoxical Inquiry.jpg" num="45">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CW04 Apostle Velox</name>
+			<text>Erudite — Whenever this creature attacks, if you&apos;ve cast an instant, sorcery, or Saga spell, it gains first strike until end of turn.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/7_CW04 Apostle Velox.jpg" num="7">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW11 Shining Spark</name>
+			<text>Healing 2 (Damage this spell deals also causes you to gain 2 life.)
+Shining Spark deals 3 damage to target tapped creature.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/14_CW11 Shining Spark.jpg" num="14">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU01 Bird</name>
+			<text>Flying
+{1}{U}, Discard this card: Target creature gains flying until end of turn. Sift 2. (Look at the top two cards of your library, then put any number of them into your sanctum and the rest on top of your library in any order.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/19_CU01 Bird.jpg" num="19">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CC01 Observe the Pathweft</name>
+			<text>Reveal three random cards from your sanctum, you may put a basic land card from among them into your hand. You gain 1 life.
+Incant 3—{2} (Skip your next draw phase and exile instant or sorcery cards with total mana value 3 or greater from your graveyard to cast this spell from your sanctum for its incant cost.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/1_CC01 Observe the Pathweft.jpg" num="1">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CU07 [Something] Skywhale</name>
+			<text>Flying, ward {1}
+{1}{U}{U}, Discard this card: Counter target noncreature spell unless its controller pays {4}.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/25_CU07 [Something] Skywhale.jpg" num="25">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Whale</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG08 [Wooden Dragon]</name>
+			<text>When this creature enters, target creature you control gain vigilance and gets +2/+2 until end of turn. If you control four or more creatures, choose two target creatures instead.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/71_CG08 [Wooden Dragon].jpg" num="71">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CU15 The Voyage</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Target creature can&apos;t be blocked this turn.
+Draw a card, then discard a card.
+​</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/33_CU15 The Voyage.jpg" num="33">ICS</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CR09 [Big Lava Lizard] // r1: Lava Run</name>
+			<text>Reach
+This creature enters with two lore counters on it.
+
+---
+
+Target creature with power 4 or more gains haste until end of turn. (Remove a lore counter to cast this spell.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/57_CR09 [Big Lava Lizard].jpg" num="57">ICS</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Elemental Lizard // Sorcery — Chronicle</type>
+				<maintype>Creature</maintype>
+				<manacost>4R // R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CR11 Blazing Crescendo</name>
+			<text>Target creature gets +3/+1 until end of turn.
+Exile the top card of your library. Until the end of your next turn, you may play that card.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/59_CR11 Blazing Crescendo.jpg" num="59">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR06 [Valor Singer]</name>
+			<text>At the beginning of combat on your turn, target creature you control gets +1/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/54_CR06 [Valor Singer].jpg" num="54">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG13 [Might of the Masses]</name>
+			<text>Target creature gets +1/+1 until end of turn for each creature you control. It must be blocked this turn if able.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/76_CG13 [Might of the Masses].jpg" num="76">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CR08 [Scholar of Combustion]</name>
+			<text>When [Scholar of Combustion] attacks, sanctify a card from your hand, then put a random card from your sanctum into your hand. (Sanctified cards are put into their owner&apos;s sanctum.)
+Incant 6—{1}{R}{R} (Skip your next draw phase and exile instant or sorcery cards with total mana value 6 or greater from your graveyard to cast this spell from your sanctum for its incant cost.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/56_CR08 [Scholar of Combustion].jpg" num="56">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG01 [Something] Wisp-Speaker</name>
+			<text>Erudite — When this creature enters, if you&apos;ve cast an instant, sorcery, or Saga spell this turn, create a 1/1 black Spirit enchantment creature token.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/64_CG01 [Something] Wisp-Speaker.jpg" num="64">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG06 [Mushroom Snail]</name>
+			<text>Deathtouch
+{T}: Add one mana of any color.
+Sacrifice this creature: Exile target artifact or enchantment.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/69_CG06 [Mushroom Snail].jpg" num="69">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fungus Snail</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CC05 [Big Dumb Flying]</name>
+			<text>Create a 3/3 silver Bird creature token with flying. Put a +1/+1 counter on it.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/3_CC05 [Big Dumb Flying].jpg" num="3">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CC03 Haunting Story // r3: Unleashed</name>
+			<text>{T}: Add one mana of any color.
+Whenever you cast an instant, sorcery, or Saga spell, put a lore counter on this artifact.
+
+---
+
+Target Book you control becomes a 4/4 Horror creature until end of turn.</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/95_CC03 Haunting Story.jpg" num="95">ICS</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Artifact — Book // Sorcery — Chronicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>3 // 3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CC04 [Magic Spear]</name>
+			<text>When this equipment enters, sift 2 (Look at the top two cards of your library, then put any number of them into your sanctum and the rest on top of your library in any order.)
+Equipped creature gets +1/+1 and has reach.
+Equip {1}</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/96_CC04 [Magic Spear].jpg" num="96">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fault Reflection ICS</name>
+			<text>Decayed (It can&apos;t block. When it attacks, sacrifice it at end of combat.)
+({T}: Add {I}.)</text>
+			<set rarity="common" picurl="https://mse-hub/sets/ICS-files/img/3t_Fault Reflection.jpg" num="3">ICS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land Creature — Fault Reflection</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
