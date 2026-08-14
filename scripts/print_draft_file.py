@@ -77,17 +77,17 @@ def generateFile(code):
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "''' + utils.get_picurl(set_data, card, True) + '''"
+					"en": "''' + "https://kogane-yakumo.github.io/" (utils.get_picurl(set_data, card, True)[7:]) + '''"
 				}
 			},
 			"image_uris": {
-				"en": "''' + utils.get_picurl(set_data, card, False) + '''"
+				"en": "''' + "https://kogane-yakumo.github.io/" (utils.get_picurl(set_data, card, False)[7:]) + '''"
 			}
 		},
 	'''
 		else:
 			draft_string += '''		"image_uris": {
-				"en": "''' + utils.get_picurl(set_data, card) + '''"
+				"en": "''' + "https://kogane-yakumo.github.io/" (utils.get_picurl(set_data, card)[7:]) + '''"
 			}
 		}''' + (''',''' if x != len(set_data['cards']) - 1 else '''''') + '''
 	'''
