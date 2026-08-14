@@ -1,0 +1,37 @@
+{
+	"name": "Port Noon: Occult Islands of Vespera",
+	"withReplacement": true,
+	"predeterminedLayouts": [
+		{"One": 50, "Two": 50},
+		{"One": 50, "Two": 50},
+		{"One": 50, "Two": 50}
+],
+	"layouts": {
+		"One": {
+			"weight": 1,
+			"slots": {
+  				"Rare": 1,
+				"Uncommon": 3,
+  				"A": 3,
+  				"AC1": 2,
+  				"B": 2,	
+  				"BC1": 1,
+  				"C1": 2,
+  				"Basic": 1
+			}
+		},
+		"Two": {
+			"weight": 1,
+			"slots": {
+  				"Rare": 1,
+				"Uncommon": 3,
+  				"A": 3,
+  				"AC2": 2,
+  				"B": 2,
+  				"BC2": 1,
+  				"C2": 2,
+  				"Basic": 1
+			}
+		}
+	}
+}
