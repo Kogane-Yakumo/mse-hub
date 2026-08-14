@@ -342,18 +342,19 @@ Whenever another creature enters under your control, Novice to Unmaking deals 1 
 		</card>
 		<card>
 			<name>Skaptodon</name>
-			<text>Whenever Skaptodon is dealt damage, exile the top card of your library. You may play it this turn.</text>
+			<text>Skaptodon can&apos;t block.
+Whenever Skaptodon is dealt damage, exile that many cards from the top of your library. Choose one of them. Until the end of your next turn, you may play that card.</text>
 			<set rarity="uncommon" picurl="https://mse-hub/sets/VSB-files/img/16_Skaptodon.jpg" num="16">VSB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Cat</type>
 				<maintype>Creature</maintype>
-				<manacost>2RR</manacost>
-				<cmc>4</cmc>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>4/3</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -385,8 +386,8 @@ If this spell&apos;s additional cost was paid, Abandon the Church deals twice th
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>2RG</manacost>
-				<cmc>4</cmc>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
 				<colors>RG</colors>
 				<coloridentity>RG</coloridentity>
 			</prop>
@@ -513,7 +514,7 @@ Whenever Unopened Door attacks, induct. (Create a 0/1 Cleric creature token with
 				<cmc>3</cmc>
 				<colors>I</colors>
 				<coloridentity>I</coloridentity>
-				<pt>2/1</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -591,7 +592,7 @@ You gain 2 life.</text>
 		<card>
 			<name>Matthias, Imago&apos;s Beloved</name>
 			<text>Flying, haste
-Whenever Matthias, Imago&apos;s Beloved attacks, you may pay {1}{I}. If you do, target creature gets +2/-2 until end of turn.</text>
+Whenever a creature you control dies, you get X Scars, where X is that creature&apos;s power. (They&apos;re boons with &quot;When a creature you control dies, you may pay {1}. If you do, draw a card.&quot;)</text>
 			<set rarity="rare" picurl="https://mse-hub/sets/VSB-files/img/34_Matthias, Imago&apos;s Beloved.jpg" num="34">VSB</set>
 			<prop>
 				<layout>normal</layout>
@@ -693,7 +694,7 @@ Whenever a land you control with a nonbasic land type enters, up to one target n
 				<cmc>4</cmc>
 				<colors>I</colors>
 				<coloridentity>I</coloridentity>
-				<pt>3/2</pt>
+				<pt>4/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -885,8 +886,8 @@ Whenever you spend mana on a triggered ability of a boon, The Beachcomber deals 
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>XI/GI/WG/W</manacost>
-				<cmc>3</cmc>
+				<manacost>XI/GI/W</manacost>
+				<cmc>2</cmc>
 				<colors>WGI</colors>
 				<coloridentity>WGI</coloridentity>
 			</prop>
@@ -1060,11 +1061,11 @@ When Thing in the Wood enters, exile target card in exile if it&apos;s foretold 
 				<side>front</side>
 				<type>Creature — Horror</type>
 				<maintype>Creature</maintype>
-				<manacost>3U/B</manacost>
-				<cmc>4</cmc>
+				<manacost>2U/B</manacost>
+				<cmc>3</cmc>
 				<colors>UB</colors>
 				<coloridentity>UB</coloridentity>
-				<pt>3/4</pt>
+				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>

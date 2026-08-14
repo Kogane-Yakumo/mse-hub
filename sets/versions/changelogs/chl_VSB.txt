@@ -1,4 +1,37 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+
+Skaptodon
+cost: {2}{R}{R} => {1}{R}
+rules_text: Whenever Skaptodon is dealt damage, exile the top card of your library. You may play it this turn. => Skaptodon can't block.
+Whenever Skaptodon is dealt damage, exile that many cards from the top of your library. Choose one of them. Until the end of your next turn, you may play that card.
+pt: 4/3 => 2/2
+
+Abandon the Church
+cost: {2}{R}{G} => {1}{R}{G}
+
+Unopened Door
+pt: 2/1 => 2/2
+
+Matthias, Imago's Beloved
+rules_text: Flying, haste
+Whenever Matthias, Imago's Beloved attacks, you may pay {1}{I}. If you do, target creature gets +2/-2 until end of turn. => Flying, haste
+Whenever a creature you control dies, you get X Scars, where X is that creature's power. [i](They're boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)[/i]
+
+Nowhere Cavalry
+pt: 3/2 => 4/3
+
+Vesperan Exodus
+cost: {X}{IG}{IW}{GW} => {X}{IG}{IW}
+
+Thing in the Wood
+cost: {3}{UB} => {2}{UB}
+pt: 3/4 => 3/2
+
+
+VERSION 4 CHANGELOG
 ====================
 
 
