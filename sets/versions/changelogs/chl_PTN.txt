@@ -1,4 +1,87 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Lessons of Strife
+rules_text: Target creature gets +1/+0 and gains your choice of first strike or reach until end of turn. => Target creature gets +1/+0 and gains your choice of first strike or reach until end of turn. You get a Scar. [i](They're boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)[/i]
+
+Ragged Sun's Angel
+rules_text: Flying
+Whenever you exile one or more cards, you get a Scar if this is the first time this ability has resolved this turn. Otherwise, you gain 1 life. [i](They're boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)[/i] => Flying
+Whenever you exile one or more cards, you get a Scar. [i](They're boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)[/i]
+
+Lost Seraph
+rules_text: Flying
+As long as you control a God, Cleric, or another Angel, Lost Seraph has “When this creature dies, draw a card.” => Flying
+As long as you control a God, Cleric, or another Angel, Lost Seraph has “When this creature dies, you get two Scars.” [i](They're boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)[/i]
+
+Seven-Coil Invocation
+rules_text: Target creature gets -0/-1 and gains deathtouch until end of turn. When it dies under your control this turn, draw a card. => Target creature gets -0/-1 and gains deathtouch until end of turn. When it dies under your control this turn, you get two Scars. [i](They're boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)[/i]
+
+Acolyte of Agony
+rules_text: Haste
+{T}, Sacrifice Acolyte of Agony: It deals X damage to target creature, where X is the amount of life target opponent lost this turn. => Haste
+Sacrifice Acolyte of Agony: It deals X damage to target creature, where X is the amount of life target opponent lost this turn.
+
+Ritual Daggar
+rules_text: {1}, {T}: You get a Scar. [i](They're boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)[/i] => {T}: You get a Scar. [i](They're boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)[/i]
+
+Nowhere Dreadsteed
+rules_text: When you sacrifice Nowhere Dreadsteed, return it to its owner's hand. => Menace
+Whenever you sacrifice Nowhere Dreadsteed or another creature, return it from your graveyard to your hand.
+
+Dreamway Imposter
+rules_text: This spell has flash as long as it's foretold.
+Foretell {1}{U} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i] => When Dreamway Imposter enters you get a Scar, if it was cast from exile, you get two Scars instead. [i](They're boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)[/i]
+Foretell {1}{U} [i](During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)[/i]
+
+Opener of Realities
+rules_text: {1}{U}: Opener of Realities cant be blocked this turn.
+Whenever Opener of Realities deals combat damage to a player, you get a Scar. [i](They're boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)[/i] => {1}{U}: Opener of Realities cant be blocked this turn.
+Whenever Opener of Realities deals combat damage to a player, you get that many Scars. [i](They're boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)[/i]
+
+Malleary Reforged
+rules_text: Reach
+Whenever Malleary Reforged attacks, if you control a God, it deals 2 damage to any target. => Reach
+When Malleary Reforged enters, induct, then it deals damage equal to the number of Clerics and/or Gods you control to up to one target creature. [i](Create a 0/1 Cleric creature token with “As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can't block.”)[/i]
+{1}{R}, Discard Malleary Reforged: Create a token that's a copy of it, then exile that token.
+pt: 4/5 => 4/4
+
+Breaching Vespera
+cost: {3}{U}{B} => {2}{U}{B}{B}
+rules_text: Exile all creatures and planeswalkers with mana value 3 or less, then each opponent returns a permanent to its owner's hand with the highest mana value among permanents they control. => Destroy all creatures, then target opponent discards a creature card. If they can't, they lose 2 life.
+
+Ambitions of Ascension
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Target non-God creature becomes a God in addition to its other types. Put two +1/+1 counters on it.
+Search your library for a God card, reveal it, put it into your hand, then shuffle.
+II — Reveal a card in your hand. Target God you control gains the revealed card's abilities. [i](This effect lasts indefinitely)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Target non-God creature becomes a God in addition to its other types. Put two +1/+1 counters on it.
+Search your library for a God card, reveal it, put it into your hand, then shuffle.
+Reveal a card in your hand. Target God you control gains the revealed card's abilities. [i](This effect lasts indefinitely)[/i]
+
+Tattered Cyprian
+rules_text: Reach
+When Tattered Cyprian enters, if an opponent lost life this turn, you get a Scar. [i](They're boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)[/i] => Reach
+When Tattered Cyprian enters or dies, if an opponent lost life this turn, you get a Scar. [i](They're boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)[/i]
+
+Flesh Weaver
+rules_text: Haste
+Whenever Flesh Weaver attacks, you gain 1 life and surveil 1. Then exile a card from a graveyard.
+{1}{G}, Exile two creature cards from your graveyard: Induct [i](Create a 0/1 Cleric creature token with “As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can't block.”)[/i] => When Flesh Weaver enters, induct. [i](Create a 0/1 Cleric creature token with “As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can't block.”)[/i]
+Token Clerics you control have “{2}, Exile two creature cards from your graveyard: Transform this creature. Activate only as a sorcery.”
+
+Buzzings in the World
+rules_text: Return up to up to X land cards in your graveyard to the battlefield tapped. You gain X life. => Return up to up to X land cards in your graveyard to the battlefield tapped. Induct X times. [i](Create a 0/1 Cleric creature token with “As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can't block.”)[/i]
+
+Verse Open
+rules_text: Until end of turn, target creature gains “Whenever this creature deals combat damage to a player, draw a card.”
+As long as you control a God and Verse Open is in your graveyard, it has flashback {U}. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Target creature gains flying until end of turn. You get a Scar. [i](They're boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)[/i]
+As long as you control a God and Verse Open is in your graveyard, it has flashback {U}. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Land added.

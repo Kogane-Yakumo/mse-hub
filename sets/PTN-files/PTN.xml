@@ -285,7 +285,7 @@ Exile the top card of your library. Until the end of your next turn, you may pla
 		</card>
 		<card>
 			<name>Lessons of Strife</name>
-			<text>Target creature gets +1/+0 and gains your choice of first strike or reach until end of turn.</text>
+			<text>Target creature gets +1/+0 and gains your choice of first strike or reach until end of turn. You get a Scar. (They&apos;re boons with &quot;When a creature you control dies, you may pay {1}. If you do, draw a card.&quot;)</text>
 			<set rarity="common" picurl="https://mse-hub/sets/PTN-files/img/136_Lessons of Strife.jpg" num="136">PTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1262,7 +1262,7 @@ Foretell {U} (During your turn, you may pay {2} and exile this card from your ha
 		<card>
 			<name>Ragged Sun&apos;s Angel</name>
 			<text>Flying
-Whenever you exile one or more cards, you get a Scar if this is the first time this ability has resolved this turn. Otherwise, you gain 1 life. (They&apos;re boons with &quot;When a creature you control dies, you may pay {1}. If you do, draw a card.&quot;)</text>
+Whenever you exile one or more cards, you get a Scar. (They&apos;re boons with &quot;When a creature you control dies, you may pay {1}. If you do, draw a card.&quot;)</text>
 			<set rarity="uncommon" picurl="https://mse-hub/sets/PTN-files/img/37_Ragged Sun&apos;s Angel.jpg" num="37">PTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1298,7 +1298,7 @@ Foretell {W} (During your turn, you may pay {2} and exile this card from your ha
 		<card>
 			<name>Lost Seraph</name>
 			<text>Flying
-As long as you control a God, Cleric, or another Angel, Lost Seraph has &quot;When this creature dies, draw a card.&quot;</text>
+As long as you control a God, Cleric, or another Angel, Lost Seraph has &quot;When this creature dies, you get two Scars.&quot; (They&apos;re boons with &quot;When a creature you control dies, you may pay {1}. If you do, draw a card.&quot;)</text>
 			<set rarity="common" picurl="https://mse-hub/sets/PTN-files/img/3_Lost Seraph.jpg" num="3">PTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1420,7 +1420,7 @@ When Sunshard Protector or another Angel enters under your control, put a +1/+1 
 		</card>
 		<card>
 			<name>Seven-Coil Invocation</name>
-			<text>Target creature gets -0/-1 and gains deathtouch until end of turn. When it dies under your control this turn, draw a card.</text>
+			<text>Target creature gets -0/-1 and gains deathtouch until end of turn. When it dies under your control this turn, you get two Scars. (They&apos;re boons with &quot;When a creature you control dies, you may pay {1}. If you do, draw a card.&quot;)</text>
 			<set rarity="common" picurl="https://mse-hub/sets/PTN-files/img/113_Seven-Coil Invocation.jpg" num="113">PTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1545,7 +1545,7 @@ You may cast this spell from your graveyard if you exiled one or more cards this
 		<card>
 			<name>Acolyte of Agony</name>
 			<text>Haste
-{T}, Sacrifice Acolyte of Agony: It deals X damage to target creature, where X is the amount of life target opponent lost this turn.</text>
+Sacrifice Acolyte of Agony: It deals X damage to target creature, where X is the amount of life target opponent lost this turn.</text>
 			<set rarity="uncommon" picurl="https://mse-hub/sets/PTN-files/img/198_Acolyte of Agony.jpg" num="198">PTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1735,7 +1735,7 @@ As long as you control a Cleric, Relic Vial has &quot;Whenever a creature you co
 		</card>
 		<card>
 			<name>Ritual Daggar</name>
-			<text>{1}, {T}: You get a Scar. (They&apos;re boons with &quot;When a creature you control dies, you may pay {1}. If you do, draw a card.&quot;)</text>
+			<text>{T}: You get a Scar. (They&apos;re boons with &quot;When a creature you control dies, you may pay {1}. If you do, draw a card.&quot;)</text>
 			<set rarity="uncommon" picurl="https://mse-hub/sets/PTN-files/img/244_Ritual Daggar.jpg" num="244">PTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1769,7 +1769,8 @@ Whenever you sacrifice a nontoken creature, you get a Scar. (They&apos;re boons 
 		</card>
 		<card>
 			<name>Nowhere Dreadsteed</name>
-			<text>When you sacrifice Nowhere Dreadsteed, return it to its owner&apos;s hand.</text>
+			<text>Menace
+Whenever you sacrifice Nowhere Dreadsteed or another creature, return it from your graveyard to your hand.</text>
 			<set rarity="uncommon" picurl="https://mse-hub/sets/PTN-files/img/220_Nowhere Dreadsteed.jpg" num="220">PTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2248,7 +2249,7 @@ This spell costs {2} less to cast for each card you&apos;ve drawn this turn.</te
 		</card>
 		<card>
 			<name>Dreamway Imposter</name>
-			<text>This spell has flash as long as it&apos;s foretold.
+			<text>When Dreamway Imposter enters you get a Scar, if it was cast from exile, you get two Scars instead. (They&apos;re boons with &quot;When a creature you control dies, you may pay {1}. If you do, draw a card.&quot;)
 Foretell {1}{U} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
 			<set rarity="common" picurl="https://mse-hub/sets/PTN-files/img/49_Dreamway Imposter.jpg" num="49">PTN</set>
 			<prop>
@@ -2302,7 +2303,7 @@ When you sacrifice Nowhere Soul Collector, draw a card.</text>
 		<card>
 			<name>Opener of Realities</name>
 			<text>{1}{U}: Opener of Realities cant be blocked this turn.
-Whenever Opener of Realities deals combat damage to a player, you get a Scar. (They&apos;re boons with &quot;When a creature you control dies, you may pay {1}. If you do, draw a card.&quot;)</text>
+Whenever Opener of Realities deals combat damage to a player, you get that many Scars. (They&apos;re boons with &quot;When a creature you control dies, you may pay {1}. If you do, draw a card.&quot;)</text>
 			<set rarity="uncommon" picurl="https://mse-hub/sets/PTN-files/img/65_Opener of Realities.jpg" num="65">PTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2834,7 +2835,8 @@ Whenever Malleary Novice attacks, target creature you control gets +1/+0 until e
 		<card>
 			<name>Malleary Reforged</name>
 			<text>Reach
-Whenever Malleary Reforged attacks, if you control a God, it deals 2 damage to any target.</text>
+When Malleary Reforged enters, induct, then it deals damage equal to the number of Clerics and/or Gods you control to up to one target creature. (Create a 0/1 Cleric creature token with &quot;As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can&apos;t block.&quot;)
+{1}{R}, Discard Malleary Reforged: Create a token that&apos;s a copy of it, then exile that token.</text>
 			<set rarity="uncommon" picurl="https://mse-hub/sets/PTN-files/img/140_Malleary Reforged.jpg" num="140">PTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2845,7 +2847,7 @@ Whenever Malleary Reforged attacks, if you control a God, it deals 2 damage to a
 				<cmc>5</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>4/5</pt>
+				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3205,14 +3207,14 @@ Whenever a boon you own triggers double the number of +1/+1 counters on Seven-Co
 		</card>
 		<card>
 			<name>Breaching Vespera</name>
-			<text>Exile all creatures and planeswalkers with mana value 3 or less, then each opponent returns a permanent to its owner&apos;s hand with the highest mana value among permanents they control.</text>
+			<text>Destroy all creatures, then target opponent discards a creature card. If they can&apos;t, they lose 2 life.</text>
 			<set rarity="mythic" picurl="https://mse-hub/sets/PTN-files/img/200_Breaching Vespera.jpg" num="200">PTN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>3UB</manacost>
+				<manacost>2UBB</manacost>
 				<cmc>5</cmc>
 				<colors>UB</colors>
 				<coloridentity>UB</coloridentity>
@@ -3443,9 +3445,9 @@ Musician&apos;s Remnant can&apos;t block.
 		<card>
 			<name>Ambitions of Ascension</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I — Target non-God creature becomes a God in addition to its other types. Put two +1/+1 counters on it.
+Target non-God creature becomes a God in addition to its other types. Put two +1/+1 counters on it.
 Search your library for a God card, reveal it, put it into your hand, then shuffle.
-II — Reveal a card in your hand. Target God you control gains the revealed card&apos;s abilities. (This effect lasts indefinitely)</text>
+Reveal a card in your hand. Target God you control gains the revealed card&apos;s abilities. (This effect lasts indefinitely)</text>
 			<set rarity="rare" picurl="https://mse-hub/sets/PTN-files/img/9_Ambitions of Ascension.jpg" num="9">PTN</set>
 			<prop>
 				<layout>saga</layout>
@@ -3637,7 +3639,7 @@ Whenever Opener of Glass is dealt damage, it deals that much damage to any other
 		<card>
 			<name>Tattered Cyprian</name>
 			<text>Reach
-When Tattered Cyprian enters, if an opponent lost life this turn, you get a Scar. (They&apos;re boons with &quot;When a creature you control dies, you may pay {1}. If you do, draw a card.&quot;)</text>
+When Tattered Cyprian enters or dies, if an opponent lost life this turn, you get a Scar. (They&apos;re boons with &quot;When a creature you control dies, you may pay {1}. If you do, draw a card.&quot;)</text>
 			<set rarity="common" picurl="https://mse-hub/sets/PTN-files/img/156_Tattered Cyprian.jpg" num="156">PTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -4134,9 +4136,8 @@ When Wandering Unmaker is dealt damage, if you control a Sanctuary or a God, Wan
 		</card>
 		<card>
 			<name>Flesh Weaver</name>
-			<text>Haste
-Whenever Flesh Weaver attacks, you gain 1 life and surveil 1. Then exile a card from a graveyard.
-{1}{G}, Exile two creature cards from your graveyard: Induct (Create a 0/1 Cleric creature token with &quot;As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can&apos;t block.&quot;)</text>
+			<text>When Flesh Weaver enters, induct. (Create a 0/1 Cleric creature token with &quot;As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can&apos;t block.&quot;)
+Token Clerics you control have &quot;{2}, Exile two creature cards from your graveyard: Transform this creature. Activate only as a sorcery.&quot;</text>
 			<set rarity="uncommon" picurl="https://mse-hub/sets/PTN-files/img/173_Flesh Weaver.jpg" num="173">PTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -4187,7 +4188,7 @@ Whenever Splinter-Blossom is dealt damage, put a +1/+1 counter on it. (It must s
 		</card>
 		<card>
 			<name>Buzzings in the World</name>
-			<text>Return up to up to X land cards in your graveyard to the battlefield tapped. You gain X life.</text>
+			<text>Return up to up to X land cards in your graveyard to the battlefield tapped. Induct X times. (Create a 0/1 Cleric creature token with &quot;As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can&apos;t block.&quot;)</text>
 			<set rarity="rare" picurl="https://mse-hub/sets/PTN-files/img/162_Buzzings in the World.jpg" num="162">PTN</set>
 			<prop>
 				<layout>normal</layout>
@@ -4640,7 +4641,7 @@ Foretell {1}{U} (During your turn, you may pay {2} and exile this card from your
 		</card>
 		<card>
 			<name>Verse Open</name>
-			<text>Until end of turn, target creature gains &quot;Whenever this creature deals combat damage to a player, draw a card.&quot;
+			<text>Target creature gains flying until end of turn. You get a Scar. (They&apos;re boons with &quot;When a creature you control dies, you may pay {1}. If you do, draw a card.&quot;)
 As long as you control a God and Verse Open is in your graveyard, it has flashback {U}. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
 			<set rarity="common" picurl="https://mse-hub/sets/PTN-files/img/82_Verse Open.jpg" num="82">PTN</set>
 			<prop>

@@ -7,7 +7,7 @@
 			"type": "Creature",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/4_CW02.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/4_CW02.jpg"
 			}
 		},
 		{
@@ -17,7 +17,7 @@
 			"type": "Creature",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/5_CW03.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/5_CW03.jpg"
 			}
 		},
 		{
@@ -27,7 +27,7 @@
 			"type": "Creature",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/6_CW04.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/6_CW04.jpg"
 			}
 		},
 		{
@@ -37,7 +37,7 @@
 			"type": "Enchantment Creature",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/7_CW05.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/7_CW05.jpg"
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 			"type": "Creature",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/10_CW08.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/10_CW08.jpg"
 			}
 		},
 		{
@@ -57,7 +57,7 @@
 			"type": "Creature",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/9_CW07.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/9_CW07.jpg"
 			}
 		},
 		{
@@ -70,11 +70,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/RFA-files/img/8_CW06_back.jpg"
+					"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/8_CW06_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/8_CW06_front.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/8_CW06_front.jpg"
 			}
 		},
 		{
@@ -84,7 +84,7 @@
 			"type": "Sorcery",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/11_CW09.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/11_CW09.jpg"
 			}
 		},
 		{
@@ -94,7 +94,7 @@
 			"type": "Enchantment Creature",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/12_CW10.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/12_CW10.jpg"
 			}
 		},
 		{
@@ -104,7 +104,7 @@
 			"type": "Creature",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/13_CW11.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/13_CW11.jpg"
 			}
 		},
 		{
@@ -114,7 +114,7 @@
 			"type": "Instant",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/14_CW12 Combat Removal.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/14_CW12 Combat Removal.jpg"
 			}
 		},
 		{
@@ -124,7 +124,7 @@
 			"type": "Sorcery",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/17_CW15 Removal.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/17_CW15 Removal.jpg"
 			}
 		},
 		{
@@ -134,7 +134,7 @@
 			"type": "Instant",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/16_CW14 Trick.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/16_CW14 Trick.jpg"
 			}
 		},
 		{
@@ -144,7 +144,7 @@
 			"type": "Instant",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/15_CW13.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/15_CW13.jpg"
 			}
 		},
 		{
@@ -157,11 +157,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/RFA-files/img/107_CR01_back.jpg"
+					"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/107_CR01_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/107_CR01_front.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/107_CR01_front.jpg"
 			}
 		},
 		{
@@ -171,7 +171,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/108_CR02 Firefist Warrior.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/108_CR02 Firefist Warrior.jpg"
 			}
 		},
 		{
@@ -181,7 +181,7 @@
 			"type": "Creature — Human Sorcerer",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/109_CR03 Partnered Pyromancers.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/109_CR03 Partnered Pyromancers.jpg"
 			}
 		},
 		{
@@ -194,11 +194,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/RFA-files/img/111_CR05_back.jpg"
+					"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/111_CR05_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/111_CR05_front.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/111_CR05_front.jpg"
 			}
 		},
 		{
@@ -208,7 +208,7 @@
 			"type": "Creature — Human Warrior Mystic",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/110_CR04 Felfire Channeler.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/110_CR04 Felfire Channeler.jpg"
 			}
 		},
 		{
@@ -218,7 +218,7 @@
 			"type": "Creature",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/112_CR06 Acolyte of the Inferno.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/112_CR06 Acolyte of the Inferno.jpg"
 			}
 		},
 		{
@@ -231,11 +231,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/RFA-files/img/113_CR07_back.jpg"
+					"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/113_CR07_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/113_CR07_front.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/113_CR07_front.jpg"
 			}
 		},
 		{
@@ -245,7 +245,7 @@
 			"type": "Sorcery",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/114_CR08.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/114_CR08.jpg"
 			}
 		},
 		{
@@ -255,7 +255,7 @@
 			"type": "Creature",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/115_CR09.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/115_CR09.jpg"
 			}
 		},
 		{
@@ -265,7 +265,7 @@
 			"type": "Instant",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/116_CR10 Magma Spray.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/116_CR10 Magma Spray.jpg"
 			}
 		},
 		{
@@ -275,7 +275,7 @@
 			"type": "Instant",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/119_CR13 Shatter.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/119_CR13 Shatter.jpg"
 			}
 		},
 		{
@@ -288,11 +288,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/RFA-files/img/118_CR12 Read the Flame_back.jpg"
+					"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/118_CR12 Read the Flame_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/118_CR12 Read the Flame_front.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/118_CR12 Read the Flame_front.jpg"
 			}
 		},
 		{
@@ -302,7 +302,7 @@
 			"type": "Instant",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/117_CR11 Fight for the Fallen.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/117_CR11 Fight for the Fallen.jpg"
 			}
 		},
 		{
@@ -312,7 +312,7 @@
 			"type": "Sorcery",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/120_CR14 Skewer the Critics.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/120_CR14 Skewer the Critics.jpg"
 			}
 		},
 		{
@@ -322,7 +322,7 @@
 			"type": "Sorcery",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/121_CR15 Fireball.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/121_CR15 Fireball.jpg"
 			}
 		},
 		{
@@ -335,11 +335,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/RFA-files/img/141_CG01_back.jpg"
+					"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/141_CG01_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/141_CG01_front.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/141_CG01_front.jpg"
 			}
 		},
 		{
@@ -349,7 +349,7 @@
 			"type": "Creature",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/142_CG02.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/142_CG02.jpg"
 			}
 		},
 		{
@@ -359,7 +359,7 @@
 			"type": "Creature",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/143_CG03.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/143_CG03.jpg"
 			}
 		},
 		{
@@ -369,7 +369,7 @@
 			"type": "Creature",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/144_CG04.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/144_CG04.jpg"
 			}
 		},
 		{
@@ -379,7 +379,7 @@
 			"type": "Sorcery",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/154_CG14 Better Root Out.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/154_CG14 Better Root Out.jpg"
 			}
 		},
 		{
@@ -389,7 +389,7 @@
 			"type": "Enchantment Creature — Spirit",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/148_CG08.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/148_CG08.jpg"
 			}
 		},
 		{
@@ -399,7 +399,7 @@
 			"type": "Creature",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/147_CG07.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/147_CG07.jpg"
 			}
 		},
 		{
@@ -409,7 +409,7 @@
 			"type": "Creature",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/149_CG09.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/149_CG09.jpg"
 			}
 		},
 		{
@@ -422,11 +422,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/RFA-files/img/146_CG06_back.jpg"
+					"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/146_CG06_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/146_CG06_front.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/146_CG06_front.jpg"
 			}
 		},
 		{
@@ -439,11 +439,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/RFA-files/img/150_CG10_back.jpg"
+					"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/150_CG10_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/150_CG10_front.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/150_CG10_front.jpg"
 			}
 		},
 		{
@@ -453,7 +453,7 @@
 			"type": "Instant",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/151_CG11 Bite.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/151_CG11 Bite.jpg"
 			}
 		},
 		{
@@ -463,7 +463,7 @@
 			"type": "Instant",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/152_CG12.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/152_CG12.jpg"
 			}
 		},
 		{
@@ -473,7 +473,7 @@
 			"type": "Instant",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/153_CG13 Trick.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/153_CG13 Trick.jpg"
 			}
 		},
 		{
@@ -483,7 +483,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/145_CG05.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/145_CG05.jpg"
 			}
 		},
 		{
@@ -493,7 +493,7 @@
 			"type": "Sorcery",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/155_CG15 Selection.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/155_CG15 Selection.jpg"
 			}
 		},
 		{
@@ -503,7 +503,7 @@
 			"type": "Creature",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/175_CI01.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/175_CI01.jpg"
 			}
 		},
 		{
@@ -516,11 +516,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/RFA-files/img/176_CI02_back.jpg"
+					"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/176_CI02_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/176_CI02_front.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/176_CI02_front.jpg"
 			}
 		},
 		{
@@ -533,11 +533,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/RFA-files/img/177_CI03 Amberglow Moths_back.jpg"
+					"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/177_CI03 Amberglow Moths_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/177_CI03 Amberglow Moths_front.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/177_CI03 Amberglow Moths_front.jpg"
 			}
 		},
 		{
@@ -550,11 +550,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/RFA-files/img/178_CI04_back.jpg"
+					"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/178_CI04_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/178_CI04_front.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/178_CI04_front.jpg"
 			}
 		},
 		{
@@ -564,7 +564,7 @@
 			"type": "Creature",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/179_CI05.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/179_CI05.jpg"
 			}
 		},
 		{
@@ -574,7 +574,7 @@
 			"type": "Creature — Human Mystic",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/180_CI06 Summoner of the Inner Self.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/180_CI06 Summoner of the Inner Self.jpg"
 			}
 		},
 		{
@@ -584,7 +584,7 @@
 			"type": "Creature",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/181_CI07.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/181_CI07.jpg"
 			}
 		},
 		{
@@ -594,7 +594,7 @@
 			"type": "Creature",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/183_CI09.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/183_CI09.jpg"
 			}
 		},
 		{
@@ -604,7 +604,7 @@
 			"type": "Creature",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/182_CI08.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/182_CI08.jpg"
 			}
 		},
 		{
@@ -614,7 +614,7 @@
 			"type": "Instant",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/184_CI10 Flowstone.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/184_CI10 Flowstone.jpg"
 			}
 		},
 		{
@@ -624,7 +624,7 @@
 			"type": "Instant",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/185_CI11 Counterspell.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/185_CI11 Counterspell.jpg"
 			}
 		},
 		{
@@ -634,7 +634,7 @@
 			"type": "Instant",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/186_CI12 Blank.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/186_CI12 Blank.jpg"
 			}
 		},
 		{
@@ -644,7 +644,7 @@
 			"type": "Sorcery",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/187_CI13.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/187_CI13.jpg"
 			}
 		},
 		{
@@ -654,7 +654,7 @@
 			"type": "Sorcery",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/188_CI14.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/188_CI14.jpg"
 			}
 		},
 		{
@@ -664,7 +664,7 @@
 			"type": "Sorcery",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/189_CI15 Serum Extraction.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/189_CI15 Serum Extraction.jpg"
 			}
 		},
 		{
@@ -674,7 +674,7 @@
 			"type": "",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/2t_Mechanics.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/2t_Mechanics.jpg"
 			}
 		},
 		{
@@ -687,11 +687,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/RFA-files/img/3_CW01_back.jpg"
+					"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/3_CW01_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/3_CW01_front.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/3_CW01_front.jpg"
 			}
 		},
 		{
@@ -704,11 +704,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/RFA-files/img/190_CI16_back.jpg"
+					"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/190_CI16_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/190_CI16_front.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/190_CI16_front.jpg"
 			}
 		},
 		{
@@ -718,7 +718,7 @@
 			"type": "Enchantment Creature",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/1_CA01.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/1_CA01.jpg"
 			}
 		},
 		{
@@ -728,7 +728,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/232_CA04.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/232_CA04.jpg"
 			}
 		},
 		{
@@ -741,11 +741,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/RFA-files/img/230_CA02_back.jpg"
+					"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/230_CA02_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/230_CA02_front.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/230_CA02_front.jpg"
 			}
 		},
 		{
@@ -755,7 +755,7 @@
 			"type": "Artifact Creature",
 			"collector_number": "231",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/231_CA03.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/231_CA03.jpg"
 			}
 		},
 		{
@@ -765,7 +765,7 @@
 			"type": "Artifact — Clue",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/233_CA06.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/233_CA06.jpg"
 			}
 		},
 		{
@@ -775,7 +775,7 @@
 			"type": "Sorcery",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/2_CA05.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/2_CA05.jpg"
 			}
 		},
 		{
@@ -788,11 +788,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/RFA-files/img/55_RU Startled Awake_back.jpg"
+					"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/55_RU Startled Awake_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/55_RU Startled Awake_front.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/55_RU Startled Awake_front.jpg"
 			}
 		},
 		{
@@ -802,7 +802,7 @@
 			"type": "",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/3t_Themes.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/3t_Themes.jpg"
 			}
 		},
 		{
@@ -812,7 +812,7 @@
 			"type": "Creature",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/37_CU01 Spectacle Blank.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/37_CU01 Spectacle Blank.jpg"
 			}
 		},
 		{
@@ -825,11 +825,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/RFA-files/img/38_CU02 Mill_back.jpg"
+					"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/38_CU02 Mill_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/38_CU02 Mill_front.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/38_CU02 Mill_front.jpg"
 			}
 		},
 		{
@@ -839,7 +839,7 @@
 			"type": "Creature",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/39_CU03 Mill Incant.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/39_CU03 Mill Incant.jpg"
 			}
 		},
 		{
@@ -849,7 +849,7 @@
 			"type": "Creature",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/40_CU04 Foretell Kick.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/40_CU04 Foretell Kick.jpg"
 			}
 		},
 		{
@@ -862,11 +862,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/RFA-files/img/41_CU05 Goodstuff_back.jpg"
+					"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/41_CU05 Goodstuff_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/41_CU05 Goodstuff_front.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/41_CU05 Goodstuff_front.jpg"
 			}
 		},
 		{
@@ -876,7 +876,7 @@
 			"type": "Creature",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/42_CU06 Mill.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/42_CU06 Mill.jpg"
 			}
 		},
 		{
@@ -886,7 +886,7 @@
 			"type": "Creature",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/43_CU07 Spectacle.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/43_CU07 Spectacle.jpg"
 			}
 		},
 		{
@@ -896,7 +896,7 @@
 			"type": "Creature",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/44_CU08 Spectacle Large.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/44_CU08 Spectacle Large.jpg"
 			}
 		},
 		{
@@ -906,7 +906,7 @@
 			"type": "Instant",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/45_CU09 Protection/Stall.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/45_CU09 Protection/Stall.jpg"
 			}
 		},
 		{
@@ -916,7 +916,7 @@
 			"type": "Instant",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/46_CU10 Unsubstantiate.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/46_CU10 Unsubstantiate.jpg"
 			}
 		},
 		{
@@ -926,7 +926,7 @@
 			"type": "Instant",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/47_CU11 Cantrip.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/47_CU11 Cantrip.jpg"
 			}
 		},
 		{
@@ -936,7 +936,7 @@
 			"type": "Sorcery",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/48_CU12 Spectacle.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/48_CU12 Spectacle.jpg"
 			}
 		},
 		{
@@ -946,7 +946,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/49_CU13 Aura Blank Removal.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/49_CU13 Aura Blank Removal.jpg"
 			}
 		},
 		{
@@ -956,7 +956,7 @@
 			"type": "Instant",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/50_CU14 Foretell.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/50_CU14 Foretell.jpg"
 			}
 		},
 		{
@@ -966,7 +966,7 @@
 			"type": "Instant",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/51_CU15 Foretell Kick.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/51_CU15 Foretell Kick.jpg"
 			}
 		},
 		{
@@ -976,7 +976,7 @@
 			"type": "Artifact",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/73_CB01 Good Wide Types.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/73_CB01 Good Wide Types.jpg"
 			}
 		},
 		{
@@ -986,7 +986,7 @@
 			"type": "Creature",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/74_CB02 Ward.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/74_CB02 Ward.jpg"
 			}
 		},
 		{
@@ -999,11 +999,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/RFA-files/img/75_CB03 Clue_back.jpg"
+					"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/75_CB03 Clue_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/75_CB03 Clue_front.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/75_CB03 Clue_front.jpg"
 			}
 		},
 		{
@@ -1013,7 +1013,7 @@
 			"type": "Creature",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/79_CB07 Multi Type.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/79_CB07 Multi Type.jpg"
 			}
 		},
 		{
@@ -1023,7 +1023,7 @@
 			"type": "Sorcery",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/77_CB05 Goodstuff.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/77_CB05 Goodstuff.jpg"
 			}
 		},
 		{
@@ -1036,11 +1036,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/RFA-files/img/78_CB06 Goodstuff_back.jpg"
+					"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/78_CB06 Goodstuff_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/78_CB06 Goodstuff_front.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/78_CB06 Goodstuff_front.jpg"
 			}
 		},
 		{
@@ -1050,7 +1050,7 @@
 			"type": "Creature",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/76_CB04 Goodstuff.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/76_CB04 Goodstuff.jpg"
 			}
 		},
 		{
@@ -1060,7 +1060,7 @@
 			"type": "Artifact Creature",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/80_CB08 Wide Types.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/80_CB08 Wide Types.jpg"
 			}
 		},
 		{
@@ -1073,11 +1073,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/RFA-files/img/81_CB09 Ward_back.jpg"
+					"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/81_CB09 Ward_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/81_CB09 Ward_front.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/81_CB09 Ward_front.jpg"
 			}
 		},
 		{
@@ -1087,7 +1087,7 @@
 			"type": "Instant",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/82_CB10 Weak Removal Clue Types.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/82_CB10 Weak Removal Clue Types.jpg"
 			}
 		},
 		{
@@ -1097,7 +1097,7 @@
 			"type": "Instant",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/83_CB11 Clue Trick.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/83_CB11 Clue Trick.jpg"
 			}
 		},
 		{
@@ -1107,7 +1107,7 @@
 			"type": "Instant",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/84_CB12 Draw.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/84_CB12 Draw.jpg"
 			}
 		},
 		{
@@ -1117,7 +1117,7 @@
 			"type": "Enchantment",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/85_CB13 Multi Type.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/85_CB13 Multi Type.jpg"
 			}
 		},
 		{
@@ -1127,7 +1127,7 @@
 			"type": "Instant",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/86_CB14 Demonic Feeding.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/86_CB14 Demonic Feeding.jpg"
 			}
 		},
 		{
@@ -1137,7 +1137,7 @@
 			"type": "Instant",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/87_CB15 Crushing Doubt.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/87_CB15 Crushing Doubt.jpg"
 			}
 		},
 		{
@@ -1147,7 +1147,7 @@
 			"type": "Enchantment Creature",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/21_UW02 Enchantment.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/21_UW02 Enchantment.jpg"
 			}
 		},
 		{
@@ -1157,7 +1157,7 @@
 			"type": "Enchantment Creature",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/20_UW01 Enchantment.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/20_UW01 Enchantment.jpg"
 			}
 		},
 		{
@@ -1167,7 +1167,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/22_UW03 Enchantment Dungeoneer.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/22_UW03 Enchantment Dungeoneer.jpg"
 			}
 		},
 		{
@@ -1177,7 +1177,7 @@
 			"type": "Enchantment",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/23_UW04 Foretell.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/23_UW04 Foretell.jpg"
 			}
 		},
 		{
@@ -1187,7 +1187,7 @@
 			"type": "Instant",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/24_UW05 Foretell Removal.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/24_UW05 Foretell Removal.jpg"
 			}
 		},
 		{
@@ -1197,7 +1197,7 @@
 			"type": "Creature",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/25_UW06 Foretell Topend.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/25_UW06 Foretell Topend.jpg"
 			}
 		},
 		{
@@ -1207,7 +1207,7 @@
 			"type": "Creature — Angel Shaman",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/26_UW07 Foretell-Wide Wisp-Reader Angel.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/26_UW07 Foretell-Wide Wisp-Reader Angel.jpg"
 			}
 		},
 		{
@@ -1217,7 +1217,7 @@
 			"type": "Sorcery",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/27_UW08 Gift of Estates.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/27_UW08 Gift of Estates.jpg"
 			}
 		},
 		{
@@ -1227,7 +1227,7 @@
 			"type": "Instant",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/28_UW09 Goodstuff Removal.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/28_UW09 Goodstuff Removal.jpg"
 			}
 		},
 		{
@@ -1237,7 +1237,7 @@
 			"type": "Creature",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/29_UW10 Incant Nevermore.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/29_UW10 Incant Nevermore.jpg"
 			}
 		},
 		{
@@ -1250,11 +1250,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/RFA-files/img/31_UW12 Lifegain Enabler_back.jpg"
+					"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/31_UW12 Lifegain Enabler_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/31_UW12 Lifegain Enabler_front.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/31_UW12 Lifegain Enabler_front.jpg"
 			}
 		},
 		{
@@ -1264,7 +1264,7 @@
 			"type": "Instant",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/32_UW13 Lifegain Fog.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/32_UW13 Lifegain Fog.jpg"
 			}
 		},
 		{
@@ -1274,7 +1274,7 @@
 			"type": "Creature — Angel",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/30_UW11 Lifegain Angel of Vitality.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/30_UW11 Lifegain Angel of Vitality.jpg"
 			}
 		},
 		{
@@ -1284,7 +1284,7 @@
 			"type": "Sorcery",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/33_UW14 Spells Incant Charge.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/33_UW14 Spells Incant Charge.jpg"
 			}
 		},
 		{
@@ -1294,7 +1294,7 @@
 			"type": "Creature",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/34_UW15 Spells Threat.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/34_UW15 Spells Threat.jpg"
 			}
 		},
 		{
@@ -1307,11 +1307,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/RFA-files/img/36_UW17 Wide_back.jpg"
+					"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/36_UW17 Wide_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/36_UW17 Wide_front.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/36_UW17 Wide_front.jpg"
 			}
 		},
 		{
@@ -1324,11 +1324,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/RFA-files/img/35_UW16 Wide_back.jpg"
+					"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/35_UW16 Wide_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/35_UW16 Wide_front.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/35_UW16 Wide_front.jpg"
 			}
 		},
 		{
@@ -1338,7 +1338,7 @@
 			"type": "Creature",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/56_UU01 Annoying Incant.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/56_UU01 Annoying Incant.jpg"
 			}
 		},
 		{
@@ -1348,7 +1348,7 @@
 			"type": "Creature",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/57_UU02 Blank.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/57_UU02 Blank.jpg"
 			}
 		},
 		{
@@ -1358,7 +1358,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/58_UU03 Blank Control.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/58_UU03 Blank Control.jpg"
 			}
 		},
 		{
@@ -1368,7 +1368,7 @@
 			"type": "Creature",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/59_UU04 Blank Novice Mind-Binder.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/59_UU04 Blank Novice Mind-Binder.jpg"
 			}
 		},
 		{
@@ -1378,7 +1378,7 @@
 			"type": "Instant",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/60_UU05 Flusterstorm but no storm.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/60_UU05 Flusterstorm but no storm.jpg"
 			}
 		},
 		{
@@ -1388,7 +1388,7 @@
 			"type": "Creature",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/61_UU06 Foretell Evasive.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/61_UU06 Foretell Evasive.jpg"
 			}
 		},
 		{
@@ -1398,7 +1398,7 @@
 			"type": "Sorcery",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/62_UU07 Foretell Inspiration.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/62_UU07 Foretell Inspiration.jpg"
 			}
 		},
 		{
@@ -1411,11 +1411,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/RFA-files/img/63_UU08 Goodstuff_back.jpg"
+					"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/63_UU08 Goodstuff_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/63_UU08 Goodstuff_front.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/63_UU08 Goodstuff_front.jpg"
 			}
 		},
 		{
@@ -1425,7 +1425,7 @@
 			"type": "Instant",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/64_UU09 Goodstuff Counter.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/64_UU09 Goodstuff Counter.jpg"
 			}
 		},
 		{
@@ -1435,7 +1435,7 @@
 			"type": "Instant",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/65_UU10 Goodstuff Removal.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/65_UU10 Goodstuff Removal.jpg"
 			}
 		},
 		{
@@ -1445,7 +1445,7 @@
 			"type": "Instant",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/66_UU11 Goodstuff Thirst for Mastery.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/66_UU11 Goodstuff Thirst for Mastery.jpg"
 			}
 		},
 		{
@@ -1455,7 +1455,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/67_UU12 Incant Curiosity.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/67_UU12 Incant Curiosity.jpg"
 			}
 		},
 		{
@@ -1465,7 +1465,7 @@
 			"type": "Creature — Sphinx",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/69_UU14 Mill Sphinx.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/69_UU14 Mill Sphinx.jpg"
 			}
 		},
 		{
@@ -1478,11 +1478,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/RFA-files/img/68_UU13 Mill Dream Crab_back.jpg"
+					"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/68_UU13 Mill Dream Crab_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/68_UU13 Mill Dream Crab_front.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/68_UU13 Mill Dream Crab_front.jpg"
 			}
 		},
 		{
@@ -1492,7 +1492,7 @@
 			"type": "Sorcery",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/70_UU15 Spectacle Clone.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/70_UU15 Spectacle Clone.jpg"
 			}
 		},
 		{
@@ -1502,7 +1502,7 @@
 			"type": "Sorcery",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/71_UU16 Spectacle Removal.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/71_UU16 Spectacle Removal.jpg"
 			}
 		},
 		{
@@ -1512,7 +1512,7 @@
 			"type": "Creature",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/72_UU17 Spell Dungeoneer.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/72_UU17 Spell Dungeoneer.jpg"
 			}
 		},
 		{
@@ -1522,7 +1522,7 @@
 			"type": "Creature",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/90_UB01 Clue Mill/Kill Payoff.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/90_UB01 Clue Mill/Kill Payoff.jpg"
 			}
 		},
 		{
@@ -1532,7 +1532,7 @@
 			"type": "Creature",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/91_UB02 Clue Removal.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/91_UB02 Clue Removal.jpg"
 			}
 		},
 		{
@@ -1542,7 +1542,7 @@
 			"type": "Artifact Creature — Clue",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/92_UB03 Clue Wide.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/92_UB03 Clue Wide.jpg"
 			}
 		},
 		{
@@ -1552,7 +1552,7 @@
 			"type": "Enchantment",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/93_UB04 Goodstuff Mental Sewage.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/93_UB04 Goodstuff Mental Sewage.jpg"
 			}
 		},
 		{
@@ -1562,7 +1562,7 @@
 			"type": "Instant",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/94_UB05 Goodstuff Withering Torment.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/94_UB05 Goodstuff Withering Torment.jpg"
 			}
 		},
 		{
@@ -1572,7 +1572,7 @@
 			"type": "Sorcery",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/95_UB06 Incant Hate.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/95_UB06 Incant Hate.jpg"
 			}
 		},
 		{
@@ -1582,7 +1582,7 @@
 			"type": "Sorcery",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/96_UB07 Incant Zombify.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/96_UB07 Incant Zombify.jpg"
 			}
 		},
 		{
@@ -1595,11 +1595,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/RFA-files/img/97_UB08 Mill_back.jpg"
+					"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/97_UB08 Mill_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/97_UB08 Mill_front.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/97_UB08 Mill_front.jpg"
 			}
 		},
 		{
@@ -1609,7 +1609,7 @@
 			"type": "Instant",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/98_UB09 Mill Demise.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/98_UB09 Mill Demise.jpg"
 			}
 		},
 		{
@@ -1619,7 +1619,7 @@
 			"type": "Creature",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/99_UB10 Multi Type.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/99_UB10 Multi Type.jpg"
 			}
 		},
 		{
@@ -1629,7 +1629,7 @@
 			"type": "Instant",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/100_UB11 Multi Type Plumb.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/100_UB11 Multi Type Plumb.jpg"
 			}
 		},
 		{
@@ -1639,7 +1639,7 @@
 			"type": "Creature",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/101_UB12 Sacrifice Dungeoneer.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/101_UB12 Sacrifice Dungeoneer.jpg"
 			}
 		},
 		{
@@ -1649,7 +1649,7 @@
 			"type": "Creature",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/102_UB13 Ward.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/102_UB13 Ward.jpg"
 			}
 		},
 		{
@@ -1659,7 +1659,7 @@
 			"type": "Instant",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/103_UB14 Ward Fegnit Dedth.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/103_UB14 Ward Fegnit Dedth.jpg"
 			}
 		},
 		{
@@ -1669,7 +1669,7 @@
 			"type": "Creature",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/104_UB15 Ward Vicious Gossip.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/104_UB15 Ward Vicious Gossip.jpg"
 			}
 		},
 		{
@@ -1682,11 +1682,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/RFA-files/img/105_UB16 Wide_back.jpg"
+					"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/105_UB16 Wide_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/105_UB16 Wide_front.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/105_UB16 Wide_front.jpg"
 			}
 		},
 		{
@@ -1696,7 +1696,7 @@
 			"type": "Enchantment",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/106_UB17 Wide Clues.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/106_UB17 Wide Clues.jpg"
 			}
 		},
 		{
@@ -1706,7 +1706,7 @@
 			"type": "Sorcery",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/124_UR01 Discard.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/124_UR01 Discard.jpg"
 			}
 		},
 		{
@@ -1719,11 +1719,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/RFA-files/img/125_UR02 Discard_back.jpg"
+					"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/125_UR02 Discard_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/125_UR02 Discard_front.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/125_UR02 Discard_front.jpg"
 			}
 		},
 		{
@@ -1736,11 +1736,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/RFA-files/img/126_UR03 Discard Engine_back.jpg"
+					"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/126_UR03 Discard Engine_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/126_UR03 Discard Engine_front.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/126_UR03 Discard Engine_front.jpg"
 			}
 		},
 		{
@@ -1750,7 +1750,7 @@
 			"type": "Instant",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/127_UR04 Discard Lightning Axe.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/127_UR04 Discard Lightning Axe.jpg"
 			}
 		},
 		{
@@ -1760,7 +1760,7 @@
 			"type": "Creature",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/128_UR05 Exile.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/128_UR05 Exile.jpg"
 			}
 		},
 		{
@@ -1770,7 +1770,7 @@
 			"type": "Creature",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/129_UR06 Exile Dungeoneer w Ward.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/129_UR06 Exile Dungeoneer w Ward.jpg"
 			}
 		},
 		{
@@ -1780,7 +1780,7 @@
 			"type": "Sorcery",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/130_UR07 Goodstuff Hammer.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/130_UR07 Goodstuff Hammer.jpg"
 			}
 		},
 		{
@@ -1790,7 +1790,7 @@
 			"type": "Creature",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/131_UR08 Goodstuff Magic Thief.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/131_UR08 Goodstuff Magic Thief.jpg"
 			}
 		},
 		{
@@ -1800,7 +1800,7 @@
 			"type": "Instant",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/132_UR09 Goodstuff Wipe.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/132_UR09 Goodstuff Wipe.jpg"
 			}
 		},
 		{
@@ -1810,7 +1810,7 @@
 			"type": "Creature — Phoenix",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/133_UR10 Incant Discard Phoenix.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/133_UR10 Incant Discard Phoenix.jpg"
 			}
 		},
 		{
@@ -1820,7 +1820,7 @@
 			"type": "Sorcery",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/134_UR11 Incant Finisher.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/134_UR11 Incant Finisher.jpg"
 			}
 		},
 		{
@@ -1830,7 +1830,7 @@
 			"type": "Creature",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/135_UR12 Spectacle Flametounge.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/135_UR12 Spectacle Flametounge.jpg"
 			}
 		},
 		{
@@ -1840,7 +1840,7 @@
 			"type": "Sorcery",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/136_UR13 Spectacle Light Up the Stage.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/136_UR13 Spectacle Light Up the Stage.jpg"
 			}
 		},
 		{
@@ -1850,7 +1850,7 @@
 			"type": "Creature",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/138_UR15 Spell Aggro.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/138_UR15 Spell Aggro.jpg"
 			}
 		},
 		{
@@ -1860,7 +1860,7 @@
 			"type": "Creature",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/139_UR16 Spell Aggro Burn.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/139_UR16 Spell Aggro Burn.jpg"
 			}
 		},
 		{
@@ -1870,7 +1870,7 @@
 			"type": "Creature",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/137_UR14 Ward.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/137_UR14 Ward.jpg"
 			}
 		},
 		{
@@ -1880,7 +1880,7 @@
 			"type": "Instant",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/140_UR17 Ward Pump.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/140_UR17 Ward Pump.jpg"
 			}
 		},
 		{
@@ -1890,7 +1890,7 @@
 			"type": "Sorcery",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/158_UG01 Bushwhack but worse.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/158_UG01 Bushwhack but worse.jpg"
 			}
 		},
 		{
@@ -1900,7 +1900,7 @@
 			"type": "Enchantment Creature",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/159_UG02 Enchantment.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/159_UG02 Enchantment.jpg"
 			}
 		},
 		{
@@ -1910,7 +1910,7 @@
 			"type": "Sorcery",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/160_UG03 Enchantment Incant Buff.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/160_UG03 Enchantment Incant Buff.jpg"
 			}
 		},
 		{
@@ -1920,7 +1920,7 @@
 			"type": "Creature",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/163_UG06 Exile.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/163_UG06 Exile.jpg"
 			}
 		},
 		{
@@ -1930,7 +1930,7 @@
 			"type": "Creature",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/161_UG04 Exile.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/161_UG04 Exile.jpg"
 			}
 		},
 		{
@@ -1940,7 +1940,7 @@
 			"type": "Creature",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/162_UG05 Exile.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/162_UG05 Exile.jpg"
 			}
 		},
 		{
@@ -1950,7 +1950,7 @@
 			"type": "Creature",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/165_UG08 Foretell.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/165_UG08 Foretell.jpg"
 			}
 		},
 		{
@@ -1960,7 +1960,7 @@
 			"type": "Enchantment",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/164_UG07 Foretell.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/164_UG07 Foretell.jpg"
 			}
 		},
 		{
@@ -1970,7 +1970,7 @@
 			"type": "Creature",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/167_UG10 Foretell Ramp.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/167_UG10 Foretell Ramp.jpg"
 			}
 		},
 		{
@@ -1980,7 +1980,7 @@
 			"type": "Sorcery",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/166_UG09 Foretell Ramp.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/166_UG09 Foretell Ramp.jpg"
 			}
 		},
 		{
@@ -1993,11 +1993,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/RFA-files/img/168_UG11 Goodstuff_back.jpg"
+					"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/168_UG11 Goodstuff_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/168_UG11 Goodstuff_front.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/168_UG11 Goodstuff_front.jpg"
 			}
 		},
 		{
@@ -2007,7 +2007,7 @@
 			"type": "Sorcery",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/169_UG12 Goodstuff Spinning Wheel Kick.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/169_UG12 Goodstuff Spinning Wheel Kick.jpg"
 			}
 		},
 		{
@@ -2017,7 +2017,7 @@
 			"type": "Sorcery",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/170_UG13 Incant Regrowth.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/170_UG13 Incant Regrowth.jpg"
 			}
 		},
 		{
@@ -2027,7 +2027,7 @@
 			"type": "Creature",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/171_UG14 Landfall Dungeoner.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/171_UG14 Landfall Dungeoner.jpg"
 			}
 		},
 		{
@@ -2037,7 +2037,7 @@
 			"type": "Sorcery",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/172_UG15 Multi Type.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/172_UG15 Multi Type.jpg"
 			}
 		},
 		{
@@ -2050,11 +2050,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/RFA-files/img/173_UG16 Multi Type Enchantments_back.jpg"
+					"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/173_UG16 Multi Type Enchantments_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/173_UG16 Multi Type Enchantments_front.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/173_UG16 Multi Type Enchantments_front.jpg"
 			}
 		},
 		{
@@ -2064,7 +2064,7 @@
 			"type": "Creature",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/174_UG17 Multi Type Ramp Target.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/174_UG17 Multi Type Ramp Target.jpg"
 			}
 		},
 		{
@@ -2077,11 +2077,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/RFA-files/img/194_UI02 Blank_back.jpg"
+					"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/194_UI02 Blank_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/194_UI02 Blank_front.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/194_UI02 Blank_front.jpg"
 			}
 		},
 		{
@@ -2091,7 +2091,7 @@
 			"type": "Instant",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/193_UI01 Blank.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/193_UI01 Blank.jpg"
 			}
 		},
 		{
@@ -2101,7 +2101,7 @@
 			"type": "Creature",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/195_UI03 Blank Ixidrike.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/195_UI03 Blank Ixidrike.jpg"
 			}
 		},
 		{
@@ -2111,7 +2111,7 @@
 			"type": "Creature",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/197_UI05 Clue.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/197_UI05 Clue.jpg"
 			}
 		},
 		{
@@ -2121,7 +2121,7 @@
 			"type": "Creature",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/198_UI06 Clue.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/198_UI06 Clue.jpg"
 			}
 		},
 		{
@@ -2131,7 +2131,7 @@
 			"type": "Creature — Elf Mystic",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/196_UI04 Discard Clue Spiritweaver.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/196_UI04 Discard Clue Spiritweaver.jpg"
 			}
 		},
 		{
@@ -2141,7 +2141,7 @@
 			"type": "Instant",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/200_UI08 Discard Trick.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/200_UI08 Discard Trick.jpg"
 			}
 		},
 		{
@@ -2151,7 +2151,7 @@
 			"type": "Creature",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/199_UI07 Discard Furyblade Vampire 2.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/199_UI07 Discard Furyblade Vampire 2.jpg"
 			}
 		},
 		{
@@ -2161,7 +2161,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/202_UI10 Goodstuff Removal.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/202_UI10 Goodstuff Removal.jpg"
 			}
 		},
 		{
@@ -2171,7 +2171,7 @@
 			"type": "Creature",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/201_UI09 Goodstuff GY.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/201_UI09 Goodstuff GY.jpg"
 			}
 		},
 		{
@@ -2181,7 +2181,7 @@
 			"type": "Sorcery",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/203_UI11 Incant Ramp.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/203_UI11 Incant Ramp.jpg"
 			}
 		},
 		{
@@ -2191,7 +2191,7 @@
 			"type": "Sorcery",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/204_UI12 Incant Sift.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/204_UI12 Incant Sift.jpg"
 			}
 		},
 		{
@@ -2204,11 +2204,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/RFA-files/img/206_UI14 Lifegain_back.jpg"
+					"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/206_UI14 Lifegain_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/206_UI14 Lifegain_front.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/206_UI14 Lifegain_front.jpg"
 			}
 		},
 		{
@@ -2218,7 +2218,7 @@
 			"type": "Creature",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/207_UI15 Lifegain.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/207_UI15 Lifegain.jpg"
 			}
 		},
 		{
@@ -2228,7 +2228,7 @@
 			"type": "Enchantment",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/205_UI13 Lifegain.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/205_UI13 Lifegain.jpg"
 			}
 		},
 		{
@@ -2238,7 +2238,7 @@
 			"type": "Creature",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/208_UI16 Lifegain Ramp Target.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/208_UI16 Lifegain Ramp Target.jpg"
 			}
 		},
 		{
@@ -2248,7 +2248,7 @@
 			"type": "Instant",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/209_UI17 Lifegain Remand.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/209_UI17 Lifegain Remand.jpg"
 			}
 		},
 		{
@@ -2258,7 +2258,7 @@
 			"type": "Instant",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/210_UI18 Removal.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/210_UI18 Removal.jpg"
 			}
 		},
 		{
@@ -2268,7 +2268,7 @@
 			"type": "Legendary Creature",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/226_UM12 Blank.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/226_UM12 Blank.jpg"
 			}
 		},
 		{
@@ -2278,7 +2278,7 @@
 			"type": "Legendary Creature",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/227_UM13 Clue Control.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/227_UM13 Clue Control.jpg"
 			}
 		},
 		{
@@ -2288,7 +2288,7 @@
 			"type": "Creature",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/228_UM14 Discard.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/228_UM14 Discard.jpg"
 			}
 		},
 		{
@@ -2298,7 +2298,7 @@
 			"type": "Enchantment Creature",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/219_UM05 Enchantments.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/219_UM05 Enchantments.jpg"
 			}
 		},
 		{
@@ -2308,7 +2308,7 @@
 			"type": "Creature",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/218_UM04 Exile.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/218_UM04 Exile.jpg"
 			}
 		},
 		{
@@ -2318,7 +2318,7 @@
 			"type": "Creature",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/215_UM01 Foretell.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/215_UM01 Foretell.jpg"
 			}
 		},
 		{
@@ -2328,7 +2328,7 @@
 			"type": "Enchantment",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/222_UM08 Foretell Ramp.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/222_UM08 Foretell Ramp.jpg"
 			}
 		},
 		{
@@ -2338,7 +2338,7 @@
 			"type": "Creature",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/220_UM06 Go Wide.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/220_UM06 Go Wide.jpg"
 			}
 		},
 		{
@@ -2348,7 +2348,7 @@
 			"type": "Enchantment",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/225_UM11 Lifegain.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/225_UM11 Lifegain.jpg"
 			}
 		},
 		{
@@ -2358,7 +2358,7 @@
 			"type": "Instant",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/216_UM02 Mill.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/216_UM02 Mill.jpg"
 			}
 		},
 		{
@@ -2368,7 +2368,7 @@
 			"type": "Instant",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/221_UM07 Multi Type.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/221_UM07 Multi Type.jpg"
 			}
 		},
 		{
@@ -2378,7 +2378,7 @@
 			"type": "Legendary Creature",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/224_UM10 Prowess Aggro.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/224_UM10 Prowess Aggro.jpg"
 			}
 		},
 		{
@@ -2388,7 +2388,7 @@
 			"type": "Creature",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/229_UM15 Ramp.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/229_UM15 Ramp.jpg"
 			}
 		},
 		{
@@ -2398,7 +2398,7 @@
 			"type": "Instant",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/223_UM09 Spectacle.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/223_UM09 Spectacle.jpg"
 			}
 		},
 		{
@@ -2408,7 +2408,7 @@
 			"type": "Creature",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/217_UM03 Ward.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/217_UM03 Ward.jpg"
 			}
 		},
 		{
@@ -2421,11 +2421,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/RFA-files/img/234_UA01 Generic Large Flying_back.jpg"
+					"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/234_UA01 Generic Large Flying_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/234_UA01 Generic Large Flying_front.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/234_UA01 Generic Large Flying_front.jpg"
 			}
 		},
 		{
@@ -2435,7 +2435,7 @@
 			"type": "Artifact Creature",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/235_UA02 Incant without Spells.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/235_UA02 Incant without Spells.jpg"
 			}
 		},
 		{
@@ -2445,7 +2445,7 @@
 			"type": "Artifact",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/236_UA03 Manalith.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/236_UA03 Manalith.jpg"
 			}
 		},
 		{
@@ -2455,7 +2455,7 @@
 			"type": "Artifact Creature",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/237_UA04 Toxic Spells.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/237_UA04 Toxic Spells.jpg"
 			}
 		},
 		{
@@ -2465,7 +2465,7 @@
 			"type": "Land",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/240_UL02 River of Tears.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/240_UL02 River of Tears.jpg"
 			}
 		},
 		{
@@ -2475,7 +2475,7 @@
 			"type": "Land",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/253_UL15.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/253_UL15.jpg"
 			}
 		},
 		{
@@ -2485,7 +2485,7 @@
 			"type": "Land",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/252_UL14.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/252_UL14.jpg"
 			}
 		},
 		{
@@ -2495,7 +2495,7 @@
 			"type": "Land",
 			"collector_number": "247",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/247_UL09.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/247_UL09.jpg"
 			}
 		},
 		{
@@ -2505,7 +2505,7 @@
 			"type": "Land",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/248_UL10.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/248_UL10.jpg"
 			}
 		},
 		{
@@ -2515,7 +2515,7 @@
 			"type": "Land",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/246_UL08.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/246_UL08.jpg"
 			}
 		},
 		{
@@ -2525,7 +2525,7 @@
 			"type": "Land",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/241_UL03.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/241_UL03.jpg"
 			}
 		},
 		{
@@ -2535,7 +2535,7 @@
 			"type": "Land",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/239_UL01.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/239_UL01.jpg"
 			}
 		},
 		{
@@ -2545,7 +2545,7 @@
 			"type": "Land",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/244_UL06.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/244_UL06.jpg"
 			}
 		},
 		{
@@ -2555,7 +2555,7 @@
 			"type": "Land",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/243_UL05.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/243_UL05.jpg"
 			}
 		},
 		{
@@ -2565,7 +2565,7 @@
 			"type": "Land",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/245_UL07.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/245_UL07.jpg"
 			}
 		},
 		{
@@ -2575,7 +2575,7 @@
 			"type": "Land",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/242_UL04.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/242_UL04.jpg"
 			}
 		},
 		{
@@ -2585,7 +2585,7 @@
 			"type": "Land",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/249_UL11.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/249_UL11.jpg"
 			}
 		},
 		{
@@ -2595,7 +2595,7 @@
 			"type": "Land",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/250_UL12.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/250_UL12.jpg"
 			}
 		},
 		{
@@ -2605,7 +2605,7 @@
 			"type": "Land",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/251_UL13.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/251_UL13.jpg"
 			}
 		},
 		{
@@ -2615,7 +2615,7 @@
 			"type": "Creature",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/211_RM Anti Lifegain.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/211_RM Anti Lifegain.jpg"
 			}
 		},
 		{
@@ -2625,7 +2625,7 @@
 			"type": "",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/1t_The Incantation.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/1t_The Incantation.jpg"
 			}
 		},
 		{
@@ -2635,7 +2635,7 @@
 			"type": "Creature",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/19_RW The Most Uninspired Card.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/19_RW The Most Uninspired Card.jpg"
 			}
 		},
 		{
@@ -2645,7 +2645,7 @@
 			"type": "Instant",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/192_RI Saccharine Command.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/192_RI Saccharine Command.jpg"
 			}
 		},
 		{
@@ -2655,7 +2655,7 @@
 			"type": "Sorcery",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/214_RM Pawn Off.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/214_RM Pawn Off.jpg"
 			}
 		},
 		{
@@ -2665,7 +2665,7 @@
 			"type": "Planeswalker",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/213_RM Blank Walker.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/213_RM Blank Walker.jpg"
 			}
 		},
 		{
@@ -2678,11 +2678,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/RFA-files/img/18_RW_back.jpg"
+					"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/18_RW_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/18_RW_front.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/18_RW_front.jpg"
 			}
 		},
 		{
@@ -2692,7 +2692,7 @@
 			"type": "Creature",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/53_RU Gravecast.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/53_RU Gravecast.jpg"
 			}
 		},
 		{
@@ -2705,11 +2705,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/RFA-files/img/88_RB_back.jpg"
+					"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/88_RB_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/88_RB_front.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/88_RB_front.jpg"
 			}
 		},
 		{
@@ -2722,11 +2722,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/RFA-files/img/191_RI_back.jpg"
+					"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/191_RI_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/191_RI_front.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/191_RI_front.jpg"
 			}
 		},
 		{
@@ -2736,7 +2736,7 @@
 			"type": "Enchantment",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/89_RB.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/89_RB.jpg"
 			}
 		},
 		{
@@ -2749,11 +2749,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/RFA-files/img/123_RR_back.jpg"
+					"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/123_RR_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/123_RR_front.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/123_RR_front.jpg"
 			}
 		},
 		{
@@ -2766,11 +2766,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mse-hub/sets/RFA-files/img/157_RG_back.jpg"
+					"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/157_RG_back.jpg"
 				}
 			},
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/157_RG_front.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/157_RG_front.jpg"
 			}
 		},
 		{
@@ -2780,7 +2780,7 @@
 			"type": "Creature",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/122_RR.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/122_RR.jpg"
 			}
 		},
 		{
@@ -2790,7 +2790,7 @@
 			"type": "Legendary Creature",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/156_MG 8 Line Mythic.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/156_MG 8 Line Mythic.jpg"
 			}
 		},
 		{
@@ -2800,7 +2800,7 @@
 			"type": "Legendary Creature",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/212_RM Baba Yaga.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/212_RM Baba Yaga.jpg"
 			}
 		},
 		{
@@ -2810,7 +2810,7 @@
 			"type": "Sorcery",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/52_RU.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/52_RU.jpg"
 			}
 		},
 		{
@@ -2820,7 +2820,7 @@
 			"type": "Creature",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/54_RU Obstructionist.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/54_RU Obstructionist.jpg"
 			}
 		},
 		{
@@ -2830,7 +2830,7 @@
 			"type": "Legendary Land",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://mse-hub/sets/RFA-files/img/238_ML.jpg"
+				"en": "https://kogane-yakumo.github.io/mse-hub/sets/RFA-files/img/238_ML.jpg"
 			}
 		}
 	]
